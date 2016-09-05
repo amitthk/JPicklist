@@ -1,0 +1,107 @@
+﻿@inherits System.Web.Mvc.WebViewPage
+@using System.Web.Mvc.Html
+
+@{
+    ViewBag.Title = "JPicklist";
+}
+@section Styles{
+    <link href="/Content/JPickList.css" rel="stylesheet" />
+}
+<script src="/Scripts/handlebars.js"></script>
+<div class="jumbotron">
+    <h1>JPickList</h1>
+
+    <p>
+        This is  the JQuery plugin version of JQPickList. To check the simplified version @Html.ActionLink("click here", "Simpler", "Home")  or select Simplified Version link from above menu.
+    </p>
+
+</div>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Pick Cities</h2>
+        <p> Click Below to Open the CheckBox Picklist.</p>
+        <p><a id="JPickListLink" class="btnlink" href="javascript:void(0)" rel="#JPickListDiv">Cities Picklist &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Selected</h2>
+
+        <div id="divSelectedVal">
+
+        </div>
+
+    </div>
+    <div class="clear">&nbsp;</div>
+    <div id="JPickListDiv">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Pick Time Slots</h2>
+        <p> Click Below to Open the CheckBox Picklist.</p>
+        <p><a id="JTimeSlotsPickListLink" class="btnlink" href="javascript:void(0)" rel="#JTimeSlotsPickListDiv">TimeSlots Picklist &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Selected</h2>
+
+        <div id="divSelectedTimeSlots">
+
+        </div>
+
+    </div>
+    <div class="clear">&nbsp;</div>
+    <div id="JTimeSlotsPickListDiv">
+    </div>
+</div>
+
+<script src="/Scripts/jquery.jpicklist.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var jpl = $('#JPickListDiv').JPickList({ postUrl:'/Home/AllCitiList', onItemsAdded: addItemToPage, onCancel: handleOnCancel });
+        setupHyperLink($('#JPickListLink'));
+
+        var jpl2 = $('#JTimeSlotsPickListDiv').JPickList({ postUrl: '/Home/CalendarPicker', onItemsAdded: addItemToPage2, onCancel: handleOnCancel2 });
+        setupHyperLink($('#JTimeSlotsPickListLink'));
+    });
+
+    function setupHyperLink(hyperlink) {
+        $(hyperlink).click(function (event) {
+            event.preventDefault();
+            var _jPiclListSelector = $(this).attr('rel');
+            $(_jPiclListSelector).dialog({ modal: true, height: 400, width: 520 }).show();
+            //$(_jPiclListSelector).show();
+        });
+    }
+
+    function handleOnCancel(itms) {
+        $('#JPickListDiv').dialog("close");
+        //$('#JPickListDiv').hide();
+    }
+
+    function addItemToPage(itms) {
+        var selectdtempl = '<ul>{{#.}}<li><a href="#" class="btnlink">{{.}}</a></li>{{/.}}</ul>';
+        var templ = Handlebars.compile(selectdtempl);
+        var selhtm = templ(itms);
+
+        $("#divSelectedVal").html(selhtm);
+        $('#JPickListDiv').dialog("close");
+        //$('#JPickListDiv').hide();
+    }
+
+    function handleOnCancel2(itms) {
+        $('#JTimeSlotsPickListDiv').dialog("close");
+        //$('#JTimeSlotsPickListDiv').hide();
+    }
+
+    function addItemToPage2(itms) {
+        var selectdtempl = '<ul>{{#.}}<li><a href="#" class="btnlink">{{.}}</a></li>{{/.}}</ul>';
+        var templ = Handlebars.compile(selectdtempl);
+        var selhtm = templ(itms);
+
+        $("#divSelectedTimeSlots").html(selhtm);
+        $('#JTimeSlotsPickListDiv').dialog("close");
+        //$('#JTimeSlotsPickListDiv').hide();
+    }
+</script>

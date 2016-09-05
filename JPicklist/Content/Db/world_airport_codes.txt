@@ -1,0 +1,8077 @@
+ZMH	108 Mile Ranch
+AAH	Aachen
+ZIU	Aachen
+AAL	Aalborg
+AES	Aalesund
+AAR	Aarhus
+ZBU	Aarhus Limo
+JEG	Aasiaat
+ABD	Abadan
+ABF	Abaiang
+ABA	Abakan
+ABW	Abau
+YXX	Abbotsford
+AAW	Abbottabad
+EAB	Abbse
+AEH	Abecher
+AEA	Abemama Atoll
+OGO	Abengourou
+ABZ	Aberdeen
+APG	Aberdeen
+ABR	Aberdeen
+AHB	Abha
+ABJ	Abidjan
+DYS	Abilene
+ABI	Abilene
+ABB	Abingdon
+ABG	Abingdon
+VJI	Abingdon
+ABO	Aboisso
+AOD	Abou Deia
+AJS	Abreojos
+AUH	Abu Dhabi
+DHF	Abu Dhabi
+AZI	Abu Dhabi
+AEU	Abu Musa
+AUE	Abu Rudeis
+ABS	Abu Simbel
+ABV	Abuja
+ACD	Acandi
+ARF	Acaricuara
+AGV	Acarigua
+ACC	Accra
+ACS	Achinsk
+ACU	Achutupo
+ADT	Ada
+ADK	Adak Island
+ADA	Adana
+UAB	Adana
+AAD	Ad-Dabbah
+ADD	Addis Ababa
+ADL	Adelaide
+XHX	Adelaide
+ADE	Aden
+ADF	Adiyaman
+AER	Adler/Sochi
+AZR	Adrar
+ADG	Adrian
+AEG	Aek Godang
+AFR	Afore
+AFO	Afton
+AFT	Afutara
+AFY	Afyon
+AJY	Agades
+AGA	Agadir
+IXA	Agartala
+AGX	Agatti Island
+AUP	Agaun
+AGF	Agen
+AGZ	Aggeneys
+AKW	Aghajari
+AGW	Agnew
+AGR	Agra
+AJI	Agri
+AGQ	Agrinion
+ACL	Aguaclara
+BQN	Aguadilla
+AGU	Aguascalientes
+AGJ	Aguni
+AHE	Ahe
+XIJ	Ahmed Al Jaber
+AMD	Ahmedabad
+AHS	Ahuas
+AWZ	Ahwaz
+AIW	Ai-Ais
+AIH	Aiambak
+AIK	Aiken
+AIL	Ailigandi
+AIP	Ailinglapalap Island
+AIM	Ailuk Island
+ANW	Ainsworth
+AIE	Aiome
+AEO	Aioun El Atrouss
+WSY	Airlie Beach
+AIC	Airok
+AHL	Aishalton
+ATP	Aitape
+TAJ	Aitape
+AIT	Aitutaki
+XHJ	Aix La Chapelle
+AYU	Aiyura
+AJL	Aizawl
+AJA	Ajaccio
+AKK	Akhiok
+KKI	Akiachak
+AKI	Akiak
+AKE	Akieni
+AXT	Akita
+AJJ	Akjoujt
+LAK	Aklavik
+AKD	Akola
+AKO	Akron
+CAK	Akron/Canton
+AKC	Akron/Canton
+AKT	Akrotiri
+AKU	Aksu
+SCO	Aktau
+AKX	Aktyubinsk
+AKV	Akulivik
+QCU	Akunnaaq
+AKR	Akure
+AEY	Akureyri
+KQA	Akutan
+XXR	Al
+AAN	Al Ain
+AAC	Al Arish
+AAY	Al Ghaydah
+AHU	Al Hoceima
+AKH	Al Kharj
+WWG	Al Koude
+SOR	Al Thaurah
+XJD	Al Udeid
+AAV	Alah
+HOF	Alahsa
+AUK	Alakanuk
+NGZ	Alameda
+HMN	Alamogordo
+ALM	Alamogordo
+XAL	Alamos
+ALS	Alamosa
+ABC	Albacete
+ABT	Al-Baha
+NAB	Albany
+ABY	Albany
+ALB	Albany
+ZLY	Albany
+CVO	Albany
+ALH	Albany
+ALL	Albenga
+AEL	Albert Lea
+LBI	Albi
+ABN	Albina
+BUK	Albuq
+ABQ	Albuquerque
+ABX	Albury
+AYH	Alconbury
+ADH	Aldan
+ACI	Alderney
+LEG	Aleg
+ALQ	Alegrete
+WKK	Aleknagik
+AED	Aleneva
+ALT	Alenquer
+ALP	Aleppo
+YLT	Alert
+YAL	Alert Bay
+ALD	Alerta
+ALJ	Alexander Bay
+ALX	Alexander City
+ALR	Alexandra
+HBE	Alexandria
+ALY	Alexandria
+AEX	Alexandria
+ESF	Alexandria
+AXN	Alexandria
+AXL	Alexandria
+AXB	Alexandria Bay
+AXD	Alexandroupolis
+FJR	Al-Fujairah
+AEI	Algeciras
+AHO	Alghero
+ALG	Algiers
+AXG	Algona
+ALC	Alicante
+ALI	Alice
+ZAA	Alice Arm
+ASP	Alice Springs
+XHW	Alice Springs
+AIV	Aliceville
+AII	Alisabieh
+ALZ	Alitak
+AJO	Aljouf
+IXD	Allahabad
+AET	Allakaket
+ADY	Alldays
+AIA	Alliance
+LLU	Alluitsup Paa
+AMN	Alma
+YTF	Alma
+ALA	Almaty
+AMJ	Almenara
+LEI	Almeria
+IXV	Along
+ARD	Alor Island
+AOR	Alor Setar
+GUR	Alotau
+AWE	Alowe
+AHZ	Alpe D Huez
+APN	Alpena
+ABH	Alpha
+ALE	Alpine
+AYD	Alroy Downs
+ALF	Alta
+AFL	Alta Floresta
+YAE	Alta Lake
+LTI	Altai
+ATM	Altamira
+AAT	Altay
+AOC	Altenburg
+ACH	Altenrhein
+AME	Alto Molocue
+WAP	Alto Palena
+APY	Alto Parnaiba
+ARR	Alto Rio Senguerr
+ALN	Alton
+AWN	Alton Downs
+LTS	Altus
+AXS	Altus
+ALU	Alula
+XJA	Alvdal
+XXA	Alvesta
+AQY	Alyeska
+AMC	Am Timan
+AMF	Ama
+AHI	Amahai
+AFI	Amalfi
+ASJ	Amami O Shima
+AMU	Amanab
+AMA	Amarillo
+TDW	Amarillo
+AMT	Amata
+AZB	Amazon Bay
+IVA	Ambanja
+ATF	Ambato
+AHY	Ambatolahy
+AMY	Ambatomainty
+WAM	Ambatondrazaka
+AMB	Ambilobe
+ABL	Ambler
+AMG	Amboin
+AMQ	Ambon
+ASV	Amboseli
+AZZ	Ambriz
+AUJ	Ambunti
+AHT	Amchitka
+AMV	Amderma
+RCN	American River
+AHH	Amery
+AMW	Ames
+AYZ	Amityville
+ADJ	Amman
+AMM	Amman
+AMX	Ammaroo
+AOS	Amook
+YEY	Amos
+AMP	Ampanihy
+ADP	Ampara
+AFK	Ampara
+ATQ	Amritsar
+AMS	Haarlemmermeer
+AVA	An Shun
+AAA	Anaa
+AAO	Anaco
+OTS	Anacortes
+NDV	Anacostia
+DYR	Anadyr
+ANA	Anaheim
+YAA	Anahim Lake
+AKP	Anaktuvuk
+HVA	Analalava
+AAQ	Anapa
+APS	Anapolis
+EDF	Anchorage
+ANC	Anchorage
+MRI	Anchorage
+AOI	Ancona
+ZUD	Ancud
+ANS	Andahuaylas
+ADC	Andakombe
+ADO	Andamooka
+ZWA	Andapa
+ANX	Andenes
+AID	Anderson
+AND	Anderson
+ADN	Andes
+AZN	Andizhan
+ALV	Andorra La Vella
+ADV	Andover
+ADR	Andrews
+WAD	Andriamena
+ASD	Andros Town
+ANL	Andulo
+NGD	Anegada
+AUY	Aneityum
+AXX	Angel Fire
+AGH	Angelholm/Helsingborg
+XYQ	Angelholm/Helsingborg
+JHE	Angelholm/Helsingborg
+XYH	Angelholm/Helsingborg
+ANE	Angers
+AGD	Anggi
+YAX	Angling Lake
+ANO	Angoche
+ANQ	Angola
+AGN	Angoon
+AGG	Angoram
+ANG	Angouleme
+AKG	Anguganak
+AXA	Anguilla
+RFK	Anguilla
+ANZ	Angus Downs
+ANI	Aniak
+AIB	Anita Bay
+AWD	Aniwa
+AJN	Anjouan
+AKA	Ankang
+ESB	Ankara
+ANK	Ankara
+JVA	Ankavandra
+WAK	Ankazoabo
+NKO	Ankokoambo
+WOR	Ankorefo
+ARB	Ann Arbor
+AAE	Annaba
+NAI	Annai
+AOB	Annanberg
+ANP	Annapolis
+NCY	Annecy
+ANN	Annette Island
+ANB	Anniston
+QAW	Anniston
+RLI	Anniston
+AQG	Anqing
+AOG	Anshan
+ATA	Anta
+ANM	Antalaha
+AYT	Antalya
+TNR	Antananarivo
+ANY	Anthony
+AYL	Anthony Lagoon
+ANU	Antigua
+EUQ	Antique
+ATE	Antlers
+ANF	Antofagasta
+WAQ	Antsalova
+ATJ	Antsirabe
+DIE	Antsiranana
+WAI	Antsohihy
+ZYZ	Antwerp
+ZAY	Antwerp
+ANR	Antwerp
+ANH	Anuha Island Resort
+ACJ	Anuradhapura
+ANV	Anvik
+AYN	Anyang
+AOJ	Aomori
+AOT	Aosta
+AAF	Apalachicola
+AAS	Apalapsili
+APO	Apartado
+APK	Apataki
+AZG	Apatzingan
+FGI	Apia
+APW	Apia
+API	Apiay
+APB	Apolo
+APV	Apple Valley
+ATW	Appleton
+APR	April River
+APU	Apucarana
+AQJ	Aqaba
+AJK	Araak
+AJU	Aracaju
+ARU	Aracatuba
+ARW	Arad
+ARS	Aragarcas
+ARP	Aragip
+AUX	Araguaina
+AXC	Aramac
+ADI	Arandis
+AAK	Aranuka
+AHF	Arapahoe
+APQ	Arapiraca
+APX	Arapongas
+AAG	Arapoti
+RAE	Arar
+ACR	Araracuara
+AQA	Araraquara
+ARY	Ararat
+AUC	Arauca
+ARQ	Arauquita
+RAW	Arawa
+AAX	Araxa
+AMH	Arba Mintch
+ARO	Arboletas
+ACV	Arcata
+YAB	Arctic Bay
+ARC	Arctic Village
+ADU	Ardabil
+AMZ	Ardmore
+AHD	Ardmore
+ADM	Ardmore
+ARE	Arecibo
+AQP	Arequipa
+NWP	Argentia
+GYL	Argyle
+AGY	Argyle Downs
+XAR	Aribinda
+ARI	Arica
+ACM	Arica
+AIR	Aripuana
+AQM	Ariquemes
+AYK	Arkalyk
+ARH	Arkhangelsk
+JLH	Arlington Heights
+RLT	Arlit
+ARL	Arly
+AXM	Armenia
+ARM	Armidale
+YYW	Armstrong
+XHT	Arna
+YNR	Arnes
+AMR	Arno
+AOA	Aroa
+AON	Arona
+RNA	Arona
+AIS	Arorae Island
+AAB	Arrabury
+AAI	Arraias
+ARJ	Arso
+JRK	Arsuk
+ATS	Artesia
+ATI	Artigas
+RUA	Arua
+AUA	Aruba
+ZFU	Aruja
+ARK	Arusha
+AXR	Arutua
+AVK	Arvaikheer
+YEK	Arviat
+AJR	Arvidsjaur
+AKJ	Asahikawa
+YEH	Asaloyeh
+APP	Asapa
+AAU	Asau
+YAF	Asbestos Hill
+ARX	Neptune, NJ
+ASC	Ascension
+ACO	Ascona
+AEK	Aseki
+ALK	Asela
+ASG	Ashburton
+YZA	Ashcroft
+ASB	Ashgabat
+ASX	Ashland
+ASY	Ashley
+ASZ	Asirim
+ASM	Asmara
+ASO	Asosa
+ASE	Aspen
+ASA	Assab
+AIF	Assis
+ATZ	Assiut
+TSE	Astana
+AST	Astoria
+ASF	Astrakhan
+AKQ	Astraksetra
+OVD	Asturias
+JTY	Astypalaia Island
+ASU	Asuncion
+ASW	Aswan
+ABU	Atambua
+AXK	Ataq
+ATR	Atar
+AUT	Atauro
+ATB	Atbara
+ATX	Atbasar
+AHN	Athens
+ATH	Athens
+HEW	Athens
+ATO	Athens
+MMI	Athens
+ATV	Ati
+YIB	Atikokan
+AIU	Atiu Island
+AKB	Atka
+ABP	Atkamba
+JAO	Atlanta
+PDK	Atlanta
+FTY	Atlanta
+JGL	Atlanta
+ATL	Atlanta
+JAJ	Atlanta
+JAE	Atlanta
+AIO	Atlantic
+ACY	Atlantic City
+AIY	Atlantic City
+JSL	Atlantic City
+ATT	Atmautluak
+ATD	Atoifi
+ATK	Atqasuk
+NJA	Atsugi
+YAT	Attawapiskat
+ATG	Attock
+AOU	Attopeu
+QGQ	Attu
+ATU	Attu Island
+AUQ	Atuona
+GUW	Atyrau
+AUI	Aua Island
+JAH	Aubagne
+OBS	Aubenas
+AUO	Auburn
+AUN	Auburn
+AKL	Auckland
+MHB	Auckland
+ZAU	Aue
+AGS	Augusta
+DNL	Augusta
+AUG	Augusta
+AUD	Augustus Downs
+AUV	Aumo
+YPJ	Aupaluk
+AUL	Aur Island
+IXU	Aurangabad
+AUR	Aurillac
+AUZ	Aurora
+AUU	Aurukun Mission
+AUM	Austin
+ASQ	Austin
+MMR	Austin
+AWP	Austral Downs
+AVG	Auvergne
+AUF	Auxerre
+XYP	Avesta Krylbo
+AVB	Aviano
+XZN	Avignon
+AVN	Avignon
+AVO	Avon Park
+AVF	Avoriaz
+AVU	Avu Avu
+AWB	Awaba
+AWR	Awar
+AAJ	Awaradam
+AWH	Awareh
+AWA	Awassa
+AXU	Axum
+AYC	Ayacucho
+AYP	Ayacucho
+AYA	Ayapel
+AYW	Ayawasi
+AYQ	Ayers Rock
+AYO	Ayolas
+AYR	Ayr
+BFJ	Ba
+HBL	Babelegi
+BXB	Babo
+BBL	Babolsar
+BCJ	Baca Grande
+BCM	Bacau
+BCD	Bacolod
+BJZ	Badajoz
+BXD	Bade
+BDN	Badin
+BDD	Badu Island
+BFX	Bafoussam
+BPE	Bagan
+BNQ	Baganga
+BQI	Bagani
+BGT	Bagdad
+IXB	Bagdogra
+BGX	Bage
+BGW	Baghdad
+SDA	Baghdad
+BGL	Baglung
+YBG	Bagotville
+BAG	Baguio
+BJR	Bahar Dar
+WGB	Bahawalnagar
+BHV	Bahawalpur
+BHL	Bahia Angeles
+BHI	Bahia Blanca
+BHF	Bahia Cupica
+BHA	Bahia De Caraquez
+BFA	Bahia Negra
+BFQ	Bahia Pinas
+BSC	Bahia Solano
+BAH	Manama
+IAQ	Bahregan
+BAY	Baia Mare
+BAP	Baibara
+BIB	Baidoa
+YBC	Baie Comeau
+YBJ	Baie Johan Beetz
+VMU	Baimuru
+BGE	Bainbridge
+BDZ	Baindoung
+BSJ	Bairnsdale
+BIT	Baitadi
+BJW	Bajawa
+BJH	Bajhang
+BJN	Bajone
+BJU	Bajura
+BKM	Bakalalan
+BXE	Bakel
+BKE	Baker
+BAR	Baker Island
+YBK	Baker Lake
+BFL	Bakersfield
+BJD	Bakkafjordur
+BMF	Bakouma
+ZXT	Baku
+XQC	Balad
+BWO	Balakovo
+BAS	Balalae
+SOB	Balaton
+BLB	Balboa
+LCN	Balcanoona
+BQA	Baler
+BQW	Balgo Hills
+BXH	Balhash
+BLC	Bali
+BAJ	Bali
+BZI	Balikesir
+MQJ	Balikesir
+BPN	Balikpapan
+OPU	Balimo
+BNK	Ballina
+BOL	Bally Kelly
+BBA	Balmaceda
+BZD	Balranald
+BSS	Balsas
+GBO	Baltimore
+ZBP	Baltimore
+MTN	Baltimore
+BMR	Baltrum
+RGH	Balurghat
+BXR	Bam
+ABM	Bamaga
+BKO	Bamako
+BBY	Bambari
+BCP	Bambu
+BMQ	Bamburi
+BPC	Bamenda
+BMN	Bamerny
+YBF	Bamfield
+BIN	Bamiyan
+BMZ	Bamu
+OUI	Ban Houei
+BAO	Ban Mak Khaen
+NAF	Banaina
+BTJ	Banda Aceh
+NDA	Bandanaira
+BND	Bandar Abbas
+TKG	Bandar Lampung
+BDH	Bandar Lengeh
+MRX	Bandar Mahshahr
+BWN	Bandar Seri Begawan
+BDM	Bandirma
+BDY	Bandon
+FDU	Bandundu
+BDO	Bandung
+YBA	Banff
+BNR	Banfora
+BLR	Bangalore
+BGU	Bangassou
+BPX	Bangda
+BKK	Bangkok
+BGR	Bangor
+BGF	Bangui
+BYX	Baniyala
+BNX	Banja Luka
+BDJ	Banjarmasin
+BJL	Banjul
+BWU	Sydney
+BMV	Banmethuot
+BNG	Banning
+BNP	Bannu
+BYT	Bantry
+BNZ	Banz
+BSD	Baoshan
+BAV	Baotou
+BPD	Bapi
+XQV	Baqubah
+BHB	Bar Harbor
+BCA	Baracoa
+BRX	Barahona
+VEV	Barakoma
+BMJ	Baramita
+BNF	Baranof
+BAZ	Barbelos
+NAX	Barbers Point
+BBQ	Barbuda
+BCI	Barcaldine
+BCN	Barcelona
+BLA	Barcelona
+BAE	Barcelonnette
+BSY	Bardera
+BRY	Bardstown
+BDU	Bardufoss
+BEK	Bareli
+BRI	Bari
+BNS	Barinas
+BBN	Bario
+BZL	Barisal
+BKP	Barkly Downs
+BAX	Barnaul
+BNL	Barnwell
+RRI	Barora
+BRM	Barquisimeto
+BQQ	Barra
+BRR	Barra
+BCL	Barra Colorado
+BDC	Barra Do Corda
+BPG	Barra Do Garcas
+BAC	Barranca De Upia
+EJA	Barrancabermeja
+NBB	Barrancominas
+BAQ	Barranquilla
+BRA	Barreiras
+BRB	Barreirinhas
+BAT	Barretos
+PBA	Barrow
+BRW	Barrow
+BWB	Barrow Island
+BWF	Barrow-In-Furness
+BTI	Barter Island
+BBH	Barth
+GFO	Bartica
+BVO	Bartlesville
+BSZ	Bartletts
+BOW	Bartow
+UUN	Baruun-Urt
+BSU	Basankusu
+BSO	Basco
+ZBA	Basel/Mulhouse
+BAN	Basongo
+BSR	Basra
+BBR	Basse Terre
+BSX	Bassein
+BIA	Bastia
+BSG	Bata
+BTH	Batam
+BTG	Batangafo
+BVW	Batavia Downs
+BVX	Batesville
+HLB	Batesville
+ZBF	Bathurst
+BHS	Bathurst
+BRT	Bathurst Island
+BAL	Batman
+BLJ	Batna
+BXM	Batom
+EBR	Baton Rouge
+BTR	Baton Rouge
+OUR	Batouri
+BJF	Batsfjord
+BBM	Battambang
+BTC	Batticaloa
+BTL	Battle Creek
+BAM	Battle Mountain
+BTW	Batu Licin
+BUS	Batumi
+BPF	Batuna
+BUW	Baubau
+BCH	Baucau
+BCU	Bauchi
+BDE	Baudette
+BVL	Baures
+BAU	Bauru
+BWJ	Bawan
+BBC	Bay City
+BYM	Bayamo
+BYN	Bayankhongor
+BYU	Bayreuth
+HPY	Baytown
+BZB	Bazaruto Island
+BEE	Beagle Bay
+WBE	Bealanana
+BCC	Bear Creek
+XBE	Bearskin Lake
+BIE	Beatrice
+YZC	Beatton River
+BTY	Beatty
+BFT	Beaufort
+BMT	Beaumont
+BPT	Beaumont
+WBQ	Beaver
+YXQ	Beaver Creek
+BFP	Beaver Falls
+BVD	Beaver Inlet
+CBH	Bechar
+BKW	Beckley
+BFR	Bedford
+BDW	Bedford Downs
+BED	Bedford/Hanscom
+BEU	Bedourie
+YBW	Bedwell Harbor
+EIS	Beef Island
+BEV	Beer Sheba
+NIR	Beeville
+WBD	Befandriana
+BEI	Beica
+LAQ	Beida
+BYD	Beidah
+BHY	Beihai
+BHN	Beihan
+PEK	Beijing
+NAY	Beijing
+BEW	Beira
+BEY	Beirut
+BJA	Bejaia
+OVA	Bekily
+BLG	Belaga
+BXF	Belburn
+BEL	Belem
+BMY	Belep Island
+BHD	Belfast
+BFS	Belfast
+BOR	Belfort
+IXG	Belgaum
+EGO	Belgorod
+BJY	Belgrade
+BEG	Belgrade
+TZA	Belize City
+BZE	Belize City
+KBE	Bell Island
+ZEL	Bella Bella
+QBC	Bella Coola
+BUV	Bella Union
+BYL	Bella Yella
+ACB	Bellaire
+BEP	Bellary
+BLP	Bellavista
+BCS	Belle Chasse
+PSB	Bellefonte
+BLV	Belleville
+BLI	Bellingham
+BNY	Bellona
+BLX	Belluno
+BLM	Belmar
+BVM	Belmonte
+BCV	Belmopan
+BLY	Belmullet
+BMD	Belo
+PLU	Belo Horizonte
+BCX	Beloreck
+BZY	Beltsy
+BVU	Beluga
+BBP	Bembridge
+BCG	Bemichi
+BJI	Bemidji
+BLN	Benalla
+BEB	Benbecula
+BXG	Bendigo
+BFU	Bengbu
+BEN	Benghazi
+BKS	Bengkulu
+BUG	Benguela
+BCW	Benguera Island
+BNC	Beni
+BNI	Benin City
+BJK	Benjina
+BTN	Bennettsville
+BSP	Bensbach
+BEX	Benson
+BBB	Benson
+BGV	Bento Goncalves
+BEH	Benton Harbor
+BJT	Bentota River
+BPU	Beppu
+BEJ	Berau
+BBO	Berbera
+BBT	Berberati
+ERD	Berdyansk
+BBV	Bereby
+BEA	Bereina
+YBV	Berens River
+BGO	Bergen
+BZM	Bergen Op Zoom
+EGC	Bergerac
+XUB	Berkak
+JBK	Berkeley
+BVG	Berlevag
+QWC	Berlin
+GWW	Berlin
+SXF	Berlin
+TXL	Berlin
+THF	Berlin
+BML	Berlin
+BJO	Bermejo
+BDA	Bermuda
+NWU	Bermuda
+BRN	Berne
+WBO	Beroroha
+BTA	Yaoundé
+BEZ	Beru
+BSV	Besakoa
+BPY	Besalampy
+BET	Bethel
+JBT	Bethel
+BPA	Bethpage
+BKU	Betioky
+BTX	Betoota
+BTB	Betou
+BTT	Bettles
+BVZ	Beverley Springs
+BVY	Beverly
+BWP	Bewani
+BZR	Beziers
+BDP	Bhadrapur
+BWA	Bhairawa
+BMO	Bhamo
+BHR	Bharatpur
+BUP	Bhatinda
+BHU	Bhavnagar
+BHP	Bhojpur
+BHO	Bhopal
+BBI	Bhubaneswar
+BHJ	Bhuj
+BHC	Bhurban
+BIK	Biak
+BAA	Bialla
+BPK	Biangabip
+BIQ	Biarritz
+BRP	Biaru
+BAW	Biawonque
+BCZ	Bickerton Island
+BFE	Bielefeld
+GBA	Big Bay
+YIG	Big Bay Marina
+YYA	Big Bay Yacht Club
+RBF	Big Bear
+BBE	Big Bell
+BIC	Big Creek
+BGK	Big Creek
+BIG	Big Delta
+BGQ	Big Lake
+BMX	Big Mountain
+BPI	Big Piney
+WBR	Big Rapids
+HCA	Big Spring
+BGS	Big Spring
+YTL	Big Trout
+BKB	Bikaner
+BII	Bikini Atoll
+PAB	Bilaspur
+BIO	Bilbao
+BIU	Bildudalur
+BIJ	Biliau
+BIW	Billiluna
+BIL	Billings
+BLL	Billund
+ZBL	Biloela
+BIX	Biloxi
+BMU	Bima
+BIZ	Bimin
+BIM	Bimini
+NSB	Bimini
+XBN	Biniguni
+BTU	Bintulu
+ZMK	Bintulu
+NTI	Bintuni
+IRO	Birao
+BIR	Biratnagar
+KBC	Birch Creek
+BDI	Bird Island
+BVI	Birdsville
+XBJ	Birjand
+BHM	Birmingham
+ZBC	Birmingham
+BHX	Birmingham
+BKN	Birni Nkoni
+BSQ	Bisbee
+BHH	Bisha
+BSM	Bishe-Kola
+FRU	Bishkek
+BIY	Bisho
+BIH	Bishop
+BSK	Biskra
+BPH	Bislig
+BIS	Bismarck
+OXB	Bissau
+BMM	Bitam
+BBJ	Bitburg
+BZP	Bizant
+ZMZ	Bjerka
+YBI	Black Tickle
+BKQ	Blackall
+BBS	Yateley
+BLK	Blackpool
+BCB	Blacksburg
+BKT	Blackstone
+BLT	Blackwater
+BWL	Blackwell
+BQS	Blagoveschensk
+BWS	Blaine
+BSI	Blairsville
+BYW	Blakely Island
+YBX	Blanc Sablon
+BDG	Blanding
+BLZ	Blantyre
+BHE	Blenheim
+BID	Block Island
+BLO	Blonduos
+YDV	Bloodvein
+BFC	Bloomfield
+BMG	Bloomington
+BMI	Bloomington-Normal
+XBB	Blubber Bay
+BBX	Blue Bell
+BLU	Blue Canyon
+BFB	Blue Fox Bay
+BXL	Blue Lagoon
+BEF	Bluefields
+BNU	Blumenau
+BLH	Blythe
+BYH	Blytheville
+HKA	Blytheville
+KBS	Bo
+BVC	Boa Vista
+BVB	Boa Vista
+BNV	Boana
+BOV	Boang
+OZI	Bobadilla
+BOY	Bobo Dioulasso
+YBO	Bobquinn Lake
+BCR	Boca Do Acre
+BCT	Boca Raton
+BOC	Bocas Del Toro
+BNM	Bodinumu
+BOO	Bodo
+BXN	Bodrum
+BJV	Bodrum.
+PHM	Boeblingen
+BNB	Boende
+BXA	Bogalusa
+XBG	Bogande
+BGH	Boghe
+BOG	Bogota
+GIC	Boigu Island
+BOI	Boise
+BJB	Bojnord
+BKJ	Boke
+BUI	Bokondini
+BKR	Bokoro
+BOQ	Boku
+BWK	Bol
+OTC	Bol
+BJG	Bolaang
+BLS	Bollon
+BLQ	Bologna
+BVP	Bolovip
+BCK	Bolwarra
+BZO	Bolzano
+LAZ	Bom Jesus Da Lapa
+BOA	Boma
+BMH	Bomai
+BON	Bonaire
+BZA	Bonanza
+YVB	Bonaventure
+BDK	Bondoukou
+BGP	Bongo
+OGR	Bongor
+BGG	Bongouanou
+BYO	Bonito
+YBY	Bonnyville
+BXT	Bontang
+BTE	Bonthe
+BNW	Boone
+BGB	Booue
+BOB	Bora Bora
+BXX	Borama
+RBB	Borba
+BOD	Bordeaux
+ZFQ	Bordeaux
+YBN	Borden
+BMW	Bordj Badji Mokhtar
+BGJ	Borgarfjordur Eystri
+BGD	Borger
+BPB	Boridi
+BMK	Borkum
+XYB	Borlange/Falun
+BLE	Borlange/Falun
+RNN	Bornholm
+RLU	Bornite
+BRZ	Borotou
+BXS	Borrego Springs
+BOX	Borroloola
+BOT	Boset
+BSN	Bossangoa
+BSA	Bossaso
+BEM	Bossembele
+BST	Bost
+ZTY	Boston
+JBC	Boston
+ZRU	Boston
+ZTO	Boston
+BOS	Boston
+BSW	Boswell Bay
+BTO	Botopasie
+BYK	Bouake
+BOP	Bouar
+BCF	Bouca
+WBI	Boulder
+WHH	Boulder
+WBU	Boulder
+BLD	Boulder City
+BQL	Boulia
+XBO	Boulsa
+BQO	Bouna
+BYA	Boundary
+BXI	Boundiali
+BOE	Boundji
+BTF	Bountiful
+BOJ	Bourgas
+BOU	Bourges
+BRK	Bourke
+BOH	Bournemouth
+BUJ	Boussaada
+OUT	Bousso
+OTL	Boutilimit
+ZBO	Bowen
+BWG	Bowling Green
+APH	Bowling Green
+BWM	Bowman
+BXC	Boxborough
+BZN	Bozeman
+ZBN	Bozen
+BOZ	Bozoum
+BCQ	Brack
+BRF	Bradford
+ZFC	Bradford
+BDF	Bradford
+BFD	Bradford
+BBD	Brady
+BGZ	Braga
+BGC	Braganca
+BJP	Braganca Paulista
+BRH	Brahman
+BRD	Brainerd
+WXF	Braintree
+BMP	Brampton Island
+LKZ	Brandon
+YBR	Brandon
+PLK	Branson/Point Lookout
+BSB	Brasilia
+BTS	Bratislava
+BTK	Bratsk
+BWE	Braunschweig
+BVR	Brava
+BWC	Brawley
+BZT	Brazoria
+BZV	Brazzaville
+QKB	Breckenridge
+BKD	Breckenridge
+GLZ	Breda
+XGZ	Bregenz
+BXV	Breiddalsvik
+BRE	Bremen
+BRV	Bremerhaven
+PWT	Bremerton
+BQT	Brest
+BES	Brest
+BVS	Breves
+BWQ	Brewarrina
+BIV	Bria
+BZK	Briansk
+BDR	Bridgeport
+BGI	Bridgetown
+BMC	Brigham City
+BRJ	Bright
+BSH	Brighton
+BHT	Brighton Downs
+BDS	Brindisi
+BNE	Brisbane
+BRS	Bristol
+QQS	Britrail Rail Zone S
+TTO	Britton
+BVE	Brive-La-Gaillarde
+BZZ	Brize Norton
+BRQ	Brno
+BDX	Broadus
+YDR	Broadview
+YBT	Brochet
+XBR	Brockville
+BBW	Broken Bow
+BHQ	Broken Hill
+ZBM	Bromont
+BNN	Bronnoysund
+YBM	Bronson Creek
+BOK	Brookings
+BKX	Brookings
+BKF	Brooks Lake
+RBH	Brooks Lodge
+BME	Broome
+BJC	Broomfield
+BRO	Brownsville
+BWD	Brownwood
+BGN	Brueggen
+BMS	Brumado
+ZVB	Brumunddal
+BTD	Brunette Downs
+BQK	Brunswick
+SSI	Brunswick
+NHZ	Brunswick
+BHG	Brus Laguna
+CRL	Brussels
+ZYR	Brussels
+BRU	Brussels
+CFD	Bryan
+BCE	Bryce
+BVF	Bua
+BQE	Bubaque
+BGA	Bucaramanga
+UCN	Buchanan
+YZM	Buchans
+BBU	Bucharest
+OTP	Bucharest
+BXK	Buckeye
+BKC	Buckland
+XXJ	Budapest
+BUD	Budapest
+XXQ	Budapest
+BUN	Buenaventura
+AEP	Buenos Aires
+EZE	Buenos Aires
+BAI	Buenos Aires
+ZFZ	Buffalo
+ZXS	Buffalo
+BYG	Buffalo
+YVT	Buffalo Narrows
+BFO	Buffalo Range
+UUA	Bugulma
+UBI	Buin
+BJM	Bujumbura
+BUA	Buka
+BKY	Bukavu
+BHK	Bukhara
+BKZ	Bukoba
+BUQ	Bulawayo
+BCY	Bulchi
+UGA	Bulgan
+BIP	Bulimba
+YBH	Bull Harbour
+BFG	Bullfrog Basin
+IFP	Bullhead City
+BUL	Bulolo
+BMB	Bumba
+BZH	Bumi Hills
+BUY	Bunbury
+BDB	Bundaberg
+BNT	Bundi
+BUX	Bunia
+XBL	Buno Bedelle
+BXZ	Bunsil
+BYQ	Bunyu
+BXO	Buochs
+UOL	Buol
+RMB	Buraimi
+BUO	Burao
+BUR	Burbank
+LEV	Bureta
+URD	Burg Feuerstein
+BFV	Buri Ram
+BUC	Burketown
+BRL	Burlington
+BBF	Burlington
+BTV	Burlington
+BWT	Burnie
+BNO	Burns
+YPZ	Burns Lake
+BTZ	Bursa
+YEI	Bursa
+BUT	Burtonwood
+BXJ	Burundai
+YDB	Burwash Landings
+BUB	Burwell
+BEQ	Bury St Edmunds
+PUS	Busan
+BUZ	Bushehr
+BQB	Bussellton
+USU	Busuanga
+BZU	Buta
+BTQ	Butare
+BBG	Butaritari
+BUM	Butler
+BTP	Butler
+BTM	Butte
+BWH	Butterworth
+UTE	Butterworth
+BXU	Butuan
+BUU	Buyo
+BZC	Buzios
+BZG	Bydgoszcz
+CAH	Ca Mau
+CBS	Cabimas
+CBZ	Cabin Creek
+CAB	Cabinda
+CFB	Cabo Frio
+CBJ	Cabo Rojo
+CFC	Cacador
+CCX	Caceres
+CCQ	Cachoeira
+CDI	Cachoeiro Itapemirim
+OAL	Cacoal
+CAD	Cadillac
+CDZ	Cadiz
+CFR	Caen
+CFF	Cafunfo
+CGY	Cagayan De Oro
+CDY	Cagayan De Sulu
+CAG	Cagliari
+CHE	Caherciveen
+ZAO	Cahors
+CMZ	Caia
+CXA	Caicara De Oro
+CGV	Caiguna
+CNS	Cairns
+CAI	Cairo
+CIR	Cairo
+CJA	Cajamarca
+CBQ	Calabar
+CLZ	Calabozo
+CQF	Calais
+CJC	Calama
+CYP	Calbayog
+CLV	Caldas Novas
+CDW	Caldwell
+CDE	Caledonia
+CVI	Caleta Olivia
+CXL	Calexico
+YYC	Calgary
+CLO	Cali
+CLR	Calipatria
+CWG	Callaway Gardens
+CUD	Caloundra
+CTO	Calverton
+CLY	Calvi
+CMW	Camaguey
+CBG	Cambridge
+JHY	Cambridge
+CGE	Cambridge
+YCB	Cambridge Bay
+CDH	Camden
+CDU	Camden
+CDN	Camden
+CMT	Cameta
+CFI	Camfield
+CGM	Camiguin
+CAM	Camiri
+CMC	Camocim
+CML	Camooweal
+VOK	Camp Douglas
+ADW	Camp Springs
+NSF	Camp Springs
+YBL	Campbell River
+YHH	Campbell River
+CWP	Campbellpore
+CAL	Campbeltown
+CPE	Campeche
+CPV	Campina Grande
+CPQ	Campinas
+CZZ	Campo
+CGR	Campo Grande
+CBW	Campo Mourao
+CAW	Campos
+VCA	Can Tho
+NBV	Cana Brava
+CAJ	Canaima
+CKZ	Canakkale
+CNA	Cananea
+CQA	Canarana
+CSC	Canas
+CNV	Canavieiras
+CBR	Canberra
+CUN	Cancun
+CXN	Candala
+CJD	Candilejas
+CDL	Candle
+CNZ	Cangamba
+JCA	Cannes
+CEQ	Cannes
+QYW	Cannes
+CBY	Canobie
+CNE	Canon City
+CIW	Canouan Island
+CTK	Canton
+CIS	Canton Island
+CAP	Cap Haitien
+CSK	Cap Skirring
+KNP	Capanda
+CBI	Cape Barren Island
+YTE	Cape Dorset
+CEL	Cape Eleuthera
+CQP	Cape Flattery
+CGI	Cape Girardeau
+CGC	Cape Gloucester
+LUR	Cape Lisburne
+EHM	Cape Newenham
+CPI	Cape Orford
+CPA	Cape Palmas
+CZP	Cape Pole
+CPN	Cape Rodney
+CZF	Cape Romanzof
+CSP	Cape Spencer
+CSJ	Cape St Jacques
+YCJ	Cape St James
+CPT	Cape Town
+CVL	Cape Vogel
+PRJ	Capri
+LHU	Caprivi
+CPB	Capurgana
+CQT	Caquetania
+CBD	Car Nicobar
+CCS	Caracas
+CKS	Carajas
+CSB	Caransebes
+CAF	Carauari
+CRQ	Caravelas
+MDH	Carbondale
+CCF	Carcassonne
+CWL	Cardiff
+CAR	Caribou
+YCI	Caribou Island
+CCO	Carimagua
+CAX	Carlisle
+CNM	Carlsbad
+CRY	Carlton Hill
+CMM	Carmelita
+CPG	Carmen De Patagones
+CVQ	Carnarvon
+CRF	Carnot
+CLN	Carolina
+VCR	Carora
+CFP	Carpentaria Downs
+CRU	Carriacou Is
+RIK	Carrillo
+CZT	Carrizo Springs
+CIN	Carroll
+CSN	Carson City
+CTG	Cartagena
+CRC	Cartago
+CTE	Carti
+YCV	Cartierville
+YRF	Cartwright
+CAU	Caruaru
+CUP	Carupano
+CUO	Caruru
+CTP	Carutapera
+CGZ	Casa Grande
+CAS	Casablanca
+CMN	Casablanca
+CZK	Cascade Locks
+CAC	Cascavel
+CUV	Casigua
+CGG	Casiguran
+CSI	Casino
+CPR	Casper
+CSS	Cassilandia
+CST	Castaway
+CLB	Castlebar
+YCG	Castlegar
+DCM	Castres
+WCA	Castro
+CSR	Casuarito
+CXY	Cat Cays
+CAT	Cat Island
+YAC	Cat Lake
+CAA	Catacamas
+TLZ	Catalao
+CIB	Catalina Island
+SXC	Catalina Island
+AVX	Catalina Island
+TWH	Catalina Island
+CTC	Catamarca
+CTA	Catania
+CRM	Catarman
+MPH	Caticlan
+CTR	Cattle Creek
+CBT	Catumbela
+CYZ	Cauayan
+CAQ	Caucasia
+CDD	Cauquira
+CVH	Caviahue
+CXJ	Caxias Do Sul
+CUK	Caye Caulker
+CYC	Caye Chapel
+CAY	Cayenne
+CYB	Cayman Brac Is
+CCC	Cayo Coco
+CYO	Cayo Largo Del Sur
+CAV	Cazombo
+CEB	Cebu
+CDC	Cedar City
+CDK	Cedar Key
+CID	Cedar Rapids
+CED	Ceduna
+CWS	Center Island
+GHM	Centerville
+CEM	Central
+ENL	Centralia
+YCE	Centralia
+CPF	Cepu
+CRR	Ceres
+SMB	Cerro Sombrero
+CES	Cessnock
+JCU	Ceuta
+CHH	Chachapoyas
+CDR	Chadron
+MKD	Chagni
+ZBR	Chah-Bahar
+WCH	Chaiten
+CCN	Chakcharan
+CIK	Chalkyitsik
+CHL	Challis
+XCR	Chalons Sur Marne
+CMF	Chambery
+CMI	Champaign
+CNR	Chanaral
+WCR	Chandalar
+IXC	Chandigarh
+SLJ	Chandler
+CHD	Chandler
+CGQ	Changchun
+CGD	Changde
+CNI	Changhai
+CSX	Changsha
+CHX	Changuinola
+CIH	Changzhi
+CZX	Changzhou
+CHQ	Chania
+CNU	Chanute
+CHG	Chaoyang
+CPL	Chaparral
+XAP	Chapeco
+YLD	Chapleau
+CNT	Charata
+CCY	Charles City
+CHS	Charleston
+CRW	Charleston
+CTL	Charleville
+YCL	Charlo
+CLT	Charlotte
+QWG	Charlotte
+CHO	Charlottesville
+YHG	Charlottetown
+YYG	Charlottetown
+CXT	Charters Towers
+CHR	Chateauroux
+CYM	Chatham
+XCM	Chatham
+CHT	Chatham Island
+CHA	Chattanooga
+HRJ	Chaurjhari
+CHV	Chaves
+CSY	Cheboksary
+CYF	Chefornak
+CLS	Chehalis
+ZJK	Chek Lap Kok
+CEH	Chelinda
+CEK	Chelyabinsk
+ZTZ	Chemnitz
+CEX	Chena Hot Springs
+CTU	Chengdu
+MAA	Chennai/Madras
+CJJ	Cheongju
+HCW	Cheraw
+CER	Cherbourg
+CEE	Cherepovets
+CKC	Cherkassy
+CEJ	Chernigov
+KCN	Chernofski
+CWC	Chernovtsy
+CKK	Cherokee
+CKA	Cherokee
+CBC	Cherrabun
+CRH	Cherribah
+CYX	Cherskiy
+HTW	Chesapeake
+CEG	Chester
+YCS	Chesterfield Inlet
+CTM	Chetumal
+YCQ	Chetwynd
+VAK	Chevak
+YHR	Chevery
+CYS	Cheyenne
+FEW	Cheyenne
+CMJ	Chi Mei
+CNX	Chiang Mai
+CEI	Chiang Rai
+CYI	Chiayi
+YMT	Chibougamau
+CHI	Chicago
+NOH	Chicago
+RFD	Chicago
+DPA	Chicago
+GYY	Chicago
+CGX	Chicago
+MDW	Chicago
+PWK	Chicago
+CZA	Chichen Itza
+CHK	Chickasha
+CKX	Chicken
+CIX	Chiclayo
+CIC	Chico
+CIF	Chifeng
+KCQ	Chignik
+KBW	Chignik
+KCG	Chignik
+KCL	Chignik
+IGO	Chigorodo
+CUU	Chihuahua
+CHB	Chilas
+CDS	Childress
+CCH	Chile Chico
+CJH	Chilko Lake
+LLG	Chillagoe
+YAI	Chillan
+YCW	Chilliwack
+CHZ	Chiloquin
+CHM	Chimbote
+VPY	Chimoio
+CCL	Chinchilla
+WAL	Chincoteague
+INE	Chinde
+CGJ	Chingola
+CGT	Chinguitti
+CNO	Chino
+JKH	Chios
+CIP	Chipata
+CHJ	Chipinge
+CIQ	Chiquimula
+CZN	Chisana
+YKU	Chisasibi
+HIB	Chisholm
+KIV	Chisinau
+CZO	Chistochina
+HTA	Chita
+PGI	Chitato
+CXC	Chitina
+CJL	Chitral
+CTD	Chitre
+CGP	Chittagong
+ZAK	Chiusa/Klausen
+IVO	Chivolo
+CKL	Chkalovsky
+CFK	Chlef
+COQ	Choibalsan
+CHY	Choiseul Bay
+CKH	Chokurdah
+TGS	Chokwe
+CET	Cholet
+CIV	Chomley
+CKG	Chongqing
+HOS	Chos Malal
+CHC	Christchurch
+CXQ	Christmas Creek
+XCH	Christmas Island
+CXI	Christmas Island
+CHU	Chuathbaluk
+CCZ	Chub Cay
+CNN	Chulman
+CJM	Chumphon
+CVB	Chungribu
+ZUM	Churchill Falls
+YWQ	Chute-Des-Passes
+ICI	Cicia
+AVI	Ciego De Avila
+CFG	Cienfuegos
+CXP	Cilacap
+CIM	Cimitarra
+CVG	Cincinnati
+LUK	Cincinnati
+RCP	Cinder River
+IRC	Circle
+CHP	Circle Hot Springs
+CBN	Cirebon
+ACN	Ciudad Acuna
+CBL	Ciudad Bolivar
+CUA	Ciudad Constitucion
+CME	Ciudad Del Carmen
+AGT	Ciudad del Este
+CGU	Ciudad Guayana
+CJS	Ciudad Juarez
+MMC	Ciudad Mante
+CEN	Ciudad Obregon
+CJI	Ciudad Real
+CVM	Ciudad Victoria
+CNH	Claremont
+ICL	Clarinda
+CLP	Clarks Point
+CKB	Clarksburg
+CKM	Clarksdale
+CKV	Clarksville
+CAO	Clayton
+CKE	Clear Lake
+CLC	Clearlake
+CLW	Clearwater
+CEU	Clemson
+CMQ	Clermont
+CFE	Clermont-Ferrand
+CVC	Cleve
+BKL	Cleveland
+CGF	Cleveland
+CLE	Cleveland
+CFT	Clifton
+CFH	Clifton Hills
+CWI	Clinton
+CTZ	Clinton
+CLK	Clinton
+CSM	Clinton
+YLM	Clinton Creek
+CLI	Clintonville
+CNJ	Cloncurry
+CLX	Clorinda
+CVS	Clovis
+CVN	Clovis
+CMK	Club Makokola
+XCL	Cluff Lake
+CLJ	Cluj-Napoca
+CZY	Cluny
+YCY	Clyde River
+CLG	Coalinga
+CIZ	Coari
+CTF	Coatepeque
+CTH	Coatesville
+CBV	Coban
+CAZ	Cobar
+CIJ	Cobija
+OCC	Coca
+CBB	Cochabamba
+LGR	Cochrane
+YCN	Cochrane
+CSO	Cochstedt
+COI	Cocoa
+COF	Cocoa
+CNC	Coconut Island
+CCK	Cocos Islands
+DZI	Codazzi
+COD	Cody/Yellowstone
+CUQ	Coen
+CFA	Coffee Point
+CFV	Coffeyville
+KCC	Coffman Cove
+CFS	Coffs Harbour
+CNG	Cognac
+CJB	Coimbatore
+CBP	Coimbra
+XCO	Colac
+CBK	Colby
+CDB	Cold Bay
+YOD	Cold Lake
+CXF	Coldfoot
+COM	Coleman
+CLQ	Colima
+COL	Isle Of Coll
+CRB	Collarenebri
+CGS	College Park
+CLL	College Station
+CIE	Collie
+YKC	Collins Bay
+KCE	Collinsville
+CMR	Colmar
+CGN	Cologne
+CMB	Colombo
+ONX	Colon
+CYR	Colonia
+CCT	Colonia Catriel
+OLN	Colonia Sarmiento
+CSA	Isle Of Colonsay
+KCR	Colorado Creek
+CSW	Colorado do Oeste
+FCS	Colorado Springs
+COS	Colorado Springs
+AFF	Colorado Springs
+COA	Columbia
+COU	Columbia
+MMT	Columbia
+CAE	Columbia
+CUB	Columbia
+MRC	Columbia
+LSF	Columbus
+MKF	Columbus
+CLU	Columbus
+CBM	Columbus
+GTR	Columbus
+UBS	Columbus
+OLU	Columbus
+CUS	Columbus
+OSU	Columbus
+CMH	Columbus
+LCK	Columbus
+YCK	Colville Lake
+XPL	Comayagua
+CLA	Comilla
+JCO	Comino
+CIY	Comiso
+CJT	Comitan
+CRD	Comodoro Rivadavia
+YQQ	Comox
+CPM	Compton
+VCS	Con Dao
+CKY	Conakry
+CDJ	Conceicao Do Araguaia
+CEP	Concepcion
+CCP	Concepcion
+CIO	Concepcion
+CCR	Concord
+CON	Concord
+COC	Concordia
+CNK	Concordia
+CCI	Concordia
+CBX	Condobolin
+COG	Condoto
+CFO	Confreza
+COX	Congo Town
+CEV	Connersville
+CXO	Conroe
+CND	Constanta
+CZL	Constantine
+COZ	Constanza
+OTD	Contadora
+CPD	Coober Pedy
+COH	Cooch Behar
+CDA	Cooinda
+CTN	Cooktown
+CLH	Coolah
+COY	Coolawanyah
+COB	Coolibah
+OOM	Cooma
+COJ	Coonabarabran
+CNB	Coonamble
+YCP	Co-op Point
+JLA	Cooper Lodge
+COP	Cooperstown
+CRJ	Coorabie
+CMD	Cootamundra
+RUY	Copan
+CPH	Copenhagen
+RKE	Copenhagen
+CPO	Copiapo
+CZC	Copper Centre
+QCE	Copper Mountain
+COW	Coquimbo
+YZS	Coral Harbour
+CZJ	Corazon De Jesus
+CRO	Corcoran
+ODL	Cordillo Downs
+COR	Cordoba
+ODB	Cordoba
+CKU	Cordova
+CDV	Cordova
+CRX	Corinth
+ORK	Cork
+RNI	Corn Island
+CKO	Cornelio Procopio
+CBA	Corner Bay
+YNF	Corner Brook
+ELM	Corning
+YCC	Cornwall
+CZE	Coro
+CMV	Coromandel
+XCN	Coron
+YCT	Coronation
+ENQ	Coronel E Soto Cano AB
+CSZ	Coronel Suarez
+CWW	Corowa
+CZH	Corozal
+CZU	Corozal
+NGW	Corpus Christi
+CUX	Corpus Christi
+CRP	Corpus Christi
+NGP	Corpus Christi
+CNQ	Corrientes
+CYG	Corryong
+CRS	Corsicana
+YCF	Cortes Bay
+CEZ	Cortez
+CTX	Cortland
+CMG	Corumba
+CVU	Corvo Island
+CQS	Costa Marques
+CBO	Cotabato
+OTR	Coto 47
+COO	Cotonou
+CBU	Cottbus
+ZTT	Cottbus
+CTW	Cottonwood
+COT	Cotulla
+CIL	Council
+CBF	Council Bluffs
+CVF	Courchevel
+YCA	Courtenay
+CVE	Covenas
+CVT	Coventry
+COV	Covilha
+CWR	Cowarie
+CCW	Cowell
+YYM	Cowley
+CWT	Cowra
+GXQ	Coyhaique
+CYL	Coyoles
+CZM	Cozumel
+CDO	Cradock
+CGA	Craig
+CIG	Craig
+CCV	Craig Cove
+CRA	Craiova
+YXC	Cranbrook
+CCG	Crane
+CKR	Crane Island
+RAV	Cravo Norte
+CSF	Creil
+CEC	Crescent City
+CSD	Cresswell Downs
+CSE	Crested Butte
+CFQ	Creston
+CSQ	Creston
+CEW	Crestview
+CCM	Criciuma
+CKI	Croker Island
+CRN	Cromarty
+CKD	Crooked Creek
+CRI	Crooked Island
+CKN	Crookston
+CTY	Cross City
+YCR	Cross Lake
+CRT	Crossett
+CSV	Crossville
+CRV	Crotone
+NRC	Crows Landing
+CDQ	Croydon
+CZB	Cruz Alta
+CZS	Cruzeiro Do Sul
+CYE	Crystal Lake
+FXO	Cuamba
+CUW	Cube Cove
+CUC	Cucuta
+CUG	Cudal
+CDP	Cuddapah
+CUY	Cue
+CUE	Cuenca
+CVJ	Cuernavaca
+CGB	Cuiaba
+CTI	Cuito Cuanavale
+CPX	Culebra
+CUL	Culiacan
+CUJ	Culion
+CVR	Culver City
+CUM	Cumana
+CBE	Cumberland
+CUF	Cuneo
+CMA	Cunnamulla
+CUR	Curacao
+CWB	Curitiba
+BFH	Curitiba.
+CUI	Currillo
+CPU	Cururupu
+UZU	Curuzu Cuatia
+CUH	Cushing
+CTB	Cut Bank
+CUT	Cutral
+FCN	Cuxhaven
+CYU	Cuyo
+CUZ	Cuzco
+CZW	Czestochowa
+DAD	Da Nang
+DBB	Dabaa City
+DAO	Dabo
+DRH	Dabra
+DDU	Dadu
+TAE	Daegu
+DTE	Daet
+DAG	Daggett
+DCK	Dahl Creek
+DGN	Dahlgren
+DKR	Dakar
+VIL	Dakhla
+DAK	Dakhla Oasis
+DLM	Dalaman
+DLZ	Dalanzadgad
+DLI	Dalat
+DBA	Dalbandin
+DLB	Dalbertis
+DBY	Dalby
+DGD	Dalgaranga
+DHT	Dalhart
+DLU	Dali City
+DLC	Dalian
+ADS	Dallas
+DNE	Dallas
+DFW	Dallas
+JDB	Dallas
+DAL	Dallas
+JMD	Dallas
+JNH	Dallas
+RBD	Dallas
+DJO	Daloa
+DNN	Dalton
+DVR	Daly River
+DYW	Daly Waters
+NMB	Daman
+DAM	Damascus
+DBU	Dambula
+DNC	Danane
+DXR	Danbury
+DDG	Dandong
+DNP	Dang
+DGB	Danger Bay
+DGA	Dangriga
+YDH	Daniels Harbour
+DSV	Dansville
+DNV	Danville
+DAN	Danville
+DAE	Daparizo
+DAR	Dar Es Salaam
+DAP	Darchula
+DGR	Dargaville
+DAI	Darjeeling
+NLF	Darnley Island
+DAU	Daru
+DSL	Daru
+DAZ	Darwaz
+DRW	Darwin
+XJG	Darwin
+TAZ	Dashoguz
+DTD	Datadawai
+DAH	Dathina
+DAT	Datong
+DAJ	Dauan Island
+DGP	Daugavpils
+DGG	Daugo
+DAF	Daup
+YDN	Dauphin
+DVO	Davao
+DVN	Davenport
+DVP	Davenport Downs
+DAV	David
+YDI	Davis Inlet
+DWD	Dawadmi
+TVY	Dawe
+YDA	Dawson City
+YDQ	Dawson Creek
+DAX	Daxian
+DDI	Daydream Is
+DYG	Dayong
+DAY	Dayton
+MGY	Dayton
+FFO	Dayton
+DWF	Dayton
+DAB	Daytona Beach
+DZU	Dazu
+DRI	De Ridder
+YRD	Dean River
+DEO	Dearborn
+YDL	Dease Lake
+DTH	Death Valley
+DOL	Deauville
+DBP	Debepare
+DBM	Debra Marcos
+DBT	Debra Tabor
+DEB	Debrecen
+DCU	Decatur
+DEC	Decatur
+DCR	Decatur
+DTR	Decatur Island
+YGY	Deception
+DCI	Decimomannu
+DEH	Decorah
+DGU	Dedougou
+WDB	Deep Bay
+YDF	Deer Lake
+YVZ	Deer Lake
+DPK	Deer Park
+DRG	Deering
+DFI	Defiance
+DGC	Degahbur
+DED	Dehra Dun
+DEZ	Deirezzor
+DRT	Del Rio
+DLF	Del Rio
+DEL	Delhi
+YWJ	Deline
+DLV	Delissaville
+DTA	Delta
+DDN	Delta Downs
+DJN	Delta Junction
+DEM	Dembidollo
+DMN	Deming
+DHR	Den Helder
+DNM	Denham
+DNQ	Deniliquin
+DEI	Denis Island
+DNS	Denison
+DNZ	Denizli
+DPS	Denpasar Bali
+APA	Denver
+BFK	Denver
+DEN	Denver
+DEP	Deparizo
+DEA	Dera Ghazi Khan
+DSK	Dera Ismail Khan
+DRB	Derby
+DER	Derim
+DNF	Derna
+DSM	Des Moines
+YDS	Desolation Sound
+DES	Desroches
+ZSU	Dessau
+DSE	Dessie
+DSI	Destin
+DET	Detroit
+DTW	Detroit
+YIP	Detroit
+DTL	Detroit Lakes
+DXA	Deux Alpes
+DVA	Deva
+DVL	Devils Lake
+DPO	Devonport
+ZEQ	Dewsbury
+DEF	Dezful
+DHA	Dhahran
+DAC	Dhaka
+DHL	Dhala
+DMR	Dhamar
+DBD	Dhanbad
+DHI	Dhangarhi
+DHM	Dharamsala
+DYM	Diamantina Lakes
+DMT	Diamantino
+DNO	Dianopolis
+DIP	Diapaga
+DVK	Diavik
+BYB	Dibaa
+DIB	Dibrugarh
+DIK	Dickinson
+DIW	Dickwella
+XDE	Diebougou
+DIN	Dien Bien Phu
+DPE	Dieppe
+YDG	Digby
+DIJ	Dijon
+DKS	Dikson
+DSG	Dilasag
+DIC	Dili
+DIL	Dili
+DLG	Dillingham
+DLN	Dillon
+DLL	Dillon
+DLY	Dillons Bay
+DMU	Dimapur
+DIM	Dimbokro
+DNU	Dinangat
+DNR	Dinard
+DNX	Dinder
+DIO	Diomede Island
+DOS	Dios
+DPL	Dipolog
+DIG	Diqing
+DIR	Dire Dawa
+DRC	Dirico
+DRN	Dirranbandi
+DLP	Disneyland Paris
+DIU	Diu
+DIQ	Divinopolis
+DIV	Divo
+DXD	Dixie
+DIY	Diyarbakir
+DJM	Djambala
+DJG	Djanet
+DJE	Djerba
+XDJ	Djibo
+JIB	Djibouti
+DOE	Djoemoe
+DJA	Djougou
+DJU	Djupivogur
+DNK	Dnepropetrovsk
+DOA	Doany
+DOB	Dobo
+YDX	Doc Creek
+DKV	Docker River
+DDC	Dodge City
+DDM	Dodoima
+DOD	Dodoma
+DOH	Doha
+XOZ	Doha
+DOI	Doini
+YDO	Dolbeau
+DLE	Dole
+DLO	Dolomi
+DOP	Dolpa
+DCF	Dominica
+DOM	Dominica
+DSA	Doncaster
+CFN	Donegal
+DOK	Donetsk
+DOX	Dongara
+DGM	Dongguan
+DOG	Dongola
+DSN	Dongsheng
+DOY	Dongying
+DMD	Doomadgee
+DNG	Doongan
+DOF	Dora Bay
+DDP	Dorado
+DOR	Dori
+DOC	Dornoch
+DOO	Dorobisoro
+DTM	Dortmund
+DRD	Dorunda Station
+DON	Dos Lagunas
+DHN	Dothan
+DLA	Douala
+DUG	Douglas
+DGL	Douglas
+DGW	Douglas
+DGF	Douglas
+DOU	Dourados
+DOV	Dover-Cheswold
+JDY	Downey
+DYL	Doylestown
+DRM	Drama
+YDC	Drayton Valley
+DRS	Dresden
+DRJ	Drietabbetje
+DRF	Drift River
+DFP	Drumduff
+DRU	Drummond
+DRE	Drummond Island
+YHD	Dryden
+DRY	Drysdale River
+DSC	Dschang
+DXB	Dubai
+DBO	Dubbo
+DBN	Dublin
+DUB	Dublin
+PSK	Dublin
+DBS	Dubois
+DUJ	Dubois
+DBV	Dubrovnik
+DBQ	Dubuque
+DUF	Duck
+DGK	Dugong
+DPG	Dugway
+DUK	Dukuduk
+DLK	Dulkaninna
+DLH	Duluth
+LKI	Duluth
+DGT	Dumaguete
+DUM	Dumai
+DPU	Dumpu
+DNB	Dunbar
+DUC	Duncan
+DCT	Duncan Town
+DUQ	Duncan/Quam
+DUN	Dundas
+DND	Dundee
+ZDU	Dundee
+DUE	Dundo
+DUD	Dunedin
+DNH	Dunhuang
+DKI	Dunk Island
+DKK	Dunkirk
+AMK	Durango
+DRO	Durango
+DGO	Durango
+DUA	Durant
+DZO	Durazno
+DUR	Durban
+VIR	Durban
+DHD	Durham Downs
+MME	Durham Tees Valley
+DRR	Durrie
+DYU	Dushanbe
+DUS	Dusseldorf
+MGL	Dusseldorf
+NRN	Dusseldorf
+QDU	Dusseldorf
+DUT	Dutch Harbor
+DWA	Dwangwa
+DYA	Dysart
+DZA	Dzaoudzi
+EAA	Eagle
+ELA	Eagle Lake
+EGP	Eagle Pass
+EGV	Eagle River
+YXR	Earlton
+EFO	East Fork
+HTO	East Hampton
+EHT	East Hartford
+ELS	East London
+ZEM	East Main
+ESP	East Stroudsburg
+ECA	East Tawas
+IPC	Easter Island
+ETN	Eastland
+ESN	Easton
+ESW	Easton
+ESD	Eastsound
+EAU	Eau Claire
+EBN	Ebadon
+EBW	Ebolowa
+EBO	Ebon
+ECH	Echuca
+EOI	Eday
+EDE	Edenton
+EDG	Edgewood
+EDI	Edinburgh
+ZXE	Edinburgh
+YEG	Edmonton
+YXD	Edmonton
+YED	Edmonton
+EDA	Edna Bay
+EDO	Edremit/Korfez
+YET	Edson
+EDR	Edward River
+EDW	Edwards AFB
+EEK	Eek
+EFG	Efogi
+EGX	Egegik
+EGS	Egilsstadir
+EIA	Eia
+EFB	Eight Fathom Bight
+HCM	Eil
+EIY	Ein Yahav
+EIH	Einasleigh
+EIN	Eindhoven
+ERN	Eirunepe
+EIB	Eisenach
+SVX	Ekaterinburg
+YOA	Ekati
+EKE	Ekereku
+EKB	Ekibastuz
+KKU	Ekuk
+KEK	Ekwok
+EBG	El Bagre
+ELB	El Banco
+EHL	El Bolson
+EBM	El Borma
+CJN	El Cajon
+FTE	El Calafate
+NJK	El Centro
+ECR	El Charco
+ELD	El Dorado
+EDK	El Dorado
+EOR	El Dorado
+ECO	El Encanto
+ELF	El Fasher
+ELG	El Golea
+ZLG	El Gouera
+EMX	El Maiten
+EMY	El Minya
+EMT	El Monte
+ENJ	El Naranjo
+ENI	El Nido
+EBD	El Obeid
+ELU	El Oued
+EPA	El Palomar
+BIF	El Paso
+ELP	El Paso
+EPS	El Portillo/samana
+PVE	El Porvenir
+ELE	El Real
+ELJ	El Recreo
+ESR	El Salvador
+ELX	El Tigre
+VIG	El Vigia
+EYP	El Yopal
+ETH	Elat
+EZS	Elazig
+EBA	Elba Island
+ELC	Elcho Island
+EDB	Eldebba
+ELO	Eldorado
+EDL	Eldoret
+ERO	Eldred Rock
+ELR	Elelim
+ELV	Elfin Cove
+ELI	Elim
+EPT	Eliptamin
+ESL	Elista
+EYS	Eliye Springs
+ECG	Elizabeth City
+EKX	Elizabethtown
+ELK	Elk City
+EKD	Elkedra
+EKI	Elkhart
+EKN	Elkins
+EKO	Elko
+ELW	Ellamar
+ELN	Ellensburg
+YEL	Elliot Lake
+ELL	Ellisras
+EOZ	Elorza
+XUC	Elverum
+LYU	Ely
+ELY	Ely
+EAE	Emae
+EMS	Embessa
+EME	Emden
+EMD	Emerald
+JEM	Emeryville
+EMI	Emirau
+EML	Emmen
+EMK	Emmonak
+EMO	Emo
+EMG	Empangeni
+EMP	Emporia
+NUD	En Nahud
+EWI	Enarotali
+ENO	Encarnacion
+ENE	Ende
+BGM	Endicott
+ENB	Eneabba West
+ENT	Enewetak Island
+EGA	Engati
+WDG	Enid
+END	Enid
+EIE	Eniseysk
+XWQ	Enkoping
+ENK	Enniskillen
+ENF	Enontekio
+ENS	Enschede
+ESE	Ensenada
+ENH	Enshi
+EBB	Entebbe
+ETS	Enterprise
+ENU	Enugu
+EPN	Epena
+EPH	Ephrata
+EPI	Epi
+EPL	Epinal
+EPK	Episkopi
+EDQ	Erandique
+ERE	Erave
+ECN	Lefkosa
+ERT	Erdenet
+ERM	Erechim
+ERF	Erfurt
+ERI	Erie
+ERA	Erigavo
+EDD	Erldunda
+ERB	Ernabella
+ERH	Errachidia
+ERR	Errol
+ERU	Erume
+ERC	Erzincan
+ERZ	Erzurum
+EBJ	Esbjerg
+ESC	Escanaba
+EKT	Eskilstuna
+ESK	Eskisehir
+AOE	Eskisehir
+ESM	Esmeraldas
+ESO	Espanola
+EPR	Esperance
+ESI	Espinosa
+SON	Espiritu Santo
+EQS	Esquel
+YPF	Esquimalt
+ESU	Essaouira
+ESS	Essen
+YEN	Estevan
+YEP	Estevan Point
+EST	Estherville
+ETD	Etadunna
+EUA	Eua
+EUC	Eucla
+EUF	Eufaula
+EUG	Eugene
+UCE	Eunice
+EKA	Eureka
+YEU	Eureka
+EUE	Eureka
+EVD	Eva Downs
+EVA	Evadale
+EVH	Evans Head
+EVW	Evanston
+EVV	Evansville
+EVM	Eveleth
+PAE	Everett
+EVX	Evreux
+JEV	Evry
+EWE	Ewer
+EWO	Ewo
+EXI	Excursion Inlet
+EXT	Exeter
+EXM	Exmouth Gulf
+FAC	Faaite
+FNG	Fada Ngourma
+VDB	Fagernes
+FAG	Fagurholsmyri
+FIE	Fair Isle
+EIL	Fairbanks
+FBK	Fairbanks
+FAI	Fairbanks
+MTX	Fairbanks
+PII	Fairbanks
+FBY	Fairbury
+SUU	Fairfield
+FFL	Fairfield
+FFD	Fairford
+FRM	Fairmont
+YCZ	Fairmount Springs
+ZFW	Fairview
+LYP	Faisalabad
+FBD	Faizabad
+FAJ	Fajardo
+FKQ	Fak Fak
+FHZ	Fakahina
+FAV	Fakarava
+FKH	Fakenham
+YOE	Falher
+XYM	Falkenberg
+FLX	Fallon
+NFL	Fallon
+FLJ	Falls Bay
+FLC	Falls Creek
+FMH	Falmouth
+FAK	False Island
+KFP	False Pass
+FNE	Fane
+FGU	Fangatau
+RVA	Farafangana
+FAH	Farah
+FAA	Faranah
+FWL	Farewell
+FAR	Fargo
+FBL	Faribault
+FRG	Farmingdale
+FAM	Farmington
+FMN	Farmington
+FAB	Farnborough
+FAO	Faro
+ZYF	Faro
+ZFA	Faro
+FAE	Faroe Islands
+FAN	Farsund
+FAZ	Fasa
+FAS	Faskrudsfjordur
+FYT	Faya
+FYV	Fayetteville
+XNA	Fayetteville
+FAY	Fayetteville
+POB	Fayetteville
+FYM	Fayetteville
+FGD	Fderik
+FEJ	Feijo
+FEC	Feira De Santana
+FRE	Fera Island
+FRQ	Feramin
+FEG	Fergana
+FFM	Fergus Falls
+FER	Fergusons Gulf
+FEK	Ferkessedougou
+FEN	Fernando De Noronha
+FEA	Fetlar
+FEZ	Fez
+WFI	Fianarantsoa
+FCB	Ficksburg
+XCA	Fictitious Point
+ZGZ	Fictitious Point/AA2
+QXL	Fictitious Point/AA3
+QXM	Fictitious Point/AA4
+QFP	Fictitious Point/LH
+FSC	Figari
+FLM	Filadelfia
+FIL	Fillmore
+FZO	Filton
+FNK	Fin Creek
+FNH	Fincha
+FDY	Findlay
+FIK	Finke
+XFW	Hamburg
+FLY	Finley
+FIN	Finschhafen
+FIC	Fire Cove
+FID	Fishers Island
+FTI	Fitiuta
+FIZ	Fitzroy Crossing
+ZRR	Fiumicino
+FIV	Five Finger
+FMC	Five Mile
+FMG	Flamingo
+FLT	Flat
+FLI	Flateyri
+FXM	Flaxman Island
+XYI	Flen
+FLF	Flensburg
+YFO	Flin Flon
+FLS	Flinders Island
+FNT	Flint
+FLP	Flippin
+FVL	Flora Valley
+PSA	Pisa
+FLR	Florence
+ZMS	Florence
+FLO	Florence
+FLA	Florencia
+FRS	Flores
+FLW	Flores Island
+FLB	Floriano
+FLN	Florianopolis
+FRO	Floro
+FLH	Flotta
+FOG	Foggia
+NHX	Foley
+ZFD	Fond Du Lac
+FLD	Fond Du Lac
+YFG	Fontanges
+FRB	Forbes
+FDE	Forde
+FXY	Forest City
+FOP	Forest Park
+YFE	Forestville
+FRL	Forli
+FMA	Formosa
+FSS	Forres
+FOS	Forrest
+FCY	Forrest City
+FVR	Forrest River
+FOT	Forster
+YFA	Fort Albany
+DAA	Fort Belvoir
+FOB	Fort Bragg
+FBG	Fort Bragg
+FBR	Fort Bridger
+CCA	Fort Chaffee
+YPY	Fort Chipewyan
+QWF	Fort Collins/Loveland
+FNL	Fort Collins/Loveland
+FTU	Fort Dauphin
+FDF	Fort De France
+AYE	Fort Devens
+WRI	Fort Dix
+FOD	Fort Dodge
+FAF	Fort Eustis
+YAG	Fort Frances
+YGH	Fort Good Hope
+YFH	Fort Hope
+MUI	Fort Indiantown
+BYS	Fort Irwin
+RBN	Fort Jefferson
+FTK	Fort Knox
+HOW	Fort Kobbe
+FXE	Fort Lauderdale
+FLL	Fort Lauderdale
+FLV	Fort Leavenworth
+TBN	Fort Leonard Wood
+YJF	Fort Liard
+FMS	Fort Madison
+YMM	Fort Mcmurray
+ZFM	Fort Mcpherson
+FME	Fort Meade
+FMY	Fort Myers
+RSW	Fort Myers
+YYE	Fort Nelson
+FPR	Fort Pierce
+POE	Fort Polk
+YFL	Fort Reliance
+YFR	Fort Resolution
+FRN	Fort Richardson
+FRI	Fort Riley
+FSK	Fort Scott
+YER	Fort Severn
+FSN	Fort Sheridan
+FSI	Fort Sill
+YFS	Fort Simpson
+FSM	Fort Smith
+YSM	Fort Smith
+YXJ	Fort St John
+FST	Fort Stockton
+FSU	Fort Sumner
+FWA	Fort Wayne
+SMD	Fort Wayne
+FWM	Fort William
+FWH	Fort Worth
+AFW	Fort Worth
+FTW	Fort Worth
+FYU	Fort Yukon
+FOR	Fortaleza
+FON	Fortuna
+FTL	Fortuna Ledge
+ZCP	Foshan
+FSL	Fossil Downs
+FOU	Fougamou
+FOA	Foula
+FOM	Foumban
+FOX	Fox
+FGL	Fox Glacier
+YFX	Fox Harbour (St Lewis)
+FOY	Foya
+FRC	Franca
+MVB	Franceville
+FBE	Francisco Beltrao
+FRW	Francistown
+FFT	Frankfort
+HHN	Hahn
+FRA	Frankfurt
+QGV	Frankfurt
+FRF	Frankfurt
+ZFR	Frankfurt/Oder
+FKL	Franklin
+FKN	Franklin
+WHO	Franz Josef
+FDK	Frederick
+FDR	Frederick
+YFC	Fredericton
+XKF	Fredrikstad
+FEP	Freeport
+HGS	Freetown
+FNA	Freetown
+JMY	Freetown
+FRK	Fregate Is
+FAQ	Freida River
+FRJ	Frejus
+JFM	Fremantle
+FET	Fremont
+FRH	French Lick
+WFK	Frenchville
+FRP	Fresh Water Bay
+FAT	Fresno
+FCH	Fresno
+FIG	Fria
+FRD	Friday Harbor
+FBS	Friday Harbor SPB
+FDH	Friedrichshafen
+FRZ	Fritzlar
+FRR	Fort Myers, Florida
+FRT	Frutillar
+FRY	Fryeburg
+FGR	Fuengirola
+FEL	Fuerstenfeldbruck
+OLK	Fuerte Olimpo
+FUJ	Fukue
+FKJ	Fukui
+FUK	Fukuoka
+FKS	Fukushima
+FUB	Fulleborn
+FUL	Fullerton
+FUM	Fuma
+FUN	Funafuti Atol
+FNR	Funter Bay
+FUO	Fuoshan
+FFU	Futaleufu
+FTA	Futuna Island
+FUT	Futuna Island
+FUG	Fuyang
+FYN	Fuyun
+FOC	Fuzhou
+GAB	Gabbs
+GAE	Gabes
+GBE	Gaborone
+GCH	Gachsaran
+GAD	Gadsden
+GAF	Gafsa
+GAV	Gag Island
+GAG	Gage
+YCX	Gagetown
+GGN	Gagnoa
+YGA	Gagnon
+GNV	Gainesville
+GVL	Gainesville
+GLE	Gainesville
+GAI	Gaithersburg
+GAK	Gakona
+GOY	Gal Oya
+GPS	Galapagos Is
+GBH	Galbraith Lake
+GLK	Galcaio
+GLX	Galela
+GAL	Galena
+GBG	Galesburg
+GQQ	Galion
+GEV	Gallivare
+GUP	Gallup
+GLS	Galveston
+GWY	Galway
+GRA	Gamarra
+GAX	Gamba
+GMB	Gambela
+GAM	Gambell
+GMR	Gambier Is
+GMM	Gamboma
+GBP	Gamboola
+GAN	Gan Island
+GDJ	Gandajika
+YQX	Gander
+GEK	Ganes Creek
+GAW	Gangaw
+YGG	Ganges Harbor
+KAG	Gangneung
+KOW	Ganzhou
+GAQ	Gao
+XGA	Gaoua
+GAT	Gap
+GBB	Gara Djebilet
+GHE	Garachine
+GAR	Garaina
+GRL	Garasa
+GBM	Garbaharey
+GCK	Garden City
+JHC	Garden City
+GPN	Garden Point
+GRG	Gardez
+GDM	Gardner
+GSR	Gardo
+GAS	Garissa
+GGR	Garoe
+GOU	Garoua
+GRH	Garuahi
+GSC	Gascoyne Junction
+GMI	Gasmata Island
+ELQ	Buraidah
+GBC	Gasuke
+GKT	Gatlinburg
+GTA	Gatokae
+ZGU	Gaua
+GVX	Gavle
+GAU	Gawahati
+GAY	Gaya
+GLR	Gaylord
+GAH	Gayndah
+GZT	Gaziantep
+BDT	Gbadolite
+GBK	Gbangbatok
+GDN	Gdansk
+GEB	Gebe
+GEC	Gecitkale
+GSU	Gedaref
+GEX	Geelong
+GKE	Geilenkirchen
+DLD	Geilo
+GIT	Geita
+GLC	Geladi
+GDZ	Gelendzik
+GMA	Gemena
+ETE	Genda Wuha
+EGN	Geneina
+GPO	General Pico
+GNR	General Roca
+GES	General Santos
+VGS	General Villegas
+GVA	Geneva
+GOA	Genoa
+GTB	Genting
+JGE	Geoje
+GRJ	George
+GGT	George Town
+GEE	George Town
+GED	Georgetown
+GTT	Georgetown
+GGE	Georgetown
+ASI	Georgetown, Ascension Island
+ZGA	Gera
+YGQ	Geraldton
+GET	Geraldton
+YGS	Germansen
+GRO	Gerona
+ZGS	Gethsemani
+GTY	Gettysburg
+GEF	Geva
+GEW	Gewoia
+LTD	Ghadames
+GNZ	Ghanzi
+GHA	Ghardaia
+GHT	Ghat
+GZI	Ghazni
+GZW	Ghazvin
+GNE	Ghent
+GSM	Gheshm
+GHD	Ghimbi
+GNN	Ghinnir
+GBV	Gibb River
+GIB	Gibraltar
+GHF	Giebelstadt
+GGL	Gilgal
+GIL	Gilgit
+YGX	Gillam
+GCC	Gillette
+YGB	Gillies Bay
+YGM	Gimli
+GIR	Girardot
+GIS	Gisborne
+GYI	Gisenyi
+GID	Gitega
+GIY	Giyani
+GZO	Gizo
+YHK	Gjoa Haven
+GJR	Gjogur
+ZYG	Gjovik
+KGZ	Glacier Creek
+GLT	Gladstone
+GDW	Gladwin
+GLA	Glasgow
+PIK	Glasgow
+ZGG	Glasgow
+GLW	Glasgow
+GGW	Glasgow
+GLI	Glen Innes
+JGX	Glendale
+GWV	Glendale
+GDV	Glendive
+GLG	Glengyle
+GLQ	Glennallen
+GLM	Glenormiston
+GFL	Glens Falls
+NBU	Glenview
+GWS	Glenwood Springs
+GLO	Gloucester
+NEA	Glynco
+GWN	Gnarowein
+GOI	Goa
+GOB	Goba
+GOG	Gobabis
+GGS	Gobernador Gregores
+GDE	Gode/Iddidole
+YGO	Gods Narrows
+ZGI	Gods River
+ZGE	Goerlitz
+GYN	Goiania
+GLL	Gol
+GOL	Gold Beach
+OOL	Gold Coast
+GDH	Golden Horn
+GSB	Goldsboro
+GLY	Goldsworthy
+GLF	Golfito
+GOQ	Golmud
+GLV	Golovin
+GOM	Goma
+GME	Gomel
+GOE	Gonalia
+GDQ	Gondar
+GNG	Gooding
+GLD	Goodland
+GNU	Goodnews Bay
+GYR	Goodyear
+GOO	Goondiwindi
+YYR	Goose Bay
+GOC	Gora
+GOP	Gorakhpur
+GDI	Gordil
+GRN	Gordon
+GDD	Gordon Downs
+GVE	Gordonsville
+GOR	Gore
+YZE	Gore Bay
+GBT	Gorgan
+YGE	Gorge Harbor
+GKH	Gorkha
+GOZ	Gorna Orechovitsa
+GKA	Goroka
+XGG	Gorom-Gorom
+GTO	Gorontalo
+GOS	Gosford
+GSH	Goshen
+ZGO	Gotha
+XWL	Gothenburg
+GOT	Gothenburg
+GSE	Gothenburg
+GUL	Goulburn
+GBL	Goulburn Island
+GLN	Goulimime
+GDA	Gounda
+GUD	Goundam
+GOV	Gove
+GVR	Governador Valadares
+GHB	Governors Harbour
+OYA	Goya
+GZM	Gozo
+GAC	Gracias
+GRW	Graciosa Island
+GFN	Grafton
+GRX	Granada
+GBI	Grand Bahama
+JGC	Grand Canyon
+GCN	Grand Canyon
+NGC	Grand Canyon
+FLG	Grand Canyon
+GCM	Georgetown
+GRC	Grand Cess
+ZGF	Grand Forks
+GFK	Grand Forks
+GRI	Grand Island
+GJT	Grand Junction
+GRM	Grand Marais
+GRR	Grand Rapids
+GPZ	Grand Rapids
+GDT	Grand Turk Is
+YGC	Grande Cache
+YQU	Grande Prairie
+GVW	Grandview
+GMT	Granite Mountain
+GTS	Granites
+GNT	Grants
+GTG	Grantsburg
+GFR	Granville
+XGL	Granville Lake
+GCV	Gravatai
+KGX	Grayling
+GRZ	Graz
+GBZ	Great Barrier Island
+GBR	Great Barrington
+DAS	Great Bear Lake
+GBD	Great Bend
+GTF	Great Falls
+GFA	Great Falls
+GHC	Great Harbour
+GKL	Great Keppel Island
+GXY	Greeley
+GRB	Green Bay
+GNI	Green Island
+GEI	Green Islands
+GVI	Green River
+RVR	Green River
+GTC	Green Turtle
+GFD	Greenfield
+GVP	Greenvale
+GRE	Greenville
+GLH	Greenville
+PGV	Greenville
+GDC	Greenville
+GMU	Greenville
+GSP	Greenville
+GCY	Greenville
+GVT	Greenville
+YGN	Greenway Sound
+GWO	Greenwood
+YZX	Greenwood
+GRD	Greenwood
+GGD	Gregory Downs
+ZGW	Greifswald
+GND	Grenada
+GFE	Grenfell
+GEY	Greybull
+GMN	Greymouth
+GFF	Griffith
+GSY	Grimsby
+GRY	Grimsey
+YGZ	Grise Fiord
+GNA	Grodna
+JGR	Groennedal
+GRQ	Groningen
+GTE	Groote Eylandt
+GFY	Grootfontein
+GRS	Grosseto
+ZGD	Groton
+GRV	Groznyj
+GUU	Grundarfjordur
+GCA	Guacamaya
+GDL	Guadalajara
+GSI	Guadalcanal
+GDP	Guadalupe
+GJM	Guajara-Mirim
+GUO	Gualaco
+GHU	Gualeguaychu
+NGM	Agana
+UAM	Guam
+NRV	Guam
+GAA	Guamal
+GJA	Guanaja
+GNM	Guanambi
+GUQ	Guanare
+GYS	Guang Yuan
+GHN	Guanghan
+LHK	Guanghua
+CAN	Guangzhou
+NBW	Guantanamo
+GAO	Guantanamo
+GPI	Guapi
+GPL	Guapiles
+GUZ	Guarapari
+GPB	Guarapuava
+GUJ	Guaratingueta
+GUG	Guari
+GDO	Guasdualito
+GAZ	Guasopa
+GUA	Guatemala City
+GYE	Guayaquil
+GYA	Guayaramerin
+GYM	Guaymas
+GMC	Guerima
+GCI	Guernsey
+GUB	Guerrero Negro
+GUT	Guetersloh
+GTI	Guettin
+GGO	Guiglo
+YTO	Toronto
+KWL	Guilin
+GMS	Guimaraes
+GUI	Guiria
+KWE	Guiyang
+GRT	Gujrat
+GUF	Gulf Shores
+GPT	Gulfport
+GLP	Gulgubip
+GKN	Gulkana
+ULU	Gulu
+GUX	Guna
+GUH	Gunnedah
+GUC	Gunnison
+KUV	Gunsan
+KUZ	Gunsan AB
+GNS	Gunungsitoli
+URY	Gurayat
+GUE	Guriaso
+VJQ	Gurue
+GRP	Gurupi
+GAP	Gusap
+GHK	Gush Katif
+BQV	Gustavus
+GST	Gustavus
+GOK	Guthrie
+GUY	Guymon
+GWA	Gwa
+GWD	Gwadar
+GWL	Gwalior
+KWJ	Gwangju
+GWE	Gweru
+KVD	Gyandzha
+GYP	Gympie
+LWN	Gyoumri
+HBD	Habi
+HAC	Hachijo Jima
+HHE	Hachinohe
+HEO	Haelogo
+HBT	Hafr Albatin
+HGR	Hagerstown
+HFS	Hagfors
+HFA	Haifa
+HAK	Haikou
+HAS	Hail
+HLD	Hailar
+HNS	Haines
+YHT	Haines Junction
+HPH	Haiphong
+YHC	Hakai Pass
+HKD	Hakodate
+HAL	Halali
+HAF	Half Moon
+YWF	Halifax
+YHZ	Halifax
+YAW	Halifax
+YUX	Hall Beach
+ZHZ	Halle
+HCQ	Halls Creek
+HAD	Halmstad
+HDM	Hamadan
+HMR	Hamar
+HAM	Hamburg
+LBC	Lübeck
+HMI	Hami
+HAB	Hamilton
+HLZ	Hamilton
+HAO	Hamilton
+YHM	Hamilton
+HLT	Hamilton
+HTI	Hamilton Island
+HFT	Hammerfest
+WUK	Hammersmith
+HPT	Hampton
+LFI	Hampton
+ZWW	Hampton
+ZWB	Hampton
+HNM	Hana
+HNA	Hanamaki
+PAK	Hanapepe
+CMX	Hancock
+HGH	Hangzhou
+HAQ	Hanimaadhoo
+HVE	Hanksville
+HNX	Hanna
+HAN	Hanoi
+HAJ	Hanover
+ZVR	Hanover
+ZVM	Hanover
+HBC	Hanus Bay
+HZG	Hanzhong
+HOI	Hao Island
+HRE	Harare
+HRB	Harbin
+HBI	Harbour Island
+HGA	Hargeisa
+HRL	Harlingen
+HSB	Harrisburg
+MDT	Harrisburg
+ZUG	Harrisburg
+HAR	Harrisburg
+HRS	Harrismith
+HRO	Harrison
+HRT	Harrogate
+EVE	Harstad-Narvik
+BNH	Hartford
+HFD	Hartford
+ZRT	Hartford
+YTB	Hartley Bay
+HVS	Hartsville
+HKV	Haskovo
+HME	Hassi Messaoud
+XWP	Hassleholm
+HSI	Hastings
+HAA	Hasvik
+HDY	Hat Yai
+HTG	Hatanga
+YDJ	Hatchet Lake
+HTR	Hateruma
+HTF	Hatfield
+HTZ	Hato Corozal
+HNC	Hatteras
+HBG	Hattiesburg
+NUF	Hatton
+HAZ	Hatzfeldthaven
+HAU	Haugesund
+HDR	Havadarya
+HAV	Havana
+UPB	Havana
+HAE	Havasupai
+HAW	Haverfordwest
+HVR	Havre
+YGV	Havre St Pierre
+HWA	Hawabango
+HWI	Hawk Inlet
+HWK	Hawker
+HHR	Hawthorne
+HTH	Hawthorne
+HXX	Hay
+YHY	Hay River
+HAY	Haycock
+HDN	Hayden
+HYF	Hayfields
+HIS	Hayman Island
+HYS	Hays
+HWD	Hayward
+HYR	Hayward
+HZB	Hazebrouck
+HZL	Hazleton
+HZV	Hazyview
+HIP	Headingly
+HKB	Healy Lake
+YHF	Hearst
+HAT	Heathlands
+XXU	Hedemora
+HFE	Hefei
+HEH	Heho
+HEI	Heide-Buesum
+HDB	Heidelberg
+HEK	Heihe
+XUE	Heimdal
+HNI	Heiweni
+HEE	Helena
+HLN	Helena
+HLV	Helenvale
+HGL	Helgoland
+HEM	Helsinki
+HEL	Vantaa
+HMV	Hemavan
+HMT	Hemet
+HRY	Henbury
+AVL	Fletcher
+HEN	Hendon
+HCN	Hengchun
+HNY	Hengyang
+HEB	Henzada
+HER	Heraklion
+HEA	Herat
+HNO	Hercegnovi
+HED	Herendeen
+HDF	Heringsdorf
+AHC	Herlong
+HMG	Hermannsburg
+HES	Hermiston
+HMO	Hermosillo
+HRN	Heron Island
+HRR	Herrera
+XYC	Herrljunga
+HVB	Hervey Bay
+IFH	Hesa
+HKY	Hickory
+HDA	Hidden Falls
+HNG	Hienghene
+YOJ	High Level
+GSO	High Point
+ZHP	High Prairie
+HYC	High Wycombe
+HIG	Highbury
+HGI	Higlieg
+HHZ	Hikueru
+HLC	Hill City
+HIO	Hillsboro
+HLL	Hillside
+ITO	Hilo
+HHH	Hilton Head
+HNK	Hinchinbrook Island
+LIY	Hinesville
+HIM	Hingurakgoda
+HIW	Hiroshima
+HIJ	Hiroshima
+HSS	Hissar
+HIX	Hiva Oa
+HIT	Hivaro
+YVH	Hjerkinn
+HLW	Hluhluwe
+SGN	Ho Chi Minh City
+HBR	Hobart
+HBA	Hobart
+HBH	Hobart Bay
+HBB	Hobbs
+HOB	Hobbs
+HOD	Hodeidah
+HDS	Hoedspruit
+HOQ	Hof
+HFF	Hoffman
+HGZ	Hogatza
+HOH	Hohenems
+HET	Hohhot
+HKK	Hokitika
+HOA	Hola
+HDE	Holdrege
+HOG	Holguin
+HOL	Holikachu
+HLM	Holland
+HYL	Hollis
+HLI	Hollister
+HWO	Hollywood
+YHI	Holman
+HVK	Holmavik
+XUG	Holmestrand
+HCR	Holy Cross
+HLY	Holyhead
+HOX	Homalin
+HOM	Homer
+HMS	Homeshore
+HST	Homestead
+XHF	Honefoss
+HHP	Hong Kong
+HIR	Honiara
+HNN	Honinabi
+HVG	Honningsvag
+HIK	Honolulu
+HNL	Honolulu
+HIH	Hook Island
+HOK	Hooker Creek
+MKK	Hoolehua
+HNH	Hoonah
+HPB	Hooper Bay
+YHE	Hope
+HPE	Hope Vale
+YHO	Hopedale
+HTU	Hopetoun
+HOP	Hopkinsville
+HQM	Hoquiam
+HRZ	Horizontina
+HID	Horn Island
+HFN	Hornafjordur
+YHN	Hornepayne
+HSM	Horsham
+HOR	Horta
+HKN	Hoskins
+HOT	Hot Springs
+HSP	Hot Springs
+HTN	Hotan
+HLU	Houailou
+HOE	Houeisay
+HTL	Houghton
+HUL	Houlton
+HUM	Houma
+HUQ	Houn
+ZHO	Houston
+AAP	Houston
+JDX	Houston
+DWH	Houston
+EFD	Houston
+IAH	Houston
+JGP	Houston
+HOU	Houston
+JMA	Houston
+JPT	Houston
+SPX	Houston
+JGQ	Houston
+IWS	Houston
+JWH	Houston
+JWL	Houston
+HOY	Hoy Island
+HSZ	Hsinchu
+HHQ	Hua Hin
+BVK	Huacaraje
+HUH	Huahine
+HUN	Hualien
+NOV	Huambo
+HHA	Huanghua
+ZMY	Huangpu
+HYN	Huangyan
+HUU	Huanuco
+HUX	Huatulco
+HBX	Hubli
+HUV	Hudiksvall
+HCC	Hudson
+YHB	Hudson Bay
+HUI	Hue
+HUG	Huehuetenango
+HEV	Huelva
+HSK	Huesca
+HGD	Hughenden
+HUS	Hughes
+HUJ	Hugo
+HUZ	Huizhou
+HUK	Hukuntsi
+HLF	Hultsfred
+HUC	Humacao
+PPD	Humacao
+HUY	Humberside
+HUB	Humbert River
+HUD	Humboldt
+HBO	Humboldt
+ZTI	Humen
+HUE	Humera
+HNB	Huntingburg
+HTS	Huntington
+HUA	Huntsville
+HSV	Huntsville
+HRG	Hurghada
+HON	Huron
+HZK	Husavik
+HSL	Huslia
+QHU	Husum
+HUT	Hutchinson
+HVM	Hvammstangi
+WKI	Hwange
+HWN	Hwange Nat Park
+HYA	Hyannis
+HYG	Hydaburg
+WHD	Hyder
+HYD	Hyderabad
+HDD	Hyderabad
+HYV	Hyvinkaa
+IMA	Iamalele
+IAS	Iasi
+IAU	Iaura
+IBA	Ibadan
+IBE	Ibague
+IBP	Iberia
+IBZ	Ibiza
+IBO	Ibo
+IBI	Iboki
+ICA	Icabaru
+ICY	Icy Bay
+IDG	Ida Grove
+IDA	Idaho Falls
+IDF	Idiofa
+IDB	Idre
+IEJ	Iejima
+IFF	Iffley
+IAA	Igarka
+QFI	Iginniarfik
+IGG	Igiugig
+YGT	Igloolik
+ZUC	Ignace
+IGU	Iguassu Falls
+IGR	Iguazu
+IGE	Iguela
+IHO	Ihosy
+IHU	Ihu
+IJU	Ijui
+QJI	Ikamiut
+JIK	Ikaria Island
+IKL	Ikela
+QRY	Ikerasaarsuk
+IKI	Iki
+IDC	Ila Da Chilonzuene
+IIL	Ilaam
+ILK	Ilaka
+ILP	Ile Des Pins
+IOU	Ile Ouen
+PFR	Ilebo
+ILX	Ileg
+YGR	Iles De La Madeleine
+ILF	Ilford
+ILB	Ilha Solteira
+IOS	Ilheus
+ILI	Iliamna
+IGN	Iligan
+XIQ	Ilimanaq
+ILA	Illaga
+ILH	Illisheim
+VVZ	Illizi
+ILQ	Ilo
+ILO	Iloilo
+ILR	Ilorin
+IUL	Ilu
+JAV	Ilulissat
+IMN	Imane
+IMB	Imbaimadai
+IMM	Immokalee
+IMD	Imonda
+IMP	Imperatriz
+IPL	Imperial
+IML	Imperial
+NRS	Imperial Beach
+ION	Impfondo
+IMF	Imphal
+IAM	In Amenas
+INF	In Guezzam
+INZ	In Salah
+IGA	Inagua
+INX	Inanwatan
+JCN	Incheon
+IDN	Indagen
+SHC	Indaselassie
+INB	Independence
+IDP	Independence
+INS	Indian Springs
+IDI	Indiana
+IND	Indianapolis
+IBL	Indigo Bay Lodge
+IDR	Indore
+IDK	Indulkana
+IMI	Ine Island
+IGB	Ingeniero Jacobacci
+IGH	Ingham
+IGS	Ingolstadt-Manching
+IHC	Inhaca
+INH	Inhambane
+IMG	Inhaminga
+INQ	Inisheer
+IIA	Inishmaan
+IOR	Inishmore
+INJ	Injune
+IKP	Inkerman
+INM	Innamincka
+IFL	Innisfail
+INN	Innsbruck
+INO	Inongo
+INA	Inta
+INL	International Falls
+YPH	Inukjuak
+IUS	Inus
+YEV	Inuvik
+IVC	Invercargill
+IVR	Inverell
+TIL	Inverlake
+INV	Inverness
+ZIV	Inverness
+IVW	Inverway
+INY	Inyati
+IYK	Inyokern
+IOA	Ioannina
+IOK	Iokea
+IOP	Ioma
+IOW	Iowa City
+IFA	Iowa Falls
+IPN	Ipatinga
+IPI	Ipiales
+IPU	Ipiau
+IPE	Ipil
+IPG	Ipiranga
+IPH	Ipoh
+IPA	Ipota
+IPW	Ipswich
+YFB	Iqaluit
+IQQ	Iquique
+IQT	Iquitos
+IRB	Iraan
+IHR	Iran Shahr
+IRE	Irece
+IRI	Iringa
+IRN	Iriona
+IKT	Irkutsk
+IMT	Iron Mountain
+IWD	Ironwood
+ISL	Isabel Pass
+IFJ	Isafjordur
+ISH	Ischia
+ISD	Iscuande
+IFN	Isfahan
+ISG	Ishigaki
+IRD	Ishurdi
+IRP	Isiro
+ISI	Isisford
+ISJ	Isla Mujeres
+ISB	Islamabad
+YIV	Island Lk/Garden Hill
+ILY	Islay
+IOM	Isle Of Man
+SKL	Isle Of Skye
+ISC	Isles Of Scilly
+TSO	Isles Of Scilly
+ISP	Islip
+ISE	Isparta
+IST	Istanbul
+SAW	Istanbul
+ITN	Itabuna
+ITA	Itacoatiara
+ITB	Itaituba
+ITI	Itambacuri
+ITP	Itaperuna
+ITQ	Itaqui
+AUB	Itauba
+ITH	Ithaca
+ITK	Itokama
+OBY	Ittoqqortoormiit
+ITE	Itubera
+ITR	Itumbiara
+IVL	Ivalo
+IVG	Ivangrad
+KIB	Ivanof Bay
+IFO	Ivano-Frankovsk
+IWA	Ivanova
+IVH	Ivishak
+YIK	Ivujivik
+IWJ	Iwami
+IWO	Iwo Jima Vol
+ZIH	Ixtapa/Zihuatanejo
+IZT	Ixtepec
+IJK	Izhevsk
+ADB	Izmir
+IGL	Izmir
+IZO	Izumo
+JLR	Jabalpur
+JAB	Jabiru
+JAT	Jabot
+JCR	Jacareacanga
+KPT	Jackpot
+JXN	Jackson
+MJQ	Jackson
+HKS	Jackson
+JAN	Jackson
+MKL	Jackson
+JAC	Jackson
+LRF	Jacksonville
+NZC	Jacksonville
+CRG	Jacksonville
+JAX	Jacksonville
+NIP	Jacksonville
+IJX	Jacksonville
+OAJ	Jacksonville
+JKV	Jacksonville
+JAK	Jacmel
+JAG	Jacobabad
+JCM	Jacobina
+JAQ	Jacquinot Bay
+JAF	Jaffna
+AFN	Jaffrey
+JGB	Jagdalpur
+JAR	Jahrom
+JAI	Jaipur
+JSA	Jaisalmer
+HLP	Jakarta
+JKT	Jakarta
+JAA	Jalalabad
+JAL	Jalapa
+JLS	Jales
+UIT	Jaluit Island
+JMB	Jamba
+DJB	Jambi
+JAM	Jambol
+JMS	Jamestown
+JHW	Jamestown
+IXJ	Jammu
+JGA	Jamnagar
+IXW	Jamshedpur
+JKR	Janakpur
+JAD	Perth
+JVL	Janesville
+JNA	Januaria
+JQE	Jaque
+APT	Jasper
+JAS	Jasper
+YJP	Jasper-Hinton
+JTI	Jatai
+JAU	Jauja
+DJJ	Jayapura
+GIZ	Jazan
+XZF	Dammam
+JED	Jeddah
+EFW	Jefferson
+JFN	Jefferson
+JEF	Jefferson City
+JEJ	Jeh
+JCJ	Jeju
+CJU	Jeju
+JSP	Jeju
+ZJS	Jena
+ZJG	Jenpeg
+CHN	Jeonju
+JEQ	Jequie
+JEE	Jeremie
+XRY	Jerez De La Frontera
+JER	Jersey
+JRS	Jerusalem
+JLO	Jesolo
+JSR	Jessore
+PYB	Jeypore
+JGS	Ji An
+JMU	Jiamusi
+ZBD	Jiang Men
+JGN	Jiayuguan
+GJL	Jijel
+JIJ	Jijiga
+JIL	Jilin
+JIM	Jimma
+TNA	Jinan
+JDZ	Jingdezhen
+JHG	Jinghong
+CHF	Jinhae
+JNG	Jining
+JIN	Jinja
+JJN	Jinjiang
+HIN	Jinju
+BCO	Jinka
+JNZ	Jinzhou
+JPR	Ji-Parana
+JIP	Jipijapa
+JIR	Jiri
+JYR	Jiroft
+JIU	Jiujiang
+CHW	Jiuquan
+JIW	Jiwani
+JCB	Joacaba
+JPA	Joao Pessoa
+JDH	Jodhpur
+JOE	Joensuu
+GCJ	Johannesburg
+HCS	Johannesburg
+QRA	Johannesburg
+JDA	John Day
+YJO	Johnny Mountain
+JCY	Johnson
+TRI	Johnson City
+JON	Johnston Island
+JST	Johnstown
+JHB	Johor Bahru
+JOI	Joinville
+JOT	Joliet
+JOL	Jolo
+HGT	Jolon
+JMO	Jomsom
+JBR	Jonesboro
+JKG	Jonkoping
+JLN	Joplin
+JDN	Jordan
+JRH	Jorhat
+JOS	Jos
+JSM	Jose De San Martin
+JOP	Josephstaal
+JOK	Joshkar-Ola
+AJF	Sakaka Al Jouf
+JLP	Juan Les Pins
+JJI	Juanjui
+JUA	Juara
+JDO	Juazeiro Do Norte
+JUB	Juba
+JIA	Juina
+JUI	Juist
+JDF	Juiz De Fora
+JUJ	Jujuy
+JCK	Julia Creek
+JUL	Juliaca
+JUM	Jumla
+JCT	Junction
+JUN	Jundah
+JNU	Juneau
+UNU	Juneau
+JNI	Junin
+JUO	Jurado
+JUR	Jurien Bay
+JRN	Juruena
+JUT	Juticalpa
+JUZ	Juzhou
+JWA	Jwaneng
+JYV	Jyvaskyla
+KDM	Kaadedhdhoo
+KBA	Kabala
+KBG	Kabalega Falls
+KBO	Kabalo
+KBT	Kaben
+KBN	Kabinda
+ABK	Kabri Dar
+KBL	Kabul
+KBM	Kabwum
+KCF	Kadanwari
+KDO	Kadhdhoo
+KAD	Kaduna
+KED	Kaedi
+KLE	Kaele
+KGE	Kagau
+KGW	Kagi
+KOJ	Kagoshima
+AGK	Kagua
+KKF	Kagvik Creek
+KCM	Kahramanmaras
+OGG	Kahului
+KIA	Kaiapit
+KAI	Kaieteur
+KKO	Kaikohe
+KBZ	Kaikoura
+IXH	Kailashahar
+KNG	Kaimana
+KZF	Kaintiba
+AIZ	Kaiser/Lake Ozark
+KLT	Kaiserslautern
+KAT	Kaitaia
+KAJ	Kajaani
+KAE	Kake
+KNK	Kakhonak
+KLB	Kalabo
+KKK	Kalakaket
+KLM	Kalaleh
+KLX	Kalamata
+AZO	Kalamazoo
+KBH	Kalat
+LUP	Kalaupapa
+KAX	Kalbarri
+FMI	Kalemie
+KMV	Kalemyo
+KGI	Kalgoorlie
+KLO	Kalibo
+KLY	Kalima
+KLD	Kalinin
+KGD	Kaliningrad
+FCA	Kalispell
+KFG	Kalkurung
+KLR	Kalmar
+KLK	Kalokol
+KPP	Kalpowar
+KLG	Kalskag
+KAL	Kaltag
+KLF	Kaluga
+UBU	Kalumburu
+IXQ	Kamalpur
+KDS	Kamaran Downs
+KAM	Kamaran Is
+KAR	Kamarang
+KTV	Kamarata
+KDB	Kambalda
+KDQ	Kamberatoro
+KBX	Kambuaya
+KME	Kamembe
+KCP	Kamenets-Podolskiy
+KAC	Kameshli
+KML	Kamileroi
+KMN	Kamina
+KMF	Kamina
+KJU	Kamiraba
+YKA	Kamloops
+KDT	Kamphangsaen
+KMT	Kampot
+MUE	Kamuela
+KAQ	Kamulai
+KCD	Kamur
+KUY	Kamusi
+KNB	Kanab
+KEX	Kanabea
+KNE	Kanainj
+KGA	Kananga
+KDH	Kandahar
+KDV	Kandavu
+KDP	Kandep
+KDC	Kandi
+IXY	Kandla
+KDR	Kandrian
+KDW	Kandy
+QPW	Kangaatsiaq
+KNR	Kangan
+SFJ	Kangerlussuaq
+XGR	Kangiqsualujjuaq
+YWB	Kangiqsujuaq
+YKG	Kangirsuk
+KNM	Kaniama
+IKK	Kankakee
+KNN	Kankan
+KAN	Kano
+KNU	Kanpur
+KCK	Kansas City
+MKC	Kansas City
+MCI	Kansas City
+OJC	Kansas City
+JCI	Kansas City
+XKA	Kantchari
+KTK	Kanua
+KHH	Kaohsiung
+KLC	Kaolack
+KMZ	Kaoma
+KPL	Kapal
+JHM	Lahaina
+KAP	Kapanga
+KPI	Kapit
+YYU	Kapuskasing
+KAK	Kar
+KRX	Kar Kar
+KHI	Karachi
+KGF	Karaganda
+KRY	Karamay
+KRM	Karanambo
+KRG	Karasabai
+KAS	Karasburg
+KAF	Karato
+KRJ	Karawari
+KDG	Kardjali
+KDL	Kardla
+KAB	Kariba
+KMR	Karimui
+KWB	Karimunjawa
+KLV	Karlovy Vary
+XYO	Karlshamn
+KSK	Karlskoga
+FKB	Karlsruhe/Baden Baden
+KSD	Karlstad
+KYK	Karluk
+KKL	Karluk Lake
+KGJ	Karonga
+KXR	Karoola
+AOK	Karpathos
+KTA	Karratha
+KSY	Kars
+KSQ	Karshi
+KBF	Karubaga
+KRB	Karumba
+KRP	Karup
+KXA	Kasaan
+ZKB	Kasaba Bay
+XKS	Kasabonika
+KAA	Kasama
+BBK	Kasane
+KSB	Kasanombe
+YDU	Kasba Lake
+ZKE	Kaschechewan
+KEC	Kasenga
+KSE	Kasese
+KHG	Kashi
+KUK	Kasigluk
+KCB	Kasikasima
+ZKP	Kasompe
+KGN	Kasongo Lunda
+KSJ	Kasos Island
+KSL	Kassala
+KSF	Kassel
+KFS	Kastamonu
+KZS	Kastelorizo
+KSO	Kastoria
+KBQ	Kasungu
+KNI	Katanning
+KTR	Katherine
+KTM	Kathmandu
+KTC	Katiola
+KXU	Katiu
+KTO	Kato
+KTW	Ozarowice
+XXK	Katrineholm
+YAU	Kattiniq
+KDZ	Katugastota
+KTY	Katukurunda
+KAZ	Kau
+LIH	Kauai Island
+HPV	Kauai Island
+KHZ	Kauehi
+KHJ	Kauhajoki
+KAU	Kauhava
+KKR	Kaukura Atoll
+KUN	Kaunas
+KVA	Kavala
+KAV	Kavanayen
+KVG	Kavieng
+VIK	Kavik
+KWD	Kawadjia
+KUI	Kawau Island
+KWO	Kawito
+KAW	Kawthaung
+XKY	Kaya
+MVM	Kayenta
+KYS	Kayes
+ASR	Kayseri
+KZN	Kazan
+EAR	Kearney
+KEQ	Kebar
+KGG	Kedougou
+EEN	Keene
+KMP	Keetmanshoop
+KEW	Keewaywin
+EFL	Kefallinia
+ZKG	Kegaska
+KEG	Keglsugl
+KEA	Keisah
+BKH	Kekaha
+LFO	Kelafo/Callaf
+KEZ	Kelaniya
+KNL	Kelanoa
+LLN	Kelila
+KEE	Kelle
+KEU	Kelly Bar
+YLW	Kelowna
+KLP	Kelp Bay
+KES	Kelsey
+KLS	Kelso
+KLQ	Keluang
+XKO	Kemano
+EMM	Kemerer
+KEJ	Kemerovo
+KEM	Kemi/Tornio
+KPS	Kempsey
+ENA	Kenai
+KDI	Kendari
+KEN	Kenema
+KET	Keng Tung
+KNZ	Kenieba
+KGU	Keningau
+NNA	Kenitra
+KEH	Kenmore Air Harbor
+KNT	Kennett
+YKI	Kennosao Lake
+YQK	Kenora
+ENW	Kenosha
+KKT	Kentland
+EOK	Keokuk
+KEI	Kepi
+KJP	Kerama
+KRA	Kerang
+KRU	Kerau
+KHC	Kerch
+KMA	Kerema
+KEY	Kericho
+KKE	Kerikeri
+KRC	Kerinci
+KRV	Kerio Valley
+CFU	Kerkyra
+KER	Kerman
+KSH	Kermanshah
+ERV	Kerrville
+KIR	Killarney/Kerry
+KTE	Kerteh
+IXK	Keshod
+KTG	Ketapang
+KTN	Ketchikan
+WFB	Ketchikan
+YKJ	Key Lake
+KYL	Key Largo
+EYW	Key West
+NQX	Key West
+QKS	Keystone
+KHV	Khabarovsk
+HJR	Khajuraho
+KMX	Khamis Mushait
+KHM	Khamti
+XIH	Khan Al Baghdadi
+KHA	Khaneh
+HMA	Khanty-Mansiysk
+UVL	Kharga
+KHK	Khark Island
+KHR	Kharkhorin
+HRK	Kharkov
+KRT	Khartoum
+KHS	Khasab
+GBU	Khashm El Girba
+HTM	Khatgal
+KHE	Kherson
+HMJ	Khmelnitskiy
+KHO	Khoka Moya
+KKC	Khon Kaen
+KOG	Khong
+KHD	Khorramabad
+KHT	Khost
+HVD	Khovd
+IXN	Khowai
+KHY	Khoy
+LBD	Khudzhand
+HJT	Khujirt
+KHL	Khulna
+KDD	Khuzdar
+KWH	Khwahan
+KHW	Khwai River Lodge
+IAN	Kiana
+KII	Kibuli
+KEL	Kiel
+KIE	Kieta
+KBP	Kiev
+QOF	Kiev
+QOH	Kiev
+IEV	Kiev
+KFA	Kiffa
+KGL	Kigali
+TKQ	Kigoma
+KKX	Kikaiga Shima
+KIZ	Kikinonda
+KRI	Kikori
+KKW	Kikwit
+ILU	Kilaguni
+GGG	Kilgore
+KIO	Kili Island
+JRO	Kilimanjaro
+KKY	Kilkenny
+FFA	Kill Devil Hills
+YXI	Killaloe
+HLR	Killeen
+GRK	Killeen
+ILE	Killeen
+XBW	Killineq
+KIL	Kilwa
+KIY	Kilwa
+KMM	Kimam
+YQE	Kimberley
+KIM	Kimberley
+KBD	Kimberley Downs
+YLC	Kimmirut/Lake Harbour
+YKD	Kincardine
+KNJ	Kindamba
+YKY	Kindersley
+KND	Kindu
+KIC	King City
+KVC	King Cove
+KNS	King Island
+KMC	King Khalid Mil. City
+KPD	King Of Prussia
+AKN	King Salmon
+KGY	Kingaroy
+KIF	Kingfisher Lake
+IGM	Kingman
+KBJ	Kings Canyon
+KCS	Kings Creek Station
+KNF	Kings Lynn
+KGC	Kingscote
+KIN	Kingston
+KTP	Kingston
+YGK	Kingston
+NQI	Kingsville
+KNH	Kinmen
+KNY	Kinoosao
+ISO	Kinston
+KPN	Kipnuk
+KIQ	Kira
+IRA	Kirakira
+KRZ	Kiri
+KKN	Kirkenes
+KBB	Kirkimbie
+YKX	Kirkland Lake
+IRK	Kirksville
+KIK	Kirkuk
+KVX	Kirov
+KGO	Kirovograd
+KVK	Kirovsk
+KRN	Kiruna
+KRE	Kirundo
+KSW	Kiryat Shmona
+FKI	Kisangani
+KSG	Kisengan
+KIH	Kish Island
+KMU	Kismayu
+KSI	Kissidougou
+ISM	Kissimmee
+KIS	Kisumu
+KKJ	Kita Kyushu
+KTD	Kitadaito
+KTL	Kitale
+KVE	Kitava
+YKF	Kitchener/Waterloo
+KTQ	Kitee
+KIT	Kithira
+YKK	Kitkatla
+KKB	Kitoi Bay
+QJE	Kitsissuarsuit
+KTT	Kittila
+KIW	Kitwe
+XJS	Kitzbuehl
+KZG	Kitzingen
+KIU	Kiunga
+UNG	Kiunga
+KVL	Kivalina
+KWX	Kiwai Island
+KWY	Kiwayu
+KZH	Kizhuyak
+KBK	Klag Bay
+KLU	Klagenfurt
+PLQ	Klaipeda/Palanga
+LMT	Klamath Falls
+KLW	Klawock
+KLZ	Kleinzee
+YKT	Klemtu
+KXE	Klerksdorp
+YKE	Knee Lake
+KNV	Knights Inlet
+NOC	Knock
+KNO	Knokke/Het Zoute
+TYS	Knoxville
+UKB	Kobe
+OBU	Kobuk
+KCO	Kocaeli
+COK	Kochi
+KCZ	Kochi
+ADQ	Kodiak
+WDY	Kodiak
+KDK	Kodiak
+KOQ	Koethen
+KGP	Kogalym
+KCT	Koggala
+KKZ	Koh Kong
+USM	Koh Samui
+OHT	Kohat
+KMB	Koinambe
+KIG	Koinghaas
+KOK	Kokkola/Pietarsaari
+KKD	Kokoda
+OKK	Kokomo
+KOX	Kokonao
+KOR	Kokoro
+KOV	Kokshetau
+KQL	Kol
+KDA	Kolda
+KLH	Kolhapur
+CCU	Kolkata
+KWZ	Kolwezi
+KCJ	Komaio
+HOC	Komako
+KOF	Komatipoort
+KMQ	Komatsu
+KOM	Komo-Manda
+KPM	Kompiam
+KZK	Kompong Thom
+KZC	Kompong-Chhna
+KXK	Komsomolsk Na Amure
+KCI	Kon
+KOA	Kona
+KKG	Konawaruk
+KPF	Kondubol
+KNQ	Kone
+KGB	Konge
+KKH	Kongiganak
+GKO	Kongoboumba
+KOO	Kongolo
+KON	Kontum
+KYA	Konya
+KOH	Koolatah
+KKP	Koolburra
+KQB	Koonibba
+OPA	Kopasker
+KPA	Kopiago
+YVK	Koppang
+HGO	Korhogo
+KRL	Korla
+KXF	Koro Island
+KDE	Koroba
+KVU	Korolevu
+ROR	Koror
+KJK	Kortrijk
+KGS	Kos
+OSX	Kosciusko
+KSC	Kosice
+KSP	Kosipe
+KSA	Kosrae
+KSN	Kostanay
+KST	Kosti
+KMW	Kostroma
+OSZ	Koszalin
+KTU	Kota
+KBR	Kota Bharu
+BKI	Kota Kinabalu
+ZWR	Kota Kinabalu
+KLI	Kota Koli
+KOD	Kotabangun
+KBU	Kotabaru
+KSZ	Kotlas
+KOT	Kotlik
+OTZ	Kotzebue
+KDF	Kouba
+KOU	Koulamoutou
+KOC	Koumac
+KOL	Koumala
+SBI	Koundara
+KOB	Koutaba
+KTX	Koutiala
+QVY	Kouvola
+UTI	Kouvola
+KWM	Kowanyama
+KKA	Koyuk
+KYU	Koyukuk
+KZI	Kozani
+CCJ	Kozhikode
+KBV	Krabi
+KZD	Krakor
+KRK	Krakow
+KRQ	Kramatorsk
+KRF	Kramfors
+KRR	Krasnodar
+KJA	Krasnojarsk
+KTI	Kratie
+KHU	Kremenchug
+KBI	Kribi
+KRS	Kristiansand
+XKR	Kristiansand
+KID	Kristianstad
+KSU	Kristiansund
+XYN	Kristinehamn
+KWG	Krivoy Rog
+SEK	Ksar Es Souk
+KUL	Kuala Lumpur
+SZB	Kuala Lumpur
+TGG	Kuala Terengganu
+KUA	Kuantan
+ZJB	Kuantan
+KUG	Kubin Island
+KCH	Kuching
+ZGY	Kuching
+KUD	Kudat
+AKF	Kufrah
+YBB	Kugaaruk
+YCO	Kugluktuk/Coppermine
+KUW	Kugururok River
+SVP	Kuito
+KUE	Kukundu
+KGR	Kulgera
+LKK	Kulik Lake
+KUU	Bhuntar
+KUS	Kulusuk
+KMJ	Kumamoto
+KMS	Kumasi
+UEO	Kumejima
+CMU	Kundiawa
+UND	Kunduz
+KGM	Kungum
+KMG	Kunming
+KNX	Kununurra
+KUO	Kuopio
+KEV	Kuorevesi
+KOE	Kupang
+UUK	Kuparuk
+KUP	Kupiano
+KCA	Kuqa
+KUR	Kuran-O-Munjan
+URE	Kuressaare
+KRO	Kurgan
+KUQ	Kuri
+KUC	Kuria
+URS	Kursk
+KMH	Kuruman
+KRD	Kurundi
+KPG	Kurupung
+KWV	Kurwina
+KUJ	Kushimoto
+KUH	Kushiro
+KUT	Kutaisi
+YVP	Kuujjuaq
+YGW	Kuujjuarapik
+KAO	Kuusamo
+KWI	Kuwait City
+KUX	Kuyol
+KWR	Kwai Harbour
+KWS	Kwailabesi
+KWA	Kwajalein
+EAL	Kwajalein Atoll
+KWT	Kwethluk
+KWK	Kwigillingok
+KTZ	Kwun Tong
+KYP	Kyaukpyu
+KYT	Kyauktaw
+UKY	Kyoto
+KYZ	Kyzyl
+KZO	Kzyl-Orda
+LBY	La Baule
+LCE	La Ceiba
+LCR	La Chorrera
+LCL	La Coloma
+LCG	La Coruna
+LSE	La Crosse
+LCM	La Cumbre
+DSD	La Desirade
+LEZ	La Esperanza
+LFR	La Fria
+LGD	La Grande
+YGL	La Grande
+LGC	La Grange
+LAG	La Guaira
+PLP	La Palma
+NDO	La Palma Del Condado
+LPB	La Paz
+LAP	La Paz
+LPD	La Pedrera
+PLG	La Plagne
+LPG	La Plata
+LPE	La Primavera
+IRJ	La Rioja
+EDM	La Roche
+LRH	La Rochelle
+LRM	Punta Cana
+YVC	La Ronge
+SSQ	La Sarre
+LSC	La Serena
+ZLT	La Tabatiere
+YLQ	La Tuque
+LUI	La Union
+LAT	La Uribe
+POC	La Verne
+LRC	Laarbruch
+EUN	Laayoune
+LBS	Labasa
+LEK	Labe
+LAB	Lablab
+WLB	Labouchere Bay
+LBR	Labrea
+LBU	Labuan
+LBJ	Labuan Bajo
+LAH	Labuha
+YLB	Lac Biche
+XLB	Lac Brochet
+LCI	Laconia
+LDO	Ladouanie
+LYT	Lady Elliot Island
+LAY	Ladysmith
+LAE	Lae
+LML	Lae Island
+BYR	Laeso Island
+LAF	Lafayette
+YLF	LaForges
+LAJ	Lages
+LGQ	Lago Agrio
+ING	Lago Argentino
+LOS	Lagos
+LOM	Lagos de Moreno
+YAR	Lagrande 3
+YAH	Lagrande 4
+LCO	Lague
+LGY	Lagunillas
+LDU	Lahad Datu
+LHE	Lahore
+LHA	Lahr
+LTC	Lai
+LGM	Laiagam
+LBN	Lake Baringo
+LCH	Lake Charles
+LEL	Lake Evella
+XES	Lake Geneva
+LGE	Lake Gregory
+HII	Lake Havasu City
+LJN	Lake Jackson
+LKY	Lake Manyara
+LMA	Lake Minchumina
+LMY	Lake Murray
+LNH	Lake Nash
+LKP	Lake Placid
+LKU	Lake Rudolf
+LKB	Lakeba
+LFP	Lakefield
+NEL	Lakehurst
+LAL	Lakeland
+LKD	Lakeland Downs
+LKS	Lakeside
+LKV	Lakeview
+LKT	Lakota
+LKL	Lakselv
+LLI	Lalibela
+LAV	Lalomalava
+LMC	Lamacarena
+LPM	Lamap
+LAA	Lamar
+LMG	Lamassa
+LBQ	Lambarene
+LNB	Lamen Bay
+LFM	Lamerd
+SUF	Lamezia-terme
+LDN	Lamidanda
+LPT	Lampang
+LMP	Lampedusa
+LAU	Lamu
+LNY	Lanai City
+RZH	Lancaster
+WJF	Lancaster
+LNS	Lancaster
+ZRL	Lancaster
+LND	Lander
+LDV	Landivisiau
+LEQ	Lands End
+JLD	Landskrona
+YLA	Langara
+LGO	Langeoog
+LUV	Langgur
+LNM	Langimar
+LGK	Langkawi
+YLY	Langley
+LTG	Langtang
+LAI	Lannion
+LDW	Lansdowne
+YLH	Lansdowne House
+HLA	Lanseria
+LAN	Lansing
+ACE	Lanzarote
+LHW	Lanzhou
+LZD	Lanzhou
+ZGC	Lanzhou
+LAO	Laoag
+LPO	Laporte
+LPP	Lappeenranta
+LRR	Lar
+LAR	Laramie
+LKA	Larantuka
+LRD	Laredo
+LRA	Larisa
+LCA	Larnaca
+KLN	Larsen Bay
+LCS	Las Canas
+LRU	Las Cruces
+LGT	Las Gaviotas
+LHS	Las Heras
+LKR	Las Khoreh
+LLH	Las Limas
+LLS	Las Lomitas
+LPA	Las Palmas
+LSP	Las Piedras
+VTU	Las Tunas
+LVS	Las Vegas
+HSH	Las Vegas
+LAS	Las Vegas
+LSV	Las Vegas
+VGT	Las Vegas
+LSH	Lashio
+LTL	Lastourville
+LTX	Latacunga
+LTK	Latakia
+LRO	Lathrop
+LTH	Lathrop Wells
+LBE	Latrobe
+LTB	Latrobe
+LUC	Laucala Is
+LST	Launceston
+LUU	Laura
+LUT	Laura Station
+PIB	Laurel
+LUL	Laurel
+LRQ	Laurie River
+QLX	Lauterach
+LVA	Laval
+LVP	Lavan
+LVO	Laverton
+LWY	Lawas
+LWH	Lawn Hill
+LWC	Lawrence
+LWM	Lawrence
+LWV	Lawrenceville
+LVL	Lawrenceville
+LAW	Lawton
+LZC	Lazaro Cardenas
+CTT	Le Castellet
+LEH	Le Havre
+LME	Le Mans
+LPY	Le Puy
+LTQ	Le Touquet
+LXV	Leadville
+XLF	Leaf Bay
+YLR	Leaf Rapids
+LEA	Learmonth
+LEF	Lebakeng
+YLS	Lebel-Sur-Quevillon
+LCC	Lecce
+LEO	Leconi
+LBA	Leeds
+LEE	Leesburg
+LWR	Leeuwarden
+LGP	Legazpi
+LGZ	Leguizamo
+IXL	Leh
+LHP	Lehu
+LID	Leiden
+LGH	Leigh Creek
+LER	Leinster
+LEJ	Leipzig/Halle
+LTF	Leitre
+LKC	Lekana
+LKN	Leknes
+LEY	Lelystad
+LRJ	Lemars
+LEM	Lemmon
+NLC	Lemoore
+XLW	Lemwerder
+LEC	Lencois
+LNC	Lengbati
+XLU	Leo
+LEN	Leon
+BJX	Leon/Guanajuato
+LTW	Leonardtown
+LNO	Leonora
+LEP	Leopoldina
+LHI	Lereh
+LRB	Leribe
+LPN	Leron Plains
+LRS	Leros
+CYA	Les Cayes
+LSO	Les Sables
+LNG	Lese
+LDG	Leshukonskoye
+LES	Lesobeng
+YQL	Lethbridge
+LTM	Lethem
+LET	Leticia
+LTR	Letterkenny
+XUH	Levanger
+KLL	Levelock
+LWB	Lewisburg
+LWS	Lewiston
+LEW	Lewiston
+LWT	Lewistown
+LWE	Lewoleba
+LEX	Lexington
+LSD	Lexington
+LXN	Lexington
+LXA	Lhasa
+LSX	Lhok Sukon
+LSW	Lhoksumawe
+LIA	Liangping
+ZIY	Lianhuashan
+LYG	Lianyungang
+LIE	Libenge
+LBL	Liberal
+LIR	Liberia
+LBK	Liboi
+LBV	Libreville
+VXC	Lichinga
+LDK	Lidkoping
+LGG	Liege
+XHN	Liege
+LPX	Liepaya
+LIF	Lifou
+LHG	Lightning Ridge
+LNV	Lihir Island
+LJG	Lijiang City
+LIK	Likiep Island
+LIX	Likoma Island
+IXI	Lilabari
+LIL	Lille
+XDB	Lille
+XFA	Lille
+XXL	Lillehammer
+XKI	Lillestrom
+LLW	Lilongwe
+AOH	Lima
+LIM	Lima
+LMN	Limbang
+VCC	Limbe
+LIB	Limbunya
+LMR	Lime Acres
+LVD	Lime Village
+LIZ	Limestone
+LXS	Limnos
+LIG	Limoges
+LIC	Limon
+LIO	Limon
+LMH	Limon
+LNJ	Lincang
+LNK	Lincoln
+LRK	Lincoln Rock
+LLP	Linda Downs
+LDC	Lindeman Island
+LDJ	Linden
+LDI	Lindi
+LGN	Linga Linga
+LLF	LingLing
+LPI	Linkoping
+LIU	Linosa
+LIP	Lins
+LXI	Linxi
+LYI	Linyi
+LNZ	Linz
+ZIP	Lipari
+LPK	Lipetsk
+HZH	Liping City
+LIQ	Lisala
+LIS	Lisbon
+ZYD	Lisbon
+LHN	Lishan
+LSY	Lismore
+LLL	Lissadell
+LYB	Little Cayman
+ZGR	Little Grand Rapids
+WLN	Little Naukati
+LPW	Little Port Walter
+LIT	Little Rock
+LZH	Liuzhou
+LIV	Livengood
+LVK	Livermore
+LPL	Liverpool
+LVM	Livingston
+LVI	Livingstone
+LVB	Livramento
+LZR	Lizard Island
+LJU	Ljubljana
+YLL	Lloydminster
+LNQ	Loani
+LOQ	Lobatse
+LPH	Lochgilphead
+LOC	Lock
+LHV	Lock Haven
+IRG	Lockhart River
+LOT	Lockport
+LDR	Lodar
+LJA	Lodja
+LOK	Lodwar
+LCJ	Lodz
+LOE	Loei
+LOF	Loen
+LGU	Logan
+RJL	Logrono
+LIW	Loikaw
+OHO	Okhotsk
+OKI	Oki Island
+DNA	Okinawa
+OKA	Okinawa
+AHA	Okinawa
+OKE	Okino Erabu
+DWN	Oklahoma City
+TIK	Oklahoma City
+PWA	Oklahoma City
+OKC	Oklahoma City
+OKM	Okmulgee
+OKN	Okondja
+OKG	Okoyo
+OKP	Oksapmin
+OKL	Oksibil
+OKT	Oktiabrskij
+OIR	Okushiri
+OFJ	Olafsfjordur
+OLI	Olafsvik
+OAN	Olanchito
+OVR	Olavarria
+OLB	Olbia
+YOC	Old Crow
+ZFB	Old Fort Bay
+OLH	Old Harbor
+OLD	Old Town
+OLE	Olean
+KOY	Olga Bay
+OLV	Olive Branch
+OLY	Olney
+ONY	Olney
+OLO	Olomouc
+OLJ	Olpoi
+OLQ	Olsobip
+OLM	Olympia
+OLP	Olympic Dam
+OMA	Omaha
+MIQ	Omaha
+OMK	Omak
+OMB	Omboue
+OMG	Omega
+OMI	Omidieh
+OML	Omkalai
+OSE	Omora
+OMS	Omsk
+OMJ	Omura
+OND	Ondangwa
+ONL	Oneill
+ONH	Oneonta
+ONE	Onepusu
+OGV	Ongava Game Reserve
+VPE	Ongiva
+ONN	Onion Bay
+ONU	Ono I Lau
+ONB	Ononge
+OOT	Onotoa
+ONS	Onslow
+ONT	Ontario
+JIO	Ontario
+ONO	Ontario
+OTV	Ontong Java
+ODD	Oodnadatta
+YBS	Opapamiska Lake
+OPL	Opelousas
+OPB	Open Bay
+OPW	Opuwa
+XEO	Oqatsut
+OMR	Oradea
+RAX	Oram
+ORN	Oran
+TAF	Oran
+ORA	Oran
+JOR	Orange
+OAG	Orange
+ORZ	Orange Walk
+OGB	Orangeburg
+OMD	Oranjemund
+ORP	Orapa
+RBS	Orbost
+OKB	Orchid Beach
+KYD	Orchid Island
+ODR	Ord River
+ORB	Orebro
+OEL	Orel
+REN	Orenburg
+OTY	Oria
+OXO	Orientos
+ORJ	Orinduik
+ORX	Oriximina
+KOI	Orkney Island
+OLA	Orland
+ORL	Orlando
+MCO	Orlando
+SFB	Orlando
+DWS	Orlando
+ORE	Orleans
+ORW	Ormara
+OMC	Ormoc
+OER	Ornskoldsvik
+ORC	Orocue
+OVE	Oroville
+ORS	Orpheus Island Resort
+OSW	Orsk
+HOV	Orsta-Volda
+ORU	Oruro
+OSB	Osage Beach
+ITM	Osaka
+KIX	Osaka
+OSN	Osan
+OEO	Osceola
+OSC	Oscoda
+OSS	Osh
+OHI	Oshakati
+YOO	Oshawa
+OIM	Oshima
+OKS	Oshkosh
+OSH	Oshkosh
+OSI	Osijek
+OOA	Oskaloosa
+OSK	Oskarshamn
+OSL	Oslo
+XZO	Oslo
+TRF	Oslo
+OMN	Osmanabad
+ZOS	Osorno
+OSG	Ossima
+OST	Ostend
+OSD	Ostersund
+OSR	Ostrava
+OTJ	Otjiwarongo
+ZIF	Ottawa
+YND	Ottawa
+YOW	Ottawa
+YRO	Ottawa
+OTO	Otto
+OTM	Ottumwa
+OTU	Otu
+ODA	Ouadda
+OUA	Ouagadougou
+OUG	Ouahigouya
+ODJ	Ouanda Djalle
+OUU	Ouanga
+OFI	Ouango Fitini
+OGX	Ouargla
+OZZ	Ouarzazate
+ODY	Oudomxay
+OUH	Oudtshoorn
+OUE	Ouesso
+OUD	Oujda
+OUL	Oulu
+OUM	Oum Hadjer
+OIA	Ourilandia
+OUS	Ourinhos
+OUK	Outer Skerries
+UVE	Ouvea
+OYN	Ouyen
+KOZ	Ouzinkie
+OVL	Ovalle
+VDA	Ovda
+OVG	Overberg
+FTX	Owando
+OWA	Owatonna
+YOS	Owen Sound
+OWE	Owendo
+OWB	Owensboro
+OXC	Oxford
+OXF	Oxford
+UOX	Oxford
+OXD	Oxford
+YOH	Oxford House
+OYE	Oyem
+OZC	Ozamis City
+OZR	Ozark
+HEY	Ozark
+LOR	Ozark
+OZA	Ozona
+PBJ	Paama
+JFR	Paamiut
+PAA	Pa-an
+PFC	Pacific City
+PHR	Pacific Harbor
+PBK	Pack Creek
+PDG	Padang
+PAD	Paderborn
+PAH	Paducah
+PFA	Paf Warren
+PAG	Pagadian
+PGA	Page
+PPG	Pago Pago
+PGO	Pagosa Springs
+PHK	Pahokee
+PLE	Paiela
+PAI	Pailin
+PMU	Paimiut
+PVZ	Painesville
+PCE	Painter Creek
+PJA	Pajala
+PKL	Pakatoa Island
+PKK	Pakokku
+PKS	Paksane
+PKZ	Pakse
+YIF	Pakuashipi
+PAF	Pakuba
+PLF	Pala
+PCH	Palacios
+PSX	Palacios
+PKY	Palangkaraya
+PAL	Palanquero
+PLM	Palembang
+PQM	Palenque
+PMO	Palermo
+PSN	Palestine
+PBW	Palibelo
+PMK	Palm Island
+PLI	Palm Island
+UDD	Palm Springs
+PSP	Palm Springs
+LMZ	Palma
+PMI	Palma Mallorca
+PMZ	Palmar
+PTM	Palmarito
+PMW	Palmas
+PMD	Palmdale
+PAQ	Palmer
+PMX	Palmer
+PMR	Palmerston North
+PMS	Palmyra
+PAO	Palo Alto
+OEM	Paloemeu
+PLW	Palu
+XPA	Pama
+PAW	Pambwa
+PAY	Pamol
+PPA	Pampa
+PNA	Pamplona
+ZAX	Pan Yu
+PZI	Pan Zhi Hua
+PFN	Panama City
+PAM	Panama City
+PAC	Panama City
+PTY	Panama City
+ZJE	Panarea
+PDE	Pandie Pandie
+PNV	Panevezys
+PGN	Pangia
+PKN	Pangkalanbuun
+PGK	Pangkalpinang
+PKG	Pangkor
+YXP	Pangnirtung
+PGB	Pangoa
+PNU	Panguitch
+PJG	Panjgur
+PNL	Pantelleria
+PGH	Pantnagar
+WPO	Paonia
+PSV	Papa Stour
+PPW	Papa Westray
+PPT	Papeete
+PFO	Paphos
+PPU	Papun
+PAJ	Para Chinar
+PBO	Paraburdoo
+YDE	Paradise River
+PGR	Paragould
+PKO	Parakou
+PPX	Param
+PMT	Paramakotoi
+PBM	Paramaribo
+ORG	Paramaribo
+PRA	Parana
+PNG	Paranagua
+PBB	Paranaiba
+PVI	Paranavai
+PPQ	Paraparaumu
+PRS	Parasi
+EUO	Paratebueno
+PRD	Pardoo
+PED	Pardubice
+PIN	Parintins
+XEX	Paris
+BVA	Paris
+XDT	Paris
+CDG	Paris
+XTT	Paris
+XPG	Paris
+XGB	Paris
+JDP	Paris
+JPU	Paris
+LBG	Paris
+ORY	Paris
+POX	Paris
+VIY	Paris
+PHT	Paris
+PRX	Paris
+PKF	Park Falls
+PKD	Park Rapids
+PKB	Parkersburg
+PKE	Parkes
+KPK	Parks
+PHB	Parnaiba
+PDN	Parndana
+EPU	Parnu
+PBH	Paro
+PAS	Paros
+YPD	Parry Sound
+PFQ	Parsabad
+PPF	Parsons
+PRR	Paruima
+JPD	Pasadena
+PGL	Pascagoula
+PSC	Pasco
+IXT	Pasighat
+ZLW	Pasir Gudang
+PPR	Pasir Pangarayan
+PSI	Pasni
+PCG	Paso Caballos
+AOL	Paso De Los Libres
+PRB	Paso Robles
+PFB	Passo Fundo
+PSW	Passos
+PTZ	Pastaza
+PSO	Pasto
+IXP	Pathankot
+PAT	Patna
+PTO	Pato Branco
+PBS	Patong Beach
+POJ	Patos De Minas
+GPA	Patras
+PFJ	Patreksfjordur
+PAN	Pattani
+PYX	Pattaya
+PTN	Patterson
+NHK	Patuxent River
+PUF	Pau
+PAU	Pauk
+YPC	Paulatuk
+PAV	Paulo Afonso
+KPH	Pauloff Harbor
+PWQ	Pavlodar
+PWI	Pawi
+PYN	Payan
+PDU	Paysandu
+PJB	Payson
+PZA	Paz De Ariporo
+YPE	Peace River
+PGS	Peach Springs
+YPO	Peawanuck
+PEB	Pebane
+PEX	Pechora
+PEQ	Pecos City
+PDZ	Pedernales
+PDB	Pedro Bay
+PJC	Pedro Juan Caballero
+PEF	Peenemuende
+PEH	Pehuajo
+PKU	Pekanbaru
+PEL	Pelaneng
+PEC	Pelican
+PLR	Pell City
+PLN	Pellston
+PET	Pelotas
+POL	Pemba
+PMA	Pemba
+PMB	Pembina
+YTA	Pembroke
+PEN	Penang
+ZJR	Penang
+YPT	Pender Harbor
+PDT	Pendleton
+PDO	Pendopo
+PNJ	Peng Lai
+PEA	Penneshaw
+PEY	Penong
+PYE	Penrhyn Island
+NDP	Pensacola
+NPA	Pensacola
+PNS	Pensacola
+NUN	Pensacola
+YYF	Penticton
+PEZ	Penza
+PZE	Penzance
+PIA	Peoria
+PBY	Peppers Palm Bay
+PEP	Peppimenarti
+PPH	Peraitepuy
+PEI	Pereira
+PGX	Perigueux
+PMQ	Perito Moreno
+PEE	Perm
+PGF	Perpignan
+FPY	Perry
+PRO	Perry
+PYL	Perry Island
+KPV	Perryville
+PSL	Perth
+ZXP	Perth
+PER	Perth
+VYS	Peru
+GUS	Peru
+PEG	Perugia
+PSR	Pescara
+PEJ	Peschiei
+PEW	Peshawar
+YWA	Petawawa
+YPQ	Peterborough
+PSG	Petersburg
+FLE	Petersburg
+PTB	Petersburg
+PGC	Petersburg
+PNZ	Petrolina
+PPK	Petropavlovsk
+PKC	Petropavlovsk-Kamchats
+PES	Petrozavodsk
+PWE	Pevek
+UPF	Pforheim
+PHW	Phalaborwa
+PHA	Phan Rang
+PHH	Phan Thiet
+PMM	Phanom Sarakham
+PPL	Phaplu
+PHY	Phetchabun
+PHZ	Phi Phi Island
+PHL	Philadelphia
+MUV	Philadelphia
+ZHC	Philadelphia
+PNE	Philadelphia
+ZFV	Philadelphia
+PSQ	Philadelphia
+ZTN	Philadelphia
+TTN	Philadelphia
+PHP	Philip
+PZL	Phinda
+PHS	Phitsanulok
+PNH	Phnom Penh
+LUF	Phoenix
+DVT	Phoenix
+SCF	Phoenix
+PHX	Phoenix
+PCQ	Phongsaly
+PRH	Phrae
+PQC	Phu Quoc
+PHU	Phu Vinh
+HBN	Phu-bon
+HKT	Phuket
+VSO	Phuoclong
+PCU	Picayune
+LQK	Pickens
+YPL	Pickle Lake
+PIX	Pico Island
+PCS	Picos
+PCN	Picton
+PDS	Piedras Negras
+PIR	Pierre
+PZY	Piestany
+PZB	Pietermaritzburg
+LPJ	Pijiguaos
+YPM	Pikangikum
+PIW	Pikwitonei
+PIL	Pilar
+PIP	Pilot Point
+UGB	Pilot Point
+PQS	Pilot Station
+PMP	Pimaga
+PBQ	Pimenta Bueno
+WPC	Pincher Creek
+PDI	Pindiu
+PBF	Pine Bluff
+PIC	Pine Cay
+ZPO	Pine House
+PIM	Pine Mountain
+YPP	Pine Point
+XPR	Pine Ridge
+PIF	Pingtung
+PHI	Pinheiro
+PNO	Pinotepa Nacional
+PIQ	Pipillipai
+PIV	Pirapora
+PIO	Pisco
+PTX	Pitalito
+PIG	Pitinga
+PWN	Pitts Town
+PTS	Pittsburg
+AGC	Pittsburgh
+CVA	Pittsburgh
+PSF	Pittsfield
+THU	Pituffik
+PIU	Piura
+PLJ	Placencia
+PVF	Placerville
+PVW	Plainview
+PLA	Planadas
+PLC	Planeta Rica
+PTU	Platinum
+PLT	Plato
+PBG	Plattsburgh
+PLB	Plattsburgh
+PCM	Playa Del Carmen
+PKJ	Playa Grande
+PLD	Playa Samara
+PYC	Playon Chico
+PTR	Pleasant Harbour
+JBS	Pleasanton
+PXU	Pleiku
+PWD	Plentywood
+PBZ	Plettenberg Bay
+PVN	Pleven
+PDV	Plovdiv
+PLH	Plymouth
+PLY	Plymouth
+PYM	Plymouth
+PUP	Po
+POH	Pocahontas
+PIH	Pocatello
+PUH	Pochutla
+POO	Pocos De Caldas
+TGD	Podgorica
+POD	Podor
+BSF	Pohakuloa
+KPO	Pohang
+PNI	Pohnpei
+KPB	Point Baker
+PHO	Point Hope
+PIZ	Point Lay
+PRT	Point Retreat
+PNR	Pointe Noire
+PTP	Pointe-a-Pitre
+YNL	Points North Landing
+HPP	Poipet
+PIS	Poitiers
+PKR	Pokhara
+PXL	Polacca
+POQ	Polk Inlet
+PTG	Polokwane
+PLV	Poltava
+PYJ	Polyarnyj
+PUM	Pomala
+PPM	Pompano Beach
+PNC	Ponca City
+PSE	Ponce
+YIO	Pond Inlet
+PNY	Pondicherry
+PCB	Pondok Cabe
+PDD	Ponta de Ouro
+PDL	Ponta Delgada
+PLL	Ponta Pelada
+PMG	Ponta Pora
+LCB	Pontes e Lacerda
+PTK	Pontiac
+PNK	Pontianak
+ZJY	Ponza
+PPN	Popayan
+PVY	Pope Vanoy
+POF	Poplar Bluff
+YHP	Poplar Hill
+XPP	Poplar River
+PNP	Popondetta
+TAT	Poprad/Tatry
+PON	Poptun
+PBD	Porbandar
+PCK	Porcupine Creek
+PRE	Pore
+RGE	Porgera
+POR	Pori
+PMV	Porlamar
+XKP	Porsgrunn
+YPB	Port Alberni
+PTD	Port Alexander
+AFD	Port Alfred
+PTC	Port Alice
+PTA	Port Alsworth
+CLM	Port Angeles
+POT	Port Antonio
+PTL	Port Armstrong
+PAP	Port Au Prince
+PUG	Port Augusta
+KPY	Port Bailey
+WPB	Port Berge
+IXZ	Port Blair
+KPC	Port Clarence
+PAX	Port De Paix
+PTI	Port Douglas
+BQU	Port Elizabeth
+PLZ	Port Elizabeth
+GBS	Port Fitzroy
+PFD	Port Frederick
+POG	Port Gentil
+PGM	Port Graham
+PHC	Port Harcourt
+PHG	Port Harcourt
+YZT	Port Hardy
+YPS	Port Hawkesbury
+PHE	Port Hedland
+PTH	Port Heiden
+YHA	Port Hope Simpson
+NTD	Port Hueneme
+PHJ	Port Hunter
+PHN	Port Huron
+PRF	Port Johnson
+PKM	Port Kaituma
+PKT	Port Keats
+XPQ	Port Klang
+PLO	Port Lincoln
+ORI	Port Lions
+PQQ	Port Macquarie
+YMP	Port McNeil
+YPN	Port Menier
+PML	Port Moller
+POM	Port Moresby
+PRL	Port Oceanic
+PPI	Port Pirie
+PPV	Port Protection
+PSD	Port Said
+JOH	Port Saint Johns
+PJS	Port San Juan
+YPI	Port Simpson
+PSY	Port Stanley
+PTE	Port Stephens
+PZU	Port Sudan
+TWD	Port Townsend
+VLI	Port Vila
+PWR	Port Walter
+KPR	Port Williams
+PCA	Portage Creek
+YPG	Portage La Prairie
+PTV	Porterville
+PRM	Portimao
+PWM	Portland
+PDX	Portland
+PTJ	Portland
+OPO	Porto
+ZYJ	Porto
+POA	Porto Alegre
+PGP	Porto Alegre
+PBX	Porto Alegre Do Norte
+PBN	Porto Amboim
+PTQ	Porto de Moz
+PBV	Porto Dos Gauchos
+PKH	Porto Kheli
+PNB	Porto Nacional
+PXO	Porto Santo
+BPS	Porto Seguro
+PVH	Porto Velho
+POW	Portoroz
+PVO	Portoviejo
+PME	Portsmouth
+PMH	Portsmouth
+WPR	Porvenir
+PSS	Posadas
+PSJ	Poso
+YSO	Postville
+RKR	Poteau
+POI	Potosi
+PTW	Pottstown
+POU	Poughkeepsie
+PUL	Poulsbo
+PUV	Poum
+PPY	Pouso Alegre
+YPX	Povungnituk
+POY	Powell
+WPL	Powell Lake
+PPO	Powell Point
+YPW	Powell River
+PAZ	Poza Rica
+POZ	Poznan
+PDF	Prado
+XYG	Prague
+XYJ	Prague
+PRG	Prague
+RAI	Praia
+PCD	Prairie Du Chien
+PRI	Praslin Island
+PTT	Pratt
+PRW	Prentice
+PRV	Prerov
+PRQ	Pres. Roque Saenz Pena
+PRC	Prescott
+PDR	Presidente Dutra
+PPB	Presidente Prudente
+POV	Presov
+PQI	Presque Isle
+PST	Preston
+HPR	Pretoria
+HIC	Pretoria
+PRY	Pretoria
+PVK	Preveza/Lefkas
+PUC	Price
+PRK	Prieska
+YPA	Prince Albert
+YXS	Prince George
+XDV	Prince George
+YPR	Prince Rupert
+XDW	Prince Rupert
+ZSW	Prince Rupert
+PNN	Princeton
+PCT	Princeton
+ZTJ	Princeton
+BLF	Princeton
+PCP	Principe
+PRZ	Prineville
+PRN	Prishtina
+ZJJ	Procida
+PGG	Sao Paulo
+PRU	Prome
+PRP	Propriano
+PPP	Proserpine
+PPC	Prospect Creek
+PVX	Provedenia
+ZRV	Providence
+PVD	Providence
+PVA	Providencia
+PLS	Providenciales
+PVS	Provideniya
+PVC	Provincetown
+PVU	Provo
+PUO	Prudhoe Bay
+SCC	Prudhoe Bay/Deadhorse
+PKV	Pskov
+PUA	Puas
+PCL	Pucallpa
+ZPC	Pucon
+PBC	Puebla
+PUB	Pueblo
+GEN	Puente Genil
+WPA	Puerto Aisen
+AML	Puerto Armuellas
+PUU	Puerto Asis
+PYH	Puerto Ayacucho
+PBR	Puerto Barrios
+PBE	Puerto Berrio
+PYA	Puerto Boyaca
+PBL	Puerto Cabello
+PUZ	Puerto Cabezas
+PCR	Puerto Carreno
+PXS	Puerto De Santa Maria
+FUE	Puerto del Rosario
+PUD	Puerto Deseado
+PXM	Puerto Escondido
+PDA	Puerto Inirida
+PJM	Puerto Jimenez
+PJZ	Puerto Juarez
+UPC	Puerto La Cruz
+PCJ	Puerto La Victoria
+PBT	Puerto Leda
+LQM	Puerto Leguizamo
+PEU	Puerto Lempira
+PMY	Puerto Madryn
+PEM	Puerto Maldonado
+PMC	Puerto Montt
+PNT	Puerto Natales
+PUE	Puerto Obaldia
+PZO	Puerto Ordaz
+PPZ	Puerto Paez
+PPE	Puerto Penasco
+POP	Puerto Plata
+PPS	Puerto Princesa
+PUR	Puerto Rico
+PCC	Puerto Rico
+PSZ	Puerto Suarez
+PVR	Puerto Vallarta
+PUX	Puerto Varas
+WPU	Puerto Williams
+UER	Puertollano
+PKP	Puka Puka
+PZK	Puka Puka Is/Attol
+PUK	Pukarua
+XPK	Pukatawagan
+PUY	Pula
+LAC	Pulau Layang-Layang Is
+PPJ	Pulau Panjang
+PUW	Pullman
+PMN	Pumani
+PNQ	Pune
+PUN	Punia
+UPA	Punta Alegre
+PUQ	Punta Arenas
+PUJ	Punta Cana
+PCV	Punta Chivato
+PCO	Punta Colorada
+UMA	Punta De Maisi
+PDP	Maldonado
+PND	Punta Gorda
+PGD	Punta Gorda
+PBP	Punta Islita
+JAP	Punta Renes
+PUI	Pureni
+PWL	Purwokerto
+PBU	Putao
+PUT	Puttaparthi
+PYO	Putumayo
+PSU	Putussibau
+PWO	Pweto
+FNJ	Pyongyang
+PYR	Pyrgos
+NAQ	Qaanaaq
+JQA	Qaarsut
+UNE	Qachas Nek
+AQI	Qaisumah
+LQN	Qala Nau
+JJU	Qaqortoq
+JCH	Qasigiannguit
+PQT	Qeqertaq
+JGO	Qeqertarsuaq
+IQM	Qiemo
+YVM	Qikiqtarjuaq
+TAO	Qingdao
+IQN	Qingyang
+SHP	Qinhuangdao
+NDG	Qiqihar
+IHN	Qishn
+UKT	Quakertown
+XQU	Qualicum
+HOO	Quanduc
+XNG	Quang Ngai
+NYG	Quantico
+YQC	Quaqtaq
+YQB	Québec City
+XFZ	Quebec
+XLJ	Quebec
+XFY	Quebec
+UQE	Queen
+ZQS	Queen Charlotte Is
+ZQN	Queenstown
+UEE	Queenstown
+UTW	Queenstown
+UEL	Quelimane
+XQP	Pavones
+QRO	Queretaro
+YQZ	Quesnel
+UET	Quetta
+AAZ	Quetzaltenango
+UIH	Qui Nhon
+UIB	Quibdo
+AQB	Quiche
+UIL	Quillayute
+ULP	Quilpie
+UIP	Quimper
+UMI	Quincemil
+UIN	Quincy
+MQI	Quincy
+UIQ	Quine Hill
+KWN	Quinhagak
+UIR	Quirindi
+UIO	Quito
+NCO	Quonset Point
+UTG	Quthing
+RBP	Rabaraba
+RBA	Rabat
+RAB	Rabaul
+RBI	Rabi
+VKG	Rach Gia
+RAC	Racine
+RAT	Raduzhnyi
+YRA	Rae Lakes
+RFA	Rafai
+RAH	Rafha
+RJN	Rafsanjan
+RAG	Raglan
+RAQ	Raha
+RYK	Rahim Yar Khan
+RFP	Raiatea
+XZE	Rail (Generic)
+XZJ	Rail (Generic)
+XZU	Rail (Generic)
+XZQ	Rail (Generic)
+XZX	Rail (Generic)
+YOP	Rainbow Lake
+RPR	Raipur
+RVV	Rairua
+RJA	Rajahmundry
+RJB	Rajbiraj
+RAJ	Rajkot
+RJI	Rajouri
+RJH	Rajshahi
+RAA	Rakanda
+RDU	Raleigh/Durham
+TFR	Ramadan
+XTM	Ramadi
+RMD	Ramagundam
+RBV	Ramata
+RHP	Ramechhap
+RAM	Ramingining
+RMP	Rampart
+RZR	Ramsar
+RMS	Ramstein
+RNU	Ranau
+IXR	Ranchi
+RBK	Rancho
+RNG	Rangely
+RGR	Ranger
+RGI	Rangiroa
+RAU	Rangpur
+YRT	Rankin Inlet
+UNN	Ranong
+RSK	Ransiki
+RCA	Rapid City
+RAP	Rapid City
+RAR	Rarotonga
+RKT	Ras Al Khaimah
+RAS	Rasht
+RSP	Raspberry Strait
+RBE	Ratanakiri
+RTC	Ratnagiri
+RTN	Raton
+RXA	Raudha
+RFN	Raufarhofn
+ZMQ	Raufoss
+RAN	Ravenna
+RVT	Ravensthorpe
+RAZ	Rawala Kot
+RWL	Rawlins
+RDG	Reading
+REA	Reao
+RBJ	Rebun
+REB	Rechlin
+REC	Recife
+RCQ	Reconquista
+RBL	Red Bluff
+YQF	Red Deer
+RDV	Red Devil
+RDB	Red Dog
+YRL	Red Lake
+RDR	Red River
+YRS	Red Sucker Lake
+RDN	Redang
+RCL	Redcliffe
+RDD	Redding
+RDC	Redencao
+RDM	Redmond
+RWF	Redwood Falls
+RCT	Reed City
+RED	Reedsville
+RFG	Refugio
+REG	Reggio Calabria
+REI	Regina
+YQR	Regina, Saskatchewan
+REH	Rehoboth Beach
+RHE	Reims
+RVO	Reivilo
+RGT	Rengat
+RMK	Renmark
+RNL	Rennell
+ZFJ	Rennes
+RNS	Rennes
+RNZ	Rensselaer
+RNT	Renton
+YUT	Repulse Bay
+REZ	Resende
+QSP	Reserved
+RES	Resistencia
+YRB	Resolute
+YRE	Resolution Island
+RER	Retalhuleu
+REU	Reus
+YRV	Revelstoke
+REW	Rewa
+REY	Reyes
+RHA	Reykholar
+KEF	Reykjavik
+RKV	Reykjavik
+REX	Reynosa
+GMY	Rheindahlen
+RHI	Rhinelander
+RHO	Rhodes
+RAO	Ribeirao Preto
+RIB	Riberalta
+RIE	Rice Lake
+RDT	Richard Toll
+RCB	Richards Bay
+RIF	Richfield
+RLD	Richland
+RID	Richmond
+XRH	Richmond
+RCM	Richmond
+RIC	Richmond
+ZRD	Richmond
+IES	Riesa
+RIL	Rifle
+RIX	Riga
+YRG	Rigolet
+RJK	Rijeka
+RMI	Rimini
+YXK	Rimouski
+RDS	Rincon de los Sauces
+XUQ	Ringebu
+RIN	Ringi Cove
+RIZ	Rio Alzucar
+RBR	Rio Branco
+RCU	Rio Cuarto
+GIG	Rio De Janeiro
+SDU	Rio De Janeiro
+LCF	Rio Dulce
+RFR	Rio Frio
+RGL	Rio Gallegos
+RIG	Rio Grande
+RGA	Rio Grande
+RHD	Rio Hondo
+ROY	Rio Mayo
+RSI	Rio Sidra
+RIT	Rio Tigre
+RYO	Rio Turbio
+RVD	Rio Verde
+RCH	Riohacha
+RIJ	Rioja
+RIS	Rishiri
+RVY	Rivera
+RVC	Rivercess
+YYI	Rivers
+YRN	Owekeno Village
+JRD	Riverside
+RIV	Riverside
+RIR	Riverside
+RAL	Riverside
+RIW	Riverton
+YTN	Riviere Au Tonnerre
+YRI	Riviere Du Loup
+RUH	Riyadh
+RIY	Riyan Mukalla
+RNE	Roanne
+ROA	Roanoke
+RZZ	Roanoke Rapids
+RTB	Roatan
+ROD	Robertson
+YRJ	Roberval
+ROH	Robinhood
+RRV	Robinson River
+RNR	Robinson River
+RBC	Robinvale
+RBO	Robore
+RCE	Roche Harbor
+RCO	Rochefort
+RCS	Rochester
+RCR	Rochester
+RST	Rochester
+JRC	Rochester
+ROC	Rochester
+ZTE	Rochester
+RKH	Rock Hill
+RSD	Rock Sound
+RKS	Rock Springs
+RCK	Rockdale
+RMC	Rockford
+ZRF	Rockford
+ZRK	Rockford
+ROK	Rockhampton
+RDA	Rockhampton Downs
+RKD	Rockland
+RKP	Rockport
+RKW	Rockwood
+RWI	Rocky Mount
+YRM	Rocky Mountain House
+RDZ	Rodez
+RRG	Rodrigues Is
+RIM	Rodriguez De Men
+RBU	Roebourne
+RVK	Roervik
+ROG	Rogers
+ROI	Roi Et
+RKY	Rokeby
+RKI	Rokot
+RLA	Rolla
+RPA	Rolpa
+RMA	Roma
+FAL	Roma
+RMG	Rome
+CIA	Rome
+FCO	Rome
+XVY	Rome
+XRJ	Rome
+RME	Rome
+REO	Rome
+RRA	Ronda
+RON	Rondon
+ROO	Rondonopolis
+RNP	Rongelap Island
+RNB	Ronneby
+XWK	Ronneby
+ROL	Roosevelt
+NRR	Roosevelt Roads
+RPB	Roper Bar
+RPV	Roper Valley
+RRS	Roros
+ROS	Rosario
+RSJ	Rosario
+ROX	Roseau
+RSB	Roseberth
+RBG	Roseburg
+RSS	Roseires
+RLP	Rosella Plains
+RPN	Rosh Pina
+RHN	Rosh Pina
+RFS	Rosita
+XRR	Ross River
+RET	Rost
+RLG	Rostock-laage
+ROV	Rostov
+ROW	Roswell
+ROP	Rota
+RAY	Rothesay
+RTI	Roti
+ROT	Rotorua
+RTM	Rotterdam
+QRH	Rotterdam
+RTS	Rottnest Island
+RTA	Rotuma Island
+RTD	Rotunda
+URO	Rouen
+ZRJ	Round Lake
+RPX	Roundup
+RRK	Rourkela
+RSX	Rouses Point
+ROU	Rousse
+YUY	Rouyn
+RVN	Rovaniemi
+RWN	Rovno
+RWB	Rowan Bay
+RXS	Roxas City
+RHL	Roy Hill
+RYN	Royan
+RUV	Rubelsanto
+RBY	Ruby
+RUG	Rugao
+RHG	Ruhengeri
+RUI	Ruidoso
+RUK	Rukumkot
+RCY	Rum Cay
+RMN	Rumginae
+RUM	Rumjatar
+NDU	Rundu
+BYI	Rupert
+RUP	Rupsi
+RBQ	Rurrenabaque
+RUR	Rurutu
+RSL	Russell
+RSH	Russian Mission
+RSN	Ruston
+RTG	Ruteng
+RUU	Ruti
+RUT	Rutland
+RTP	Rutland Plains
+RZN	Ryazan
+RYB	Rybinsk
+SDO	Ryotsu Sado Is
+RZE	Rzeszow
+SZT	S.Cristobal deL Casas
+SCN	Saarbruecken
+SAB	Saba Island
+SBV	Sabah
+SNX	Sabana De Mar
+SNT	Sabana De Torres
+SBG	Sabang
+GSS	Sabi Sabi
+YSA	Sable Island
+AFZ	Sabzevar
+ZPB	Sachigo Lake
+YSY	Sachs Harbour
+SAC	Sacramento
+MHR	Sacramento
+MCC	Sacramento
+SMF	Sacramento
+SCK	Sacramento
+SYE	Sadah
+SDS	Sado Shima
+SZQ	Saenz Pena
+SAD	Safford
+SFI	Safi
+SFU	Safia
+HSG	Saga
+SGJ	Sagarai
+MBS	Saginaw
+SGW	Saginaw Bay
+YSV	Saglek
+SAG	Sagwon
+SXS	Sahabat 16
+ACP	Sahand
+SWN	Sahiwal
+SBR	Saibai Island
+SDI	Saidor
+SPD	Saidpur
+SDT	Saidu Sharif
+STC	Saint Cloud
+JSK	Saint Cloud
+SGU	Saint George
+YSJ	Saint John
+KSM	Saint Marys
+SNP	Saint Paul Island
+XPZ	Saint Tropez
+LTT	Saint Tropez
+SYT	Saint Yan
+SMS	Sainte Marie
+SPN	Saipan
+SNO	Sakon Nakhon
+SID	Sal
+XYX	Sala
+SLL	Salalah
+SLM	Salamanca
+SAM	Salamo
+SDB	Saldanha Bay
+SXE	Sale
+SLY	Salekhard
+SLO	Salem
+SXV	Salem
+SLE	Salem
+SLT	Salida
+LMB	Salima
+ZIQ	Salina
+SLN	Salina
+SBO	Salina
+SCX	Salina Cruz
+SNS	Salinas
+SNC	Salinas
+SRW	Salisbury
+SBY	Salisbury-Ocean City
+YZG	Salluit
+SMN	Salmon
+YSN	Salmon Arm
+SLX	Salt Cay
+SLC	Salt Lake City
+SLA	Salta
+SLW	Saltillo
+STY	Salto
+SAS	Salton City
+SSA	Salvador
+SZG	Salzburg
+NEU	Sam Neua
+KUF	Samara
+SQT	Samarai Island
+SRI	Samarinda
+SKD	Samarkand
+SVB	Sambava
+SAX	Sambu
+UAS	Samburu
+SUK	Samcheok
+SMI	Samos
+SMQ	Sampit
+SZF	Samsun
+SSX	Samsun/carsamba
+ADZ	San Andres Island
+SAQ	San Andros
+GOF	San Angelo
+SJT	San Angelo
+SAT	San Antonio
+SKF	San Antonio
+MDA	San Antonio
+RND	San Antonio
+SSF	San Antonio
+SVZ	San Antonio
+OES	San Antonio Oeste
+SBD	San Bernardino
+SBT	San Bernardino
+NBL	San Blas
+SRJ	San Borja
+SQL	San Carlos
+NCR	San Carlos
+BRC	San Carlos DeBariloche
+SCY	San Cristobal
+SCI	San Cristobal
+SDM	San Diego
+CLD	San Diego
+SEE	San Diego
+SAN	San Diego
+NKX	San Diego
+MYF	San Diego
+NZY	San Diego
+TQR	San Domino Island
+SET	San Esteban
+SSD	San Felipe
+SFH	San Felipe
+SNF	San Felipe
+SFX	San Felix
+SFR	San Fernando
+FES	San Fernando
+SFE	San Fernando
+SFD	San Fernando De Apure
+JCC	San Francisco
+EMB	San Francisco
+SFO	San Francisco
+GBN	San Giovanni Rotondo
+SQS	San Ignacio
+SGM	San Ignacio
+SNM	San Ignacio De M
+SNG	San Ignacio De Velasco
+SJV	San Javier
+SJB	San Joaquin
+SJS	San Jose
+SJC	San Jose
+RHV	San Jose
+SJO	San Jose
+SJI	San Jose
+SJD	San Jose Cabo
+SJE	San Jose Del Gua
+WSJ	San Juan
+SJM	San Juan
+SJA	San Juan
+SIG	San Juan
+SJU	San Juan
+UAQ	San Juan
+APE	San Juan Aposento
+SJR	San Juan D Ur
+SJH	San Juan Del Cesar
+SNJ	San Julian
+ULA	San Julian
+LUQ	San Luis
+SQE	San Luis De Pale
+SBP	San Luis Obispo
+SLP	San Luis Potosi
+UAC	San Luis Rio Colorado
+SRS	San Marcos
+SAI	San Marino
+CPC	San Martin DeLos Andes
+MQK	San Matias
+SYL	San Miguel
+NMG	San Miguel
+SPO	Sevilla
+SPR	San Pedro
+SPQ	San Pedro
+SPY	San Pedro
+ZRC	San Pedro de Alcantara
+SJG	San Pedro Jagua
+SAP	San Pedro Sula
+NPU	San Pedro Uraba
+SNQ	San Quintin
+SRF	San Rafael
+JSG	San Rafael
+AFA	San Rafael
+SRD	San Ramon
+ZSA	San Salvador
+SAL	San Salvador
+SVV	San Salvador De
+GMZ	San Sebas De La Gomera
+EAS	San Sebastian
+SOM	San Tome
+SVI	San Vicente
+TOO	San Vito
+SQN	Sanana
+SDG	Sanandaj
+USS	Sancti Spiritus
+SDP	Sand Point
+SDK	Sandakan
+SDN	Sandane
+NDY	Sanday
+SDC	Sandcreek
+ZYS	Sandefjord
+XKC	Sandnes
+SSJ	Sandnessjoen
+SRM	Sandringham
+YZP	Sandspit
+NDS	Sandstone
+SKY	Sandusky
+SDW	Sandwip
+ZSJ	Sandy Lake
+KSR	Sandy River
+FEB	Sanfebagar
+SFM	Sanford
+SGS	Sanga Sanga
+SGK	Sangapi
+SGQ	Sanggata
+SAE	Sangir
+NSP	Sangley Point
+YSK	Sanikiluaq
+SFQ	Sanliurfa
+YSI	Sans Souci
+SBL	Santa Ana
+JOC	Santa Ana
+DNT	Santa Ana
+SNA	Santa Ana
+SQB	Santa Ana
+NNB	Santa Ana
+SBA	Santa Barbara
+SZN	Santa Barbara
+SBB	Santa Barbara Ba
+STB	Santa Barbara Ed
+NTC	Santa Carolina
+SCA	Santa Catalina
+SNU	Santa Clara
+SRZ	Santa Cruz
+VVI	Assuncion
+STU	Santa Cruz
+SRU	Santa Cruz
+SZC	Santa Cruz
+SNZ	Santa Cruz
+RZA	Santa Cruz
+SPC	Santa Cruz De La Palma
+CSU	Santa Cruz Do Sul
+SCZ	Santa Cruz Is
+SNV	Santa Elena
+SAF	Santa Fe
+ZSH	Santa Fe
+SFW	Santa Fe
+SFN	Santa Fe
+SFV	Santa Fe Do Sul
+IDO	Santa Isabel do Morro
+SKV	Santa Katarina
+SMX	Santa Maria
+SMC	Santa Maria
+SMG	Santa Maria
+SMA	Santa Maria
+RIA	Santa Maria
+SMR	Santa Marta
+SMO	Santa Monica
+SZP	Santa Paula
+SRB	Santa Rosa
+STS	Santa Rosa
+RSA	Santa Rosa
+SRA	Santa Rosa
+SDH	Santa Rosa Copan
+SSL	Santa Rosalia
+SRL	Santa Rosalia
+SST	Santa Teresita
+STZ	Santa Terezinha
+CTQ	Oakland
+SQA	Santa Ynez
+CMP	Santana Do Araguaia
+SRO	Santana Ramos
+SDR	Santander
+STM	Santarem
+SCL	Santiago
+ULC	Santiago
+SCU	Santiago
+STI	Santiago
+SYP	Santiago
+SCQ	Santiago De Compostela
+SDE	Santiago Del Estero
+GEL	Santo Angelo
+NTO	Santo Antao
+HEX	Santo Domingo
+SDQ	Santo Domingo
+STD	Santo Domingo
+SSZ	Santos
+SYX	Sanya
+SXO	Sao Felix Do Araguaia
+SXX	Sao Felix Do Xingu
+SFL	Sao Filipe
+SJL	Sao Gabriel
+SJZ	Sao Jorge Island
+SJP	Sao Jose Do Rio Preto
+SJK	Sao Jose Dos Campos
+SSO	Sao Lourenco
+SQY	Sao Lourenco Do Sul
+SLZ	Salvador
+SBJ	Sao Mateus
+SQM	Sao Miguel Araguaia
+SQX	Sao Miguel Do Oeste
+SNE	Sao Nicolau
+CGH	Sao Paulo
+GRU	Sao Paulo
+VCP	Sao Paulo
+TMS	Sao Tome Is
+VXE	Sao Vicente
+SMH	Sapmanga
+SQU	Saposoa
+CTS	Sapporo
+OKD	Sapporo
+AQS	Saqani
+QUP	Saqqaq
+SSR	Sara
+SJJ	Sarajevo
+CKT	Sarakhs
+SLK	Saranac Lake
+SKX	Saransk
+SRQ	Sarasota
+SAA	Saratoga
+RTW	Saratov
+VNA	Saravane
+RVE	Saravena
+SBF	Sardeh Band
+BHW	Sargodha
+SGI	Sargodha
+SRH	Sarh
+WSF	Sarichef
+ZRM	Sarmi
+YZR	Sarnia
+XKQ	Sarpsborg
+SJX	Sartaneja
+SRY	Sary
+TDS	Sasereme
+YXE	Saskatoon
+ZSS	Sassandra
+SAZ	Sasstown
+TNI	Satna
+SUJ	Satu Mare
+SWG	Satwag
+SAK	Saudarkrokur
+XAU	Saul
+CIU	Sault Ste Marie
+INR	Sault Ste Marie
+YAM	Sault Ste Marie
+SXK	Saumlaki
+SXW	Sauren
+VHC	Saurimo
+JMC	Sausalito
+SVN	Savannah
+SAV	Savannah
+ZVK	Savannakhet
+SVF	Save
+SVY	Savo
+SVL	Savonlinna
+SVA	Savoonga
+SVU	Savusavu
+SVT	Savuti
+RZS	Sawan
+SAU	Sawu
+ZBY	Sayaboury
+SCM	Scammon Bay
+SQZ	Scampton
+JMH	Schaumburg
+YKL	Schefferville
+SCH	Schenectady
+ZTD	Schenectady
+WBG	Schleswig-Jagel
+SZW	Schwerin
+NSO	Scone
+BFF	Scottsbluff
+SCR	Scranton
+SCB	Scribner
+CMS	Scusciuban
+SYB	Seal Bay
+SRC	Searcy
+BFI	Seattle
+LKE	Seattle
+SEA	Seattle
+XSE	Sebba
+SEB	Sebha
+SEF	Sebring
+YHS	Sechelt
+ZEC	Secunda
+DMO	Sedalia
+SDX	Sedona
+EGM	Sege
+SZU	Segou
+SEO	Seguela
+SHK	Sehonghong
+SXH	Sehulea
+SYW	Sehwen Sharif
+SJY	Seinajoki
+GXF	Seiyun
+SKQ	Sekakes
+WLK	Selawik
+SBC	Selbang
+SOV	Seldovia
+PKW	Selebi-Phikwe
+SEY	Selibaby
+SEG	Selinsgrove
+QFK	Selje
+SEM	Selma
+SES	Selma
+SRG	Semarang
+BSE	Sematan
+SEX	Sembach
+SZE	Semera
+PLX	Semipalatinsk
+SOK	Semongkong
+SMM	Semporna
+ZMD	Sena Madureira
+SXG	Senanga
+SDJ	Sendai
+SEH	Senggeh
+ZEG	Senggo
+SEI	Senhor Do Bonfim
+SZH	Senipah
+SND	Seno
+LEU	Seu De Urgel
+ICN	Seoul
+SPV	Sepik Plains
+YZV	Sept-Iles
+SPE	Sepulot
+SQV	Sequim
+SEU	Seronera
+RRN	Serra Norte
+RSG	Serra Pelada
+SEC	Serre Chevalier
+SRX	Sert
+ZRI	Serui
+SJQ	Sesheke
+SHZ	Seshutes
+SZM	Sesriem
+QSF	Setif
+ZKM	Sette Cama
+UKS	Sevastopol
+SEV	Severodoneck
+SVQ	Sevilla
+UOS	Sewanee
+SWD	Seward
+SEJ	Seydisfjordur
+SER	Seymour
+SFA	Sfax
+MIT	Shafter
+SHX	Shageluk
+CQD	Shahre-Kord
+SWX	Shakawe
+SKR	Shakiso
+SKK	Shaktoolik
+ZTM	Shamattawa
+ZHM	Shamshernagar
+SHA	Shanghai
+PVG	Shanghai
+NRI	Shangri-la
+SHF	Shanhaiguan
+SNN	Shannon
+SXJ	Shanshan
+SWA	Shantou
+SZO	Shanzhou
+HSC	Shaoguan
+SHJ	Sharjah
+GSQ	Shark Elowainat
+SSH	Sharm El Sheikh
+SHW	Sharurah
+SHS	Shashi
+SWB	Shaw River
+SNL	Shawnee
+SGP	Shay Gap
+ZCU	She Kou
+YSX	Shearwater
+SBM	Sheboygan
+SMU	Sheep Mountain
+MSL	Sheffield
+SZD	Sheffield
+SGA	Sheghnan
+SQJ	Shehdi
+QDM	Shek Mum
+ZYK	Shekou
+SBX	Shelby
+SYI	Shelbyville
+SXP	Sheldon Point
+SHN	Shelton
+SYA	Shemya
+SHE	Shenyang
+SZX	Shenzhen
+SHT	Shepparton
+YSC	Sherbrooke
+SHR	Sheridan
+PNX	Sherman-Denison
+LWK	Shetland Islands
+SCS	Shetland Islands
+LSI	Shetland Islands
+SJW	Shijiazhuang
+SWV	Shikarpur
+HIL	Shillavo
+SHL	Shillong
+YLO	Shilo
+CIT	Shimkent
+SHI	Shimojishima
+SHY	Shinyanga
+SHM	Shirahama
+SYZ	Shiraz
+SYC	Shiringayoc
+WSH	Shirley
+SHH	Shishmaref
+HCB	Shoal Cove
+SSE	Sholapur
+SYO	Shonai
+ESH	Shoreham By Sea
+SOW	Los Angless
+BAD	Shreveport
+DTN	Shreveport
+SHV	Shreveport
+ZAS	Shunde
+SHG	Shungnak
+JHQ	Shute Harbour
+SKT	Sialkot
+SXA	Sialum
+SSV	Siasi
+SSS	Siassi
+SQQ	Siauliai
+SBQ	Sibi
+SIW	Sibisa
+SIB	Sibiti
+SBZ	Sibiu
+SBW	Sibu
+ICO	Sicogon Island
+SQK	Sidi Barani
+BFW	Sidi Belabbes
+SII	Sidi Ifni
+SDY	Sidney
+SNY	Sidney
+SXY	Sidney
+SGE	Siegen
+REP	Siem Reap
+SAY	Siena
+SGV	Sierra Grande
+SRK	Sierra Leone
+FHU	Sierra Vista
+GIU	Sigiriya
+SIJ	Siglufjordur
+NSY	Tokat
+SZJ	Siguanea
+GII	Siguiri
+KOS	Sihanoukville
+SXZ	Siirt
+KSS	Sikasso
+SIK	Sikeston
+SIL	Sila
+IXS	Silchar
+SIH	Silgadi Doti
+SLS	Silistra
+SLG	Siloam Springs
+SWR	Silur
+SYF	Silva Bay
+SVC	Silver City
+SVK	Silver Creek
+SSP	Silver Plains
+SMJ	Sim
+SGG	Simanggang
+SYM	Simao
+SIF	Simara
+SIM	Simbai
+NIS	Simberi Island
+SMY	Simenti
+SIP	Trapani
+IMK	Simikot
+SLV	Simla
+NKD	Sinak
+CNL	Sindal
+SIE	Sines
+SIN	Singapore
+QPG	Singapore
+XSP	Singapore
+SGB	Singaua
+SIQ	Singkep
+SIX	Singleton
+XSA	Sinoe
+SNI	Sinoe
+OPS	Sinop
+SQD	Sinop
+SIC	Sinop
+SQG	Sintang
+XSO	Siocon
+SIR	Sion
+SUX	Sioux City
+FSD	Sioux Falls
+YXL	Sioux Lookout
+SPT	Sipitang
+RKO	Sipora
+SAJ	Sirajganj
+SYJ	Sirjan
+SXI	Sirri Island
+SIS	Sishen
+JHS	Sisimiut
+SIZ	Sissano
+JSH	Sitia
+SWY	Sitiawan
+SIT	Sitka
+SKJ	Sitkinak Island
+AKY	Sittwe
+SIU	Siuna
+VAS	Sivas
+SEW	Siwa
+SWE	Siwea
+QJV	Skagen Z7
+SGY	Skagway
+KDU	Skardu
+SKM	Skeldon
+SFT	Skelleftea
+YVS	Ski
+JSI	Skiathos
+SKE	Skien
+SKI	Skikda
+SKU	Skiros
+SQW	Skive
+SKP	Skopje
+XUR	Skoppum
+KVB	Skovde
+SZK	Skukuza
+SKW	Skwentna
+YSS	Slate Island
+YZH	Slave Lake
+SLQ	Sleetmute
+SLD	Sliac
+ZSL	Sligo
+SXL	Sligo
+OSP	Slupsk
+SMW	Smara
+SCJ	Smith Cove
+YSH	Smith Falls
+SHU	Smith Point
+YYD	Smithers
+SFZ	Smithfield
+SIO	Smithton
+LNX	Smolensk
+MQY	Smyrna
+SNB	Snake Bay
+YXF	Snake River
+YFJ	Snare Lake
+XUS	Snartemo
+ZYB	SNCB Rail Network
+SNK	Snyder
+DWB	Soalala
+SOA	Soc Trang
+ONM	Socorro
+SCT	Socotra
+SOT	Sodankyla
+SXU	Soddu
+SOO	Soderhamn
+JSO	Sodertalje
+XEZ	Sodertalje
+SOF	Sofia
+SOX	Sogamoso
+SOG	Sogndal
+SHO	Sokcho
+SKO	Sokoto
+SLH	Sola
+SQF	Solano
+SXQ	Soldotna
+SOZ	Solenzara
+SOH	Solita
+SOC	Solo City
+SOL	Solomon
+CSH	Solovetsky
+XYU	Solvesborg
+SLI	Solwezi
+SME	Somerset
+SGD	Sonderborg
+QSG	Sonderborg
+JZH	Song Pan
+SGX	Songea
+SGZ	Songkhla
+SQH	Son-La
+SXD	Sophia Antipolis
+SPH	Sopu
+SOJ	Sorkjosen
+SQR	Soroako
+SOD	Sorocaba
+SOQ	Sorong
+SRT	Soroti
+RRO	Naples
+SOE	Souanke
+SFK	Soure
+TZN	South Andros
+SBN	South Bend
+XSC	South Caicos
+ZGL	South Galway
+XSI	South Indian Lake
+TVL	South Lake Tahoe
+SOI	South Molle Island
+WSN	South Naknek
+ZFL	South Trout Lake
+SWJ	South West Bay
+NZW	South Weymouth
+SOU	Southampton
+SEN	Southend
+SQC	Southern Cross
+SOP	Southern Pines
+SHQ	Southport
+SZA	Soyo
+SPM	Spangdahlem
+SWL	Spanish Wells
+SVW	Sparrevohn
+SPJ	Athens
+SAR	Sparta
+CMY	Sparta
+SPA	Spartanburg
+SPF	Spearfish
+SPW	Spencer
+JSS	Spetsai Island
+NNR	Spiddal
+RTL	Spirit Lake
+SPU	Split
+SKA	Spokane
+SFF	Spokane
+GEG	Spokane
+SCG	Spring Creek
+YSQ	Spring Island
+AXP	Spring Point
+SBU	Springbok
+SPZ	Springdale
+SPI	Springfield
+ZSF	Springfield
+CEF	Springfield
+SGF	Springfield
+SGH	Springfield
+VSF	Springfield
+KSV	Springvale
+ZVG	Springvale
+YSE	Squamish
+YSZ	Squirrel Cove
+SXR	Srinagar
+ADX	St Andrews
+YAY	St Anthony
+ANT	St Anton
+UST	St Augustine
+SBH	St Barthelemy
+SBK	St Brieuc
+YCM	St Catharines
+SCP	St Crepin
+STX	St Croix Island
+JCD	St Croix Island
+SSB	St Croix Island
+RUN	St Denis de la Reunion
+EBU	St Etienne
+EUX	St Eustatius
+SFC	St Francois
+SGO	St George
+STG	St George Island
+OYP	St Georges de lOyapock
+HLS	St Helens
+YJN	St Jean
+SJF	St John Island
+SJN	St Johns
+STJ	St Joseph
+SKB	St Kitts
+LDX	St Laurent du Maroni
+YSL	St Leonard
+CPS	St Louis
+STL	St Louis
+SUS	St Louis
+XLS	St Louis
+UVF	St Lucia
+SLU	St Lucia
+SXM	St Maarten
+SFG	St Martin
+CCE	St Martin
+MSB	St Martin
+XSM	St Marys
+STQ	St Marys
+SMK	St Michael
+SMV	St Moritz
+SNR	St Nazaire
+STP	St Paul
+ZSP	St Paul
+PSH	St Peter
+PIE	St Petersburg
+SPG	St Petersburg
+ZLK	St Petersburg
+LED	St Petersburg
+RVH	St Petersburg
+FSP	St Pierre
+ZSE	St Pierre dela Reunion
+YQS	St Thomas
+STT	St Thomas Island
+SPB	St Thomas Island
+SVD	St Vincent
+TYM	Staniel Cay
+SNH	Stanthorpe
+SYN	Stanton
+SZR	Stara Zagora
+SQP	Starcke
+SCE	State College
+TBR	Statesboro
+SVH	Statesville
+STA	Skjern
+SHD	Staunton
+SVG	Stavanger
+STW	Stavropol
+SWC	Stawell
+YST	Ste Therese Point
+WSB	Steamboat Bay
+SBS	Steamboat Springs
+WBB	Stebbins
+ZKL	Steenkool
+SML	Stella Maris
+STF	Stephen Island
+YJT	Stephenville
+SEP	Stephenville
+STK	Sterling
+SQI	Sterling Rockfalls
+STE	Stevens Point
+SVS	Stevens Village
+ZST	Stewart
+SZS	Stewart Island
+SWO	Stillwater
+XUU	Stjordal
+SMP	Stockholm
+ARN	Stockholm
+BMA	Stockholm
+NYO	Stockholm
+VST	Stockholm
+SMZ	Stoelmans Eiland
+SKN	Stokmarknes
+YSF	Stony Rapids
+SRV	Stony River
+SRP	Stord
+XUV	Storekvina
+XUW	Storen
+SLB	Storm Lake
+SYY	Stornoway
+SQO	Storuman
+MMN	Stow
+MVL	Stowe
+SRR	Stradbroke Island
+SRN	Strahan
+SXB	Strasbourg
+JSD	Stratford
+STH	Strathmore
+RBM	Straubing
+KBY	Streaky Bay
+ZJX	Stromboli
+SOY	Stronsay
+SUD	Stroud
+SWT	Strzhewoi
+SUA	Stuart
+YRR	Stuart Island
+SSW	Stuart Island
+TNX	Stung Treng
+YTC	Sturdee
+SUE	Sturgeon Bay
+IRS	Sturgis
+SSK	Sturt Creek
+SGT	Stuttgart
+STR	Stuttgart
+SYK	Stykkisholmur
+SBE	Suabi
+UAI	Suai
+SXN	Suapan
+VAO	Suavanao
+SCV	Suceava
+SRE	Sucre
+SUQ	Sucua
+YSB	Sudbury
+XDY	Sudbury
+SUY	Sudureyri
+SYU	Sue Island
+YSD	Suffield
+SGR	Sugar Land
+SUL	Sui
+FUD	Sui Fen He
+SWM	Suia-Missu
+THS	Sukhothai
+SUI	Sukhumi
+SKC	Suki
+SKZ	Sukkur
+SCD	Sulaco
+SLF	Sulayel
+ULE	Sule
+SIV	Sullivan
+YTG	Sullivan Bay
+SLR	Sulphur Springs
+RWS	Sumare
+SWQ	Sumbawa
+SUT	Sumbawanga
+NDD	Sumbe
+SUP	Sumenep
+SUR	Summer Beaver
+YSU	Summerside
+UMM	Summit
+IUM	Summit Lake
+SUM	Sumter
+SSC	Sumter
+UMY	Sumy
+NTY	Sun City
+SMT	Sun Moon Lake
+SUO	Sun River
+SUN	Sun Valley
+SYS	Suncheon
+SUC	Sundance
+SDL	Sundsvall
+SEQ	Sungai Pakning
+GTK	Sungei Tekai
+MCY	Sunshine Coast
+NYI	Sunyani
+SUW	Superior
+SUH	Sur
+SUB	Surabaya
+STV	Surat
+URT	Surat Thani
+WIK	Surfdale
+SFP	Surfers Paradise
+SGC	Surgut
+SUZ	Suria
+SUG	Surigao
+PXR	Surin
+SKH	Surkhet
+SVE	Susanville
+WOB	Suttonheath
+SUV	Suva
+SWU	Suwon
+SZV	Suzhou
+SYG	Svalbard
+SVR	Svay Rieng
+EVG	Sveg
+SVJ	Svolvaer
+SWP	Swakopmund
+ZSZ	Swakopmund
+SWH	Swan Hill
+ZJN	Swan River
+SWS	Swansea
+SWW	Sweetwater
+YYN	Swift Current
+SWI	Swindon
+XWS	Swindon
+SYH	Syangboche
+RSE	Sydney
+SYD	Sydney
+LBH	Sydney
+SWZ	Sydney
+YQY	Sydney
+SCW	Syktyvkar
+ZYL	Sylhet
+SYV	Sylvester
+SYR	Syracuse
+ZYQ	Syracuse
+JSY	Syros Island
+SZZ	Szczecin
+SZY	Szymany
+TBX	Taabo
+TCP	Taba
+TBV	Tabal
+TBJ	Tabarka
+TCX	Tabas
+TBT	Tabatinga
+TBA	Tabibuga
+TBF	Tabiteuea North
+TSU	Tabiteuea South
+TBH	Tablas
+TBL	Tableland
+TTM	Tablon De Tamara
+TBO	Tabora
+TXU	Tabou
+TBZ	Tabriz
+TNV	Tabuaeran
+TBG	Tabubil
+TUU	Tabuk
+TCG	Tacheng
+THL	Tachilek
+TAC	Tacloban
+TCQ	Tacna
+GRF	Tacoma
+TIW	Tacoma
+TCM	Tacoma
+TAW	Tacuarembo
+TDJ	Tadjoura
+XTL	Tadoule Lake
+TFT	Taftan
+TAG	Tagbilaran
+TGB	Tagbita
+TGL	Tagula
+THH	Taharoa
+HNE	Tahneta Pass Lodge
+THZ	Tahoua
+ZTS	Tahsis
+ZCA	Tai Shan
+TXG	Taichung
+RMQ	Taichung
+TIF	Taif
+TNN	Tainan
+TPE	Taipei
+TSA	Taipei
+TPG	Taiping
+TSC	Taisha
+TTT	Taitung
+TYN	Taiyuan
+TAI	Taiz
+TKT	Tak
+KTF	Takaka
+TAK	Takamatsu
+TKP	Takapoto
+TKX	Takaroa
+TKH	Takhli
+TKD	Takoradi
+TCT	Takotna
+TKL	Taku Lodge
+TJN	Takume
+TYL	Talara
+TLW	Talasea
+TLX	Talca
+TDK	Taldy-Kurgan
+TAX	Taliabu
+TKA	Talkeetna
+TLK	Talknafjordur
+ASN	Talladega
+TLH	Tallahassee
+QUF	Tallinn
+TLL	Tallinn
+YYH	Taloyoak
+TTC	Taltal
+GSL	Taltheilei Narrows
+TQN	Taluqan
+TML	Tamale
+SXT	Taman Negara
+TMN	Tamana Island
+TMR	Tamanrasset
+TNO	Tamarindo
+TMM	Tamatave
+TUD	Tambacounda
+TMQ	Tambao
+WTA	Tambohorano
+TMC	Tambolaka
+TMU	Tambor
+TBW	Tambov
+THT	Tamchakett
+TME	Tame
+TMK	Tamky
+VCL	Tamky
+TPA	Tampa
+MCF	Tampa
+KYO	Tampa
+TMP	Tampere
+TAM	Tampico
+TSL	Tamuin
+TMW	Tamworth
+TTA	Tan Tan
+TTR	Tana Toraja
+TSG	Tanacross
+TNB	Tanah Grogot
+TMH	Tanahmerah
+TPO	Tanalian Point
+TAL	Tanana
+TDV	Tanandava
+TXR	Tanbar
+TDT	Tanda Tula
+TDG	Tandag
+TDL	Tandil
+TNE	Tanegashima
+TGT	Tanga
+TAN	Tangalooma
+TGQ	Tangara da Serra
+TNG	Tangier
+TJB	Tanjung Balai
+TJQ	Tanjung Pandan
+ZJT	Tanjung Pelepas
+TNJ	Tanjung Pinang
+TSX	Tanjung Santan
+TJS	Tanjung Selor
+TJG	Tanjung Warukin
+TAH	Tanna
+TFC	Taormina
+TSM	Taos
+TAP	Tapachula
+TPK	Tapaktuan
+TPT	Tapeta
+TPI	Tapini
+TPJ	Taplejung
+XTR	Tara
+TBQ	Tarabo
+TRK	Tarakan
+TRJ	Tarakbits
+TRA	Taramajima
+TAR	Taranto
+TCD	Tarapaca
+TAA	Tarapaina
+TPC	Tarapoa
+TPP	Tarapoto
+TRQ	Tarauaca
+TRW	Tarawa
+TLB	Tarbela
+TAQ	Tarcoola
+TRO	Taree
+TFY	Tarfaya
+TGV	Targovishte
+TIZ	Tari
+TJA	Tarija
+XTO	Taroom
+TTG	Tartagal
+TAY	Tartu
+TAS	Tashkent
+AGM	Tasiilaq
+TSY	Tasikmalaya
+XEQ	Tasiuasaq
+YTQ	Tasiujuaq
+TSK	Taskul
+YTU	Tasu
+TKV	Tatakoto
+TLJ	Tatalina
+TEK	Tatitlek
+TAV	Tau
+TUO	Taupo
+TAU	Tauramena
+TRG	Tauranga
+TUT	Tauta
+TVU	Taveuni
+TWY	Tawa
+TWU	Tawau
+TWT	Tawitawi
+TWE	Taylor
+TYZ	Taylor
+RZP	Taytay Sandoval
+TEE	Tbessa
+TBS	Tbilisi
+TCH	Tchibanga
+THC	Tchien
+TEU	Te Anau
+TFF	Tefe
+TGU	Tegucigalpa
+TSP	Tehachapi
+THR	Tehran
+TCN	Tehuacan
+TXF	Teixeira de Freitas
+TKB	Tekadu
+TKW	Tekin
+TEQ	Tekirdag
+TLV	Tel Aviv Yafo
+SDV	Tel Aviv Yafo
+TEA	Tela
+TFM	Telefomin
+YTX	Telegraph Creek
+YBQ	Telegraph Harbour
+TEC	Telemaco Borba
+TEF	Telfer
+TLF	Telida
+TLA	Teller
+KTS	Teller Mission
+TEX	Telluride
+ZTL	Telluride
+TEL	Telupid
+TIM	Tembagapura
+TXM	Teminabuan
+TEM	Temora
+TPL	Temple
+ZCO	Temuco
+TKE	Tenakee Springs
+TFN	Tenerife
+TFS	Tenerife
+TNM	Teniente R. Marsh
+TEG	Tenkodogo
+TCA	Tennant Creek
+TFL	Teofilo Otoni
+TPQ	Tepic
+TEP	Teptep
+TNQ	Teraina
+TEO	Terapo
+TER	Terceira Island
+THE	Teresina
+TMJ	Termez
+TTE	Ternate
+TNL	Ternopol
+YXT	Terrace
+TCY	Terrace Bay
+YTJ	Terrace Bay
+HUF	Terre Haute
+HTB	Terre-de-Bas
+LSS	Terre-de-Haut
+TRL	Terrell
+YZW	Teslin
+TES	Tessenei
+TDB	Tetabedi
+TCV	Tete
+TET	Tete
+ZTB	Tete-a-La Baleine
+TEB	Teterboro
+TTI	Tetiaroa Is
+TEH	Tetlin
+TTU	Tetuan
+TWN	Tewantin
+TXK	Texarkana
+TEZ	Tezpur
+TEI	Tezu
+TCU	Thaba Nchu
+THB	Thaba-Tseka
+THK	Thakhek
+TKR	Thakurgaon
+TMZ	Thames
+SNW	Thandwe
+THG	Thangool
+TJV	Thanjavur
+XTG	Thargomindah
+TBI	The Bight
+DLS	The Dalles
+ZYH	The Hague
+YQD	The Pas
+TDN	Theda
+TDR	Theodore
+TRM	Thermal
+THP	Thermopolis
+SKG	Thessaloniki
+YTD	Thicket Portage
+TVF	Thief River Falls
+TEY	Thingeyri
+JTR	Thira
+TRV	Thiruvananthapuram
+TED	Thisted
+THY	Thohoyandou
+TVI	Thomasville
+YTH	Thompson
+THM	Thompsonfield
+KTB	Thorne Bay
+THO	Thorshofn
+JTO	Thousand Oaks
+HAI	Three Rivers
+TTH	Thumrait
+YQT	Thunder Bay
+TIS	Thursday Island
+TYG	Thylungra
+TSN	Tianjin
+XTA	Tianjin
+XTF	Tianjin
+TID	Tiaret
+TYB	Tibooburra
+TIB	Tibu
+TJC	Ticantiki
+THI	Tichitt
+TIY	Tidjikja
+TFB	Tifalmin
+TMA	Tifton
+TGJ	Tiga
+TGF	Tignes
+TIJ	Tijuana
+TKM	Tikal
+TPU	Tikapur
+KTH	Tikchik
+TIH	Tikehau Atoll
+TKC	Tiko
+XTV	Tikrit
+IKS	Tiksi
+TIO	Tilin
+TIU	Timaru
+TMD	Timbedra
+TBK	Timber Creek
+TBD	Timbiqui
+TBE	Timbunke
+TMX	Timimoun
+TSR	Timisoara
+YTS	Timmins
+TNC	Tin City
+TIC	Tinak Island
+TCK	Tinboli
+TIN	Tindouf
+TGI	Tingo Maria
+TGX	Tingrela
+TIG	Tingwon
+TIQ	Tinian
+VEX	Tioga
+TMY	Tiom
+TOD	Tioman
+TIE	Tippi
+TPN	Tiputini
+TIA	Tirana
+TRE	Tiree
+TGM	Tirgu Mures
+TII	Tirinkot
+TRZ	Tiruchirapally
+TIR	Tirupati
+YTT	Tisdale
+TIX	Titusville
+TIV	Tivat
+TZM	Tizimin
+TLM	Tlemcen
+TKO	Tlokoeng
+TAB	Tobago
+TYP	Tobermorey
+TOX	Tobolsk
+TOB	Tobruk
+TOC	Toccoa
+TCF	Tocoa
+TOQ	Tocopilla
+TCW	Tocumwal
+YTP	Tofino
+YAZ	Tofino
+GFB	Togiak Fish
+TOG	Togiak Village
+TEW	Tohid
+TKJ	Tok
+TJK	Tokat
+TKI	Tokeen
+TKZ	Tokoroa
+OOK	Toksook Bay
+TKN	Tokunoshima
+TKS	Tokushima
+HND	Tokyo
+NRT	Tokyo
+OKO	Tokyo
+TLO	Tol
+TDZ	Toledo
+TOL	Toledo
+TOW	Toledo
+TDO	Toledo
+TLI	Tolitoli
+TLU	Tolu
+TLC	Toluca
+TPR	Tom Price
+TMG	Tomanggong
+TOM	Tombouctou
+MJX	Toms River
+TOF	Tomsk
+TNH	Tonghua
+TGO	Tongliao
+TGH	Tongoa
+TEN	Tongren
+XSD	Tonopah
+TPH	Tonopah
+XKW	Tonsberg
+TON	Tonu
+TWB	Toowoomba
+FOE	Topeka
+TOP	Topeka
+TCJ	Torembi
+TOK	Torokina
+YKZ	Toronto
+YYZ	Toronto
+YTZ	Toronto
+TRY	Tororo
+TOA	Torrance
+UTL	Torremolinos
+TRC	Torreon
+TSQ	Torres
+TOH	Torres
+TOR	Torrington
+TYF	Torsby
+RAD	Tortola
+TOV	Tortola
+TTB	Tortoli
+TTQ	Tortuquero
+TWP	Torwood
+TNZ	Tosontsengel
+TOT	Totness
+TTJ	Tottori
+TOZ	Touba
+TUQ	Tougan
+TGR	Touggourt
+TOU	Touho
+TLN	Toulon
+XZV	Toulon
+TLS	Toulouse
+XYT	Toulouse
+ELT	Tour Sinai City
+TUF	Tours
+TNF	Toussus-le-noble
+TSV	Townsville
+TOY	Toyama
+TJH	Toyooka
+TOE	Tozeur
+TZX	Trabzon
+TST	Trang
+TPS	Trapani
+TGN	Traralgon
+TDX	Trat
+TVC	Traverse City
+TCB	Treasure Cay
+TRP	Tree Point
+TYT	Treinta-y-Tres
+REL	Trelew
+TRT	Tremonton
+TRX	Trenton
+YTR	Trenton
+OYO	Tres Arroyos
+TQS	Tres Esquinas
+TRS	Trieste
+TRR	Trincomalee
+TDD	Trinidad
+TDA	Trinidad
+TAD	Trinidad
+TND	Trinidad
+POS	Trinidad
+YTI	Triple Island
+KYE	Tripoli
+TIP	Tripoli
+YRQ	Trois-Rivieres
+THN	Trollhattan
+TMT	Trombetas
+TOS	Tromso
+TRH	Trona
+TRD	Trondheim
+TTD	Troutdale
+TOI	Troy
+TKF	Truckee
+TJI	Trujillo
+TRU	Trujillo
+TKK	Truk
+TCS	Truth Or Consequences
+TBY	Tsabong
+TTS	Tsaratanana
+TSZ	Tsetserleg
+TSW	Tsewi
+TSH	Tshikapa
+TSD	Tshipise
+TSI	Tsili Tsili
+WTS	Tsiroanomandidy
+TSB	Tsumeb
+TSJ	Tsushima
+TBC	Tuba City
+TUW	Tubala
+TUB	Tubuai
+AVW	Tucson
+DMA	Tucson
+TUS	Tucson
+TUZ	Tucuma
+TUC	Tucuman
+TCC	Tucumcari
+TUV	Tucupita
+TUR	Tucurui
+TFI	Tufi
+TUG	Tuguegarao
+YUB	Tuktoyaktuk
+TYA	Tula
+TLG	Tulagi Island
+TLR	Tulare
+TUA	Tulcan
+TCE	Tulcea
+TLE	Tulear
+TLD	Tuli Block
+ZFN	Tulita/Fort Norman
+TUH	Tullahoma
+THA	Tullahoma
+TUL	Tulsa
+RVS	Tulsa
+ULQ	Tulua
+YTK	Tulugak
+TLT	Tuluksak
+TUY	Tulum
+TUJ	Tum
+TCO	Tumaco
+TBM	Tumbang Samba
+TBP	Tumbes
+TUX	Tumbler Ridge
+TMO	Tumeremo
+TMI	Tumling Tar
+TLP	Tumolbil
+TUM	Tumut
+TNS	Tungsten
+TUN	Tunis
+WTL	Tuntutuliak
+TNK	Tununak
+TXN	Tunxi
+TPX	Tupai
+TUP	Tupelo
+TUE	Tupile
+TUI	Turaif
+TUK	Turbat
+TRB	Turbo
+ZTA	Tureira
+TRN	Turin
+TKY	Turkey Creek
+CRZ	Turkmenabad
+KRW	Turkmenbashi
+TKU	Turku
+TTL	Turtle Island
+TCL	Tuscaloosa
+TGE	Tuskegee
+TCR	Tuticorin
+WNC	Tuxekan Island
+TGZ	Tuxtla Gutierrez
+TBB	Tuy Hoa
+TZL	Tuzla
+TNP	Twentynine Palms
+TWF	Twin Falls
+TWA	Twin Hills
+TYR	Tyler
+TYD	Tynda
+ZMX	Tynset
+TYE	Tyonek
+TJM	Tyumen
+LTA	Tzaneen
+UAH	Ua Huka
+UAP	Ua Pou
+UAX	Uaxactun
+QUB	Ubari
+UBT	Ubatuba
+UBJ	Ube
+UBA	Uberaba
+UDI	Uberlandia
+UBP	Ubon Ratchathani
+UBR	Ubrub
+UDR	Udaipur
+UDE	Uden
+UDN	Udine
+UDO	Udomxay
+UTH	Udon Thani
+UFA	Ufa
+UGI	Uganik
+UGS	Ugashik
+UHE	Uherske Hradiste
+UGO	Uige
+UJE	Ujae Island
+UPG	Ujung Pandang
+UCT	Ukhta
+UKI	Ukiah
+UKA	Ukunda
+ULN	Ulaanbaatar
+ULO	Ulaangom
+HLH	Ulanhot
+UUD	Ulan-ude
+ULB	Ulei
+ULG	Ulgit
+ULZ	Uliastai
+ULI	Ulithi
+USN	Ulsan
+ULD	Ulundi
+ULX	Ulusaba
+ULY	Ulyanovsk
+UMC	Umba
+UME	Umea
+UMT	Umiat
+YUD	Umiujaq
+UMB	Umnak Island
+UNS	Umnak Island
+UGT	Umnugobitour
+UTT	Umtata
+UMU	Umuarama
+UNA	Una
+UNK	Unalakleet
+UZH	Unayzah
+UDA	Undarra
+UNR	Underkhaan
+UNC	Unguia
+UCY	Union City
+UNI	Union Island
+UNT	Unst Shetland Is
+UPL	Upala
+UPV	Upavon
+JUV	Upernavik
+UPR	Upiara
+UTN	Upington
+CCB	Upland
+JUP	Upland
+UPP	Upolu Point
+UHF	Upper Heyford
+URJ	Uraj
+URA	Uralsk
+YBE	Uranium City
+UGC	Urgench
+URN	Urgoon
+URI	Uribe
+URM	Uriman
+OMH	Urmieh
+URU	Uroubi
+URR	Urrao
+UPN	Uruapan
+URB	Urubupunga
+URG	Uruguaiana
+URC	Urumqi
+URZ	Uruzgan
+USQ	Usak
+USL	Useless Loop
+USH	Ushuaia
+USO	Usino
+USK	Usinsk
+XUX	Ustaoset
+UIK	Ust-Ilimsk
+UKK	Ust-kamenogorsk
+UKX	Ust-Kut
+UTU	Ustupo
+UTP	Utapao
+UIZ	Utica
+UCA	Utica
+ZUA	Utica
+UII	Utila
+UTK	Utirik Island
+UTO	Utopia Creek
+UTC	Utrecht
+UTR	Uttaradit
+UMD	Uummannaq
+UVA	Uvalde
+UVO	Uvol
+UDJ	Uzhgorod
+UZC	Uzice
+VAA	Vaasa
+BDQ	Vadodara
+VDS	Vadso
+VRY	Vaeroy
+VHZ	Vahitahi
+ZBV	Vail/Eagle
+EGE	Vail/Eagle
+QBF	Vail/Eagle
+YOY	Valcartier
+VCF	Valcheta
+VDZ	Valdez
+ZAL	Valdivia
+VAD	Valdosta
+VLD	Valdosta
+VAL	Valenca
+VAF	Valence
+VLC	Valencia
+VLN	Valencia
+VTN	Valentine
+VLV	Valera
+VLS	Valesdir
+VLL	Valladolid
+VLE	Valle
+VDP	Valle De Pascua
+VUP	Valledupar
+VAH	Vallegrande
+VLO	Vallejo
+VMI	Vallemi
+VLR	Vallenar
+VAP	Valparaiso
+EGI	Valparaiso
+VPS	Valparaiso
+VPZ	Valparaiso
+VDE	Valverde
+VAN	Van
+VHN	Van Horn
+YDT	Vancouver
+CXH	Vancouver
+YVR	Vancouver
+XEA	Vancouver
+VLA	Vandalia
+VND	Vangaindrano
+VGG	Vangrieng
+VAI	Vanimo
+VNE	Vannes
+VNR	Vanrook
+VBV	Vanuabalavu
+VRA	Varadero
+VNS	Varanasi
+VAW	Vardoe
+VAG	Varginha
+VRK	Varkaus
+VAR	Varna
+VAC	Varrelbusch
+VVK	Vastervik
+VAT	Vatomandry
+VAU	Vatukoula
+VTF	Vatulele
+VXO	Vaxjo
+VEJ	Vejle
+VUS	Velikij Ustyug
+VLU	Velikiye Luki
+VEE	Venetie
+VNC	Venice
+VCE	Venice
+XVQ	Venice
+TSF	Treviso
+XXE	Vennesla
+OXR	Ventura
+VER	Veracruz
+XXG	Verdal
+YVG	Vermilion
+VEL	Vernal
+YVE	Vernon
+VRB	Vero Beach
+VRN	Verona
+VBS	Verona
+XIX	Verona
+VRS	Versailles
+VEY	Vestmannaeyjar
+VIC	Vicenza
+VCH	Vichadero
+VHY	Vichy
+VIH	Vichy
+VKS	Vicksburg
+YYJ	Victoria
+YWH	Victoria
+ZIC	Victoria
+VTA	Victoria
+VCT	Victoria
+VFA	Victoria Falls
+QVL	Victoria Island
+VCD	Victoria River Downs
+VCV	Victorville
+VDI	Vidalia
+VIA	Videira
+VID	Vidin
+VDM	Viedma
+VNG	Viengxay
+XWC	Vienna
+VDD	Vienna
+VIE	Vienna
+XWW	Vienna
+VTE	Vientiane
+VQS	Vieques
+VIF	Vieste
+VCB	View Cove
+VGO	Vigo
+VGA	Vijayawada
+VRL	Vila Real
+VLP	Vila Rica
+VNX	Vilanculos
+VHM	Vilhelmina
+BVH	Vilhena
+VIB	Villa Constitucion
+VDR	Villa Dolores
+VLG	Villa Gesell
+VME	Villa Mercedes
+VGZ	Villagarzon
+VSA	Villahermosa
+VLM	Villamontes
+VVC	Villavicencio
+VNO	Vilnius
+KNA	Vina del Mar
+OEA	Vincennes
+VII	Vinh City
+XVL	Vinh Long
+VIN	Vinnica
+VIQ	Viqueque
+VRC	Virac
+VIJ	Virgin Gorda
+VIU	Viru
+VIS	Visalia
+VBY	Visby
+VSE	Viseu
+VTZ	Vishakhapatnam
+VTB	Vitebsk
+VIX	Vitoria
+VDC	Vitoria Da Conquista
+VIT	Vitoria.
+VTL	Vittel
+VIV	Vivigani
+OGZ	Vladikavkaz
+VVO	Vladivostok
+VOH	Vohemar
+VOI	Voinjama
+SKS	Vojens
+XJE	Vojens
+VLK	Volgodonsk
+VOG	Volgograd
+VGD	Vologda
+VOL	Volos
+VPN	Vopnafjordur
+VKT	Vorkuta
+VOZ	Voronezh
+VOT	Votuporanga
+VRE	Vredendal
+VRU	Vryburg
+VYD	Vryheid
+ZIE	Vulcano
+VTG	Vung Tau
+WAB	Wabag
+WAO	Wabo
+YWK	Wabush
+WAC	Waca
+CNW	Waco
+ACT	Waco
+CEO	Waco Kungo
+DNI	Wad Medani
+WTN	Waddington
+WAE	Wadi Ad Dawasir
+WDA	Wadi Ain
+WHF	Wadi Halfa
+WGU	Wagau
+AGI	Wageningen
+WET	Wagethe
+WGA	Wagga Wagga
+WGY	Wagny
+WBA	Wahai
+HHI	Wahiawa
+WAH	Wahpeton
+WKL	Waikoloa
+BLW	Waimanalo
+WGP	Waingapu
+AIN	Wainwright
+WIR	Wairoa
+WGN	Waitangi
+NTQ	Wajima
+WJR	Wajir
+KAY	Wakaya Island
+AWK	Wake Island
+WKJ	Wakkanai
+WKN	Wakunai
+WLH	Walaha
+WLC	Walcha
+WDN	Waldron Island
+WAA	Wales
+WGE	Walgett
+ALW	Walla Walla
+WLA	Wallal
+WLS	Wallis Island
+ARG	Walnut Ridge
+RBW	Walterboro
+WLM	Waltham
+WVB	Walvis Bay
+WMX	Wamena
+WAF	Wana
+WKA	Wanaka
+WAG	Wanganui
+WGT	Wangaratta
+AGE	Wangerooge
+AGL	Wanigela
+WTT	Wantoat
+WNU	Wanuma
+WXN	Wanxian
+AXV	Wapakoneta
+WBM	Wapenamanda
+WBC	Wapolu
+WGC	Warangal
+WRA	Warder
+UWA	Ware
+WAR	Waris
+WKB	Warracknabeal
+WRW	Warrawagine
+SZL	Warrensburg
+QRW	Warri
+WMB	Warrnambool
+RRT	Warroad
+WAW	Warsaw
+WAZ	Warwick
+WSO	Washabo
+BWI	Baltimore
+BOF	Washington
+BZS	Washington
+IAD	Dulles, DC
+ZRZ	Washington
+JPN	Washington
+DCA	Washington
+ZWU	Leesburg
+OCW	Washington
+WSG	Washington
+WWA	Wasilla
+WSR	Wasior
+YKQ	Waskaganish
+WSP	Waspam
+WSU	Wasu
+WSA	Wasua
+WUM	Wasum
+KWF	Waterfall
+WAT	Waterford
+WKF	Waterkloof
+ALO	Waterloo
+WLO	Waterloo
+ART	Watertown
+ATY	Watertown
+WVL	Waterville
+YQH	Watson Lake
+WVI	Watsonville
+WUG	Wau
+WUU	Wau
+WAU	Wauchope
+UGN	Waukegan
+UES	Waukesha
+UKN	Waukon
+CWA	Wausau
+AUW	Wausau
+WAV	Wave Hill
+WAN	Waverney
+YXZ	Wawa
+WAJ	Wawoi Falls
+AYS	Waycross
+WAY	Waynesburg
+WEP	Weam
+WES	Weasua
+WEA	Weatherford
+YWP	Webequie
+EBS	Webster City
+WED	Wedau
+EJH	Wedjh
+WEW	Wee Waa
+EPG	Weeping Water
+WRZ	Weerawila
+WEF	Weifang
+WEH	Weihai
+WEI	Weipa
+WEL	Welkom
+WLG	Wellington
+LWL	Wells
+ELZ	Wellsville
+WHL	Welshpool
+YNC	Wemindji
+EAT	Wenatchee
+ENV	Wendover
+WNZ	Wenzhou
+ETB	West Bend
+WTD	West End
+VKW	West Kavik
+XPU	West Kuparuk
+WEM	West Malling
+AWM	West Memphis
+PBI	West Palm Beach
+LNA	West Palm Beach
+KWP	West Point
+WWY	West Wyalong
+WYS	West Yellowstone
+ZTF	Westchester County
+HPN	Westchester County
+GWT	Westerland
+WST	Westerly
+BAF	Westfield
+FOK	Westhampton
+WSZ	Westport
+WRY	Westray
+WSX	Westsound
+WWK	Wewak
+WEX	Wexford
+YLE	Wha Ti/Lac La Martre
+WHK	Whakatane
+YXN	Whale Cove
+WWP	Whale Pass
+WHS	Whalsay
+WRE	Whangarei
+WHT	Wharton
+EAN	Wheatland
+HLG	Wheeling
+NUW	Whidbey Island
+YWS	Whistler
+WMO	White Mountain
+WTR	White River
+YWR	White River
+LEB	White River
+WSD	White Sands
+SSU	White Sulphur Springs
+YZU	Whitecourt
+HIE	Whitefield
+YXY	Whitehorse
+NEN	Whitehouse
+BRG	Whitesburg
+WTZ	Whitianga
+WYA	Whyalla
+YVV	Wiarton
+BEC	Wichita
+CEA	Wichita
+IAB	Wichita
+ICT	Wichita
+KIP	Wichita Falls
+SPS	Wichita Falls
+WIC	Wick
+WIE	Wiesbaden
+WIO	Wilcannia
+WID	Wildenrath
+EWD	Wildman Lake
+WWS	Wildwood
+WWD	Wildwood
+WVN	Wilhelmshaven
+AVP	Wilkes-Barre
+WBW	Wilkes-Barre
+IKB	Wilkesboro
+YWM	Williams Harbour
+YWL	Williams Lake
+PHF	Williamsburg
+IPT	Williamsport
+ISN	Williston
+ILL	Willmar
+LNN	Willoughby
+WOW	Willow
+NXX	Willow Grove
+WLW	Willows
+ILG	Wilmington
+ZWI	Wilmington
+ILM	Wilmington
+ILN	Wilmington
+WUN	Wiluna
+WGO	Winchester
+WND	Windarra
+WDR	Winder
+ERS	Windhoek
+ZWH	Windhoek
+MWM	Windom
+WNR	Windorah
+YQG	Windsor
+BDL	Windsor Locks
+WLD	Winfield
+YWN	Winisk
+INK	Wink
+WMC	Winnemucca
+YWG	Winnipeg
+ONA	Winona
+INW	Winslow
+INT	Winston Salem
+GIF	Winter Haven
+QWP	Winter Park
+WIN	Winton
+WPM	Wipim
+ISS	Wiscasset
+ISW	Wisconsin Rapids
+LNP	Wise
+WSM	Wiseman
+WIT	Wittenoom
+WIU	Witu
+WBN	Woburn
+WOE	Woensdrecht AB
+WTP	Woitape
+WJA	Woja
+OLF	Wolf Point
+ZWL	Wollaston Lake
+WLL	Wollogorang
+WOL	Wollongong
+WOI	Wologissi
+WOT	Wonan
+WDI	Wondai
+WON	Wondoola
+WOA	Wonenara
+WJU	WonJu
+WOK	Wonken
+WOD	Wood River
+BWY	Woodbridge
+WOO	Woodchopper
+WFD	Woodford
+WOG	Woodgreen
+WWI	Woodie Woodie
+WWR	Woodward
+UMR	Woomera
+BJJ	Wooster
+WNE	Wora Na Ye
+ORH	Worcester
+WRL	Worland
+OTG	Worthington
+WTO	Wotho Island
+WTE	Wotje Island
+WRG	Wrangell
+WRH	Wrench Creek
+YWY	Wrigley
+WRO	Wroclaw
+WPK	Wrotham Park
+WUA	Wu Hai
+WUD	Wudinna
+WUH	Wuhan
+WHU	Wuhu
+WNN	Wunnummin Lake
+WUV	Wuvulu Is
+WUX	Wuxi
+WUS	Wuyishan
+WUZ	Wuzhou
+OHR	Wyk Auf Foehr
+WYN	Wyndham
+VJB	Xai Xai
+XGN	Xangongo
+AXE	Xanxere
+XAY	Xayabury
+XIY	Xi An
+SIA	Xi An
+XMN	Xiamen
+XFN	Xiangfan
+XIC	Xichang
+XKH	Xieng Khouang
+XIE	Xienglom
+XIL	Xilinhot
+ZBZ	Xin Hui
+XEN	Xingcheng
+XIN	Xingning
+XNT	Xingtai
+XIG	Xinguara
+ACX	Xingyi
+XNN	Xining
+XUZ	Xuzhou
+BYC	Yacuiba
+GXX	Yagoua
+AYG	Yaguara
+CYT	Yakataga
+FCT	Yakima
+YKM	Yakima
+KUM	Yakushima
+YAK	Yakutat
+YKS	Yakutsk
+KYI	Yalata Mission
+YLG	Yalgoo
+AIG	Yalinga
+KYX	Yalumet
+XMY	Yam Island
+GAJ	Yamagata
+ASK	Yamoussoukro
+YNB	Yanbu
+YNZ	Yancheng
+YNN	Yandicoogina
+XYA	Yandina
+YAN	Yangambi
+RGN	Yangon
+KYB	Yangoonabie
+YNY	Yangyang
+YNJ	Yanji
+YKN	Yankton
+YNT	Yantai
+NSI	Yaounde
+YAO	Yaounde
+YAP	Yap
+KPE	Yapsiei
+AYI	Yari
+YQI	Yarmouth
+IAR	Yaroslavl
+YAS	Yasawa Island
+YES	Yasouj
+KSX	Yasuru
+VAB	Yavarate
+PYV	Yaviza
+AZD	Yazd
+XYE	Ye
+YEC	Yecheon
+KYF	Yeelirrie
+PGE	Yegepa
+EYL	Yelimane
+XYR	Yellow River
+YZF	Yellowknife
+WYE	Yengema
+YEQ	Yenkis
+RSU	Yeosu
+YEO	Yeovilton
+EVN	Yerevan
+EYR	Yerington
+WYB	Yes Bay
+YVD	Yeva
+YBP	Yibin
+YIH	Yichang
+YLN	Yilan
+INC	Yinchuan
+YIN	Yining
+YIW	Yiwu
+YLI	Ylivieska
+JOG	Yogyakarta
+YOK	Yokohama
+YOL	Yola
+YGJ	Yonago
+OGN	Yonaguni Jima
+KGH	Yongai
+THV	York
+ZAC	York Landing
+OKR	Yorke Island
+ORR	Yorketown
+YQV	Yorkton
+ORO	Yoro
+RNJ	Yoronjima
+OYS	Yosemite Ntl Park
+YOT	Yotvata
+NGA	Young
+YNG	Youngstown
+RKC	Yreka
+YUA	Yuanmou
+UCC	Yucca Flat
+YUE	Yuendumu
+RKU	Yule Island
+UYN	Yulin
+YUM	Yuma
+LGF	Yuma
+YCU	Yun Cheng
+YMS	Yurimaguas
+RUF	Yuruf
+UUS	Yuzhno-Sakhalinsk
+ZBK	Zabljak
+ACZ	Zabol
+XZA	Zabre
+ZBE	Zabreh
+ZCL	Zacatecas
+KZB	Zachar Bay
+ZAD	Zadar
+ZAG	Zagreb
+ZAH	Zahedan
+SZI	Zaisan
+ZTH	Zakinthos Is
+AKM	Zakouma
+BBZ	Zambezi
+ZAM	Zamboanga
+ZMM	Zamora
+ANJ	Zanaga
+ZZV	Zanesville
+JWN	Zanjan
+ZNZ	Zanzibar
+APZ	Zapala
+AZT	Zapatoca
+OZH	Zaporozhye
+AFS	Zarafshan
+ZAZ	Zaragoza
+ZAJ	Zaranj
+ZAR	Zaria
+IMO	Zemio
+ZEN	Zenag
+ZPH	Zephyrhills
+ZER	Zero
+HRC	Zhairem
+DMB	Zhambyl
+ZHA	Zhanjiang
+ZAT	Zhaotong
+CGO	Zhengzhou
+DZN	Zhezkazgan
+HJJ	Zhi Jiang
+ZTR	Zhitomir
+PZH	Zhob
+ZGN	Zhongshan
+HSN	Zhoushan
+ZUH	Zhuhai
+IEG	Zielona Gora
+ZIG	Ziguinchor
+ZUL	Zilfi
+ILZ	Zilina
+ZND	Zinder
+GTW	Zlin
+OBL	Zoersel
+ONQ	Zonguldak
+OUZ	Zouerate
+ZUE	Zuenoula
+UGU	Zugapa
+ZYI	Zunyi
+ZRH	Zurich
+ZRS	Zurs/Lech
+WAX	Zwara
+ORD	Chicago
+HKG	Hong Kong
+EWR	Newark
+JNB	Johannesburg
+ABE	Allentown
+ACA	Acapulco
+BAK	Baku
+BUF	Buffalo
+NUE	Nuremberg
+NGO	Nagoya
+ZDM	Ramallah
+YXU	London
+YZD	Toronto
+0A7	Hendersonville
+NCE	Nice
+SAH	Sanaa
+MIR	Monastir
+WDH	Windhoek
+YYT	St. John's
+MSY	New Orleans
+DMM	Dammam
+PIT	Pittsburgh
+FIH	Kinshasa
+GZA	Rafah

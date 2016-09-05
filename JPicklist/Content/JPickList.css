@@ -1,0 +1,46 @@
+﻿/* JPicklist Styles */
+a.btnlink, .JPickListButtons a{
+color: #FFF;
+background-color: #428BCA;
+border-color: #357EBD;
+padding: 5px 16px;
+font-size: 14px;
+line-height: 24px;
+border-radius: 6px;
+margin:0 5px;
+}
+
+.JPickListButtons{
+    text-align:right;
+    margin-top:10px;
+}
+
+.tblJPickListAlphabets{margin:0; list-style-type:none;}
+.tblJPickListAlphabets li { float:left; border:1px dotted  #cccccc; background: white;   color: #0066FF; padding:0 }
+.tblJPickListAlphabets li a { display:block; text-decoration: none; text-transform:uppercase; padding:2px; font-size: 12px; line-height:12px}
+.tblJPickListAlphabets li a.active { text-decoration: none; text-transform:uppercase;background:none repeat scroll 0 0 #cfcfcf; }
+.tblJPickListAlphabets li a:link { text-decoration: none;text-transform:uppercase; }
+.tblJPickListAlphabets li a.active{ border:none; text-decoration: none;text-transform:uppercase;}
+
+.JPickListItemsDiv{
+    margin:0;
+    padding:0;
+    height:270px; overflow-y:auto;width:100%;
+}
+
+.JPickListItemsDiv > ul.picklistItems{
+    list-style-type:none;
+    margin-left:0;
+    padding:0;
+}
+
+.JPickListItemsDiv > ul.picklistItems li{
+    padding:0 5px;
+}
+
+.JPickListItemsDiv > ul.picklistItems li .normaltextblue{
+    font-size:12px;
+    line-height:14px;
+}
+
+/* JPicklist Styles*/
